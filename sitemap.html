@@ -1,0 +1,41 @@
+<html><head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js"></script>
+<script src="https://cdn.rawgit.com/knsv/mermaid/7.0.0/dist/mermaid.min.js"></script>
+<script src="js/sitemap.js"></script>
+<link rel="stylesheet" href="https://cdn.rawgit.com/knsv/mermaid/7.0.0/dist/mermaid.css"/>
+
+<script>
+    mermaid.mermaidAPI.initialize({
+        startOnLoad:false
+    });
+    $(function(){
+        // Example of using the API
+        var element = document.querySelector("#graphDiv");
+
+        var insertSvg = function(svgCode, bindFunctions){
+            element.innerHTML = svgCode;
+        };
+
+        var graph = mermaid.mermaidAPI.render('graphDiv', graphDefinition, insertSvg);
+    });
+</script>
+<style>
+    .node rect, .node circle, .node ellipse, .node polygon {
+        fill: black;
+        stroke: black;
+        stroke-width: 1px;
+    }
+
+    g .nodes {
+        color:  white;
+    }
+
+    g .edgePath{
+        color: black;
+    }
+</style>
+</head>
+<body>
+    hola
+</body>
+</html>

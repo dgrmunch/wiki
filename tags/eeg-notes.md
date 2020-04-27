@@ -1,0 +1,158 @@
+
+# tag: eeg-notes
+
+
+## Brain Waves
+
+ Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Brain Waves](../content/notebook/captures/notes/brain-waves-notes.md)
+
+
+
+  <a class="tag" href="#!tags/neuroscience.md">neuroscience</a>  <a class="tag" href="#!tags/cognitive science.md">cognitive science</a>  <a class="tag" href="#!tags/eeg-notes.md">eeg-notes</a>  <a class="tag" href="#!tags/embodied cognition.md">embodied cognition</a>  <a class="tag" href="#!tags/eeg.md">eeg</a>  <a class="tag" href="#!tags/research.md">research</a>  <a class="tag" href="#!tags/neurophenomenology.md">neurophenomenology</a>  <a class="tag" href="#!tags/philosophy of mind.md">philosophy of mind</a>  <a class="tag" href="#!tags/experiments.md">experiments</a>  <a class="tag" href="#!tags/brain.md">brain</a>  <a class="tag" href="#!tags/situated.md">situated</a>  <a class="tag" href="#!tags/sciart.md">sciart</a>  <a class="tag" href="#!tags/brain waves.md">brain waves</a>  <a class="tag" href="#!tags/notes.md">notes</a>
+
+  --- 
+
+
+
+> Neural oscillations, or brainwaves, are rhythmic or repetitive patterns of neural activity in the central nervous system. Neural tissue can generate oscillatory activity in many ways, driven either by mechanisms within individual neurons or by interactions between neurons. In individual neurons, oscillations can appear either as oscillations in membrane potential or as rhythmic patterns of action potentials, which then produce oscillatory activation of post-synaptic neurons. At the level of neural ensembles, synchronized activity of large numbers of neurons can give rise to macroscopic oscillations, which can be observed in an electroencephalogram. Oscillatory activity in groups of neurons generally arises from feedback connections between the neurons that result in the synchronization of their firing patterns. The interaction between neurons can give rise to oscillations at a different frequency than the firing frequency of individual neurons. A well-known example of macroscopic neural oscillations is alpha activity.  [See source](https://en.wikipedia.org/wiki/Neural_oscillation)
+
+
+Read more about [neuroscience](#!tags/neuroscience.md) in the notes about [erp](#!tags/erp.md), [eeg](#!tags/eeg.md) and [neurophenomenology](#!tags/neurophenomenology.md).
+
+
+ --- 
+
+
+## Electroencephalography (EEG) and the SciArt Lab
+
+ Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Electroencephalography (EEG) and the SciArt Lab](../content/notebook/captures/notes/eeg-notes.md)
+
+
+
+  <a class="tag" href="#!tags/neuroscience.md">neuroscience</a>  <a class="tag" href="#!tags/cognitive science.md">cognitive science</a>  <a class="tag" href="#!tags/eeg-notes.md">eeg-notes</a>  <a class="tag" href="#!tags/embodied cognition.md">embodied cognition</a>  <a class="tag" href="#!tags/eeg.md">eeg</a>  <a class="tag" href="#!tags/research.md">research</a>  <a class="tag" href="#!tags/neurophenomenology.md">neurophenomenology</a>  <a class="tag" href="#!tags/philosophy of mind.md">philosophy of mind</a>  <a class="tag" href="#!tags/experiments.md">experiments</a>  <a class="tag" href="#!tags/brain.md">brain</a>  <a class="tag" href="#!tags/situated.md">situated</a>  <a class="tag" href="#!tags/sciart.md">sciart</a>  <a class="tag" href="#!tags/virtual reality.md">virtual reality</a>  <a class="tag" href="#!tags/brain waves.md">brain waves</a>  <a class="tag" href="#!tags/erp.md">erp</a>  <a class="tag" href="#!tags/notes.md">notes</a>
+
+  --- 
+
+
+### Introduction 
+
+For some time I have been thinking about buying EEG hardware in order to do some [neuroscience](#!tags/neuroscience.md) research for the [SciArt Lab](http://sciartlab.com).
+
+That would allow us to perform our SciArt experiments with a [neurophenomenological](#!tags/neurophenomenology.md) approach in combination with our virtual reality technology and our STEAM educational events. I am particularly interested in the phenomenological aspects of visual perception, specially in VR, artistic production and photography. 
+
+The possibility of getting an affordable neuroscience equipment would allow us to extract raw data from situated/embodied experiences, giving us the possibility of correlating neural activity (see [ERP](#!tags/erp.md)s and [brain waves](#!tags/brain waves.md)) with sensory stimuli within the context of SciArt experiments.
+
+The use of neuroscience to *naturalize* [phenomenological](#!tags/neurophenomenology.md) descriptions within a more analytical framework with actual brain data would really give us a potential tool. 
+
+Additionally, if the EEG device is wireless or easy to carry and we could perform *out-of-the-lab* experiments, capturing data about situations in which embodiment and immersion are crucial, providing a valuable tool to study [situated cognition](#!tags/situated.md).
+
+The whole point so far is about funding. Therefore, right now I am interested in the research possibilities of low-cost EEG, even though this would imply thinking about dramatically reducing the number of EEG channels.
+
+
+### Backyard Brains and DIY Neuroscience
+
+I remember that some years ago, I was walking with my wife through campus of the *University of Michigan* in Ann Arbor. We were sharing deep thoughts and engaged in a conversation about our life and our future research, discussing the potential possibilities of the [Sciart Lab](http://sciartlab.com), what at that time was just in its first steps. 
+
+It was raining but we kept walking and talking. Eventually, we found a sticker on one wall about *Backyard Brains*, an biotech company born in Ann Arbor. It was co-founded by Greg Gage, currently Adjunct Professor in the Department of Molecular & Integrative Physiology at the University of Michigan, and Timothy Marzullo, the current Chief Scientific Officer of the company, who also got his PhD in Neuroscience in town.
+
+The sticker triggered some memories about a fascinating talk I watched time before, in which they showed how to remotely control a cockroach by using low-cost electronics and easy-to-use software for *DIY neuroscience*.
+
+At the end, Backyard Brains was bringing the "making/hacking" mindset to a field traditionally restrained to academic or medical institutions. That was fascinating and I thought that, one day, we would talk to them and test some of their hardware.
+
+Probably that time will come soon, depending on the needs and the funding (not a lot so far). 
+
+
+#### Needs and hardware
+
+* Experimental research in neurophenomenology 
+* Use in VR and Visual/Immersive experiments
+* STEAM projects for kids
+
+* Possible hardware:
+    * https://backyardbrains.com/products/heartAndBrainSpikerShieldBundle
+
+* Doubts
+    * Outcome / data format
+    * Maximum number of EEG channels we can get with the SpikerShield. Scalability and possible "spacial resolution"
+    * Current availability of the hardware  
+    * Possibility of delivering to Spain
+    * APIs, info for developers
+    
+
+### Other products?
+
+
+> The general feeling in the research community is not a lot but more and more people are betting on “more data” over “good data”. Consumer grade products already exist such as Neurosky the original single channel system) and Muse and Melon (3-4 electrodes as far as I can tell). With these devices the emphasis is on making it easy to use and cheap enough for consumer apps and I think there is a lot of value in this (it will drive down costs) but the most interesting (and perhaps controversial) example is the iBrain form NeuroVigil. Founder Philip Low claims to be able to classify brain states and responses with a single channel that other groups have been struggling with using dense EEG arrays for many years. The work is based on his PhD which recently became public after a long patent related embargo and appears to be a simple classification of states based on the most prevalent frequency band in a normalised spectrum for a given epoch (using epochs of 30s). What’s interesting is that the classification is in temporal space although the feature is in frequency space. 
+
+> Ref: https://www.neuroelectrics.com/blog/2014/12/18/single-channel-eeg/
+
+
+
+
+ --- 
+
+
+## Notes about event-related potentials (ERPs)
+
+ Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Notes about event-related potentials (ERPs)](../content/notebook/captures/notes/erp-notes.md)
+
+
+
+  <a class="tag" href="#!tags/neuroscience.md">neuroscience</a>  <a class="tag" href="#!tags/cognitive science.md">cognitive science</a>  <a class="tag" href="#!tags/eeg-notes.md">eeg-notes</a>  <a class="tag" href="#!tags/embodied cognition.md">embodied cognition</a>  <a class="tag" href="#!tags/eeg.md">eeg</a>  <a class="tag" href="#!tags/research.md">research</a>  <a class="tag" href="#!tags/neurophenomenology.md">neurophenomenology</a>  <a class="tag" href="#!tags/philosophy of mind.md">philosophy of mind</a>  <a class="tag" href="#!tags/experiments.md">experiments</a>  <a class="tag" href="#!tags/brain.md">brain</a>  <a class="tag" href="#!tags/situated.md">situated</a>  <a class="tag" href="#!tags/sciart.md">sciart</a>  <a class="tag" href="#!tags/erp.md">erp</a>  <a class="tag" href="#!tags/notes.md">notes</a>
+
+  --- 
+
+
+### Arriving to neuroscience
+
+In 2013 I was collaborating with the **Cognitive Neuroscience Center** at the **UCM-ISCIII for Human Evolution and Behavior**.
+
+At the time I had a strong background in Computer Science, Artificial Intelligence and Systems Biology, but I really wanted to learn more in detail about Neuroscience. Affordable MOOCs were a good resource to get into the field and Coursera and EdX were already available. So I invested my short free time studying online courses from Duke University, MIT or the Hebrew University of Jerusalem. 
+
+I was working full time in IT, and volunteering some hours for the Cognitive Neuroscience Center. Unfortunately, not as much as I wanted but usually, once a week, I meet with Manuel Martín-Loeches and learnt about cognitive neuroscience and EEG. Thanks to Manuel I could have an initial approach to software like SPM, Presentation or EEGLAB, a cool interactive Matlab toolbox for continuous and event-related EEG developed by the University of California at San Diego. I also studied the lab's ERP data, read research papers and got immersed in neuroscience books while enjoying the background noise of coffee shops. Some of the notes of that time are here.
+
+
+### Definition of ERP
+
+> An event-related potential (ERP) is the measured brain response that is the direct result of a specific sensory, cognitive, or motor event. [...] an electrophysiological response to a stimulus. The study of the brain in this way provides a noninvasive means of evaluating brain functioning.
+
+> ERPs are measured by means of electroencephalography (EEG). The magnetoencephalography (MEG) equivalent of ERP is the ERF, or event-related field. Evoked potentials and induced potentials are subtypes of ERPs.  [See source](https://en.wikipedia.org/wiki/Event-related_potential)
+
+
+### Components
+
+> The N400 is a component of time-locked EEG signals known as event-related potentials (ERP). It is a negative-going deflection that peaks around 400 milliseconds post-stimulus onset, although it can extend from 250-500 ms, and is typically maximal over centro-parietal electrode sites. The N400 is part of the normal brain response to words and other meaningful (or potentially meaningful) stimuli, including visual and auditory words, sign language signs, pictures, faces, environmental sounds, and smells.
+The N400 is a component of time-locked EEG signals known as event-related potentials (ERP). It is a negative-going deflection that peaks around 400 milliseconds post-stimulus onset, although it can extend from 250-500 ms, and is typically maximal over centro-parietal electrode sites. The N400 is part of the normal brain response to words and other meaningful (or potentially meaningful) stimuli, including visual and auditory words, sign language signs, pictures, faces, environmental sounds, and smells.
+
+>  The N400 is a negative component, relative to reference electrodes placed on the mastoid processes (the bony ridge behind the ear), and relative to a 100 ms pre-stimulus baseline. Its amplitude can range from -5 to 5 microvolts. However, it is important to note that in studies using the N400 as a dependent measure, the relative amplitude of the waveform compared to another experimental condition (the "N400 effect") is more important than its absolute amplitude. The N400 itself is not always negative—it is just a more negative-going deflection than that seen to other conditions. Its distribution is maximal over centro-parietal electrode sites, and is slightly larger over the left side of the head for visual words, although the distribution can change slightly depending on the eliciting stimulus. [See source](https://en.m.wikipedia.org/wiki/N400)
+
+
+### EEG
+
+* See notes, concepts and articles tagged as [eeg](#!tags/eeg.md)
+
+
+### Psycholinguistics 
+
+#### Psycholinguistics Electrified 
+
+By Marta Kutas, Cyma K. Van Petten, Robert Kluender
+
+> At the scalp an ERP (5-10uV) is substantially smaller in amplitude than the background EEG (50-100 uV) and is, therefore, generally extracted by computer averaging. This involves recording ERPs to repeated presentations of conceptually, if not physically, similar stimuli. Voltage fluctuations generated by neurons, unrelated (or at least not phase-locked) to the processing of the stimuli of interest will be random with respect to stimulus onset time and thus cancel each other, leaving a record of event-related activity. The number of stimuli needed for a reliable average is a function of the amplitude of the ERP component and the question under study: the smaller the component, the more trials that are needed to extract it from the spontaneous EEG (“noise”). The major statistical assumption in averaging is that the signal is indeed time locked to the averaging trigger whereas the “noise” is not. For the early "sensory" portion of the ERP, the time-locking assumption is well-supported. In the case of later portions of the ERP which are instead elicited by higher-level "cognitive" analyses of the stimulus, the latency of the signal may not be invariant with regard to stimulus onset on a trial by trial basis, but there are techniques to
+correct for misalignment.
+
+> The ERP waveform of voltage plotted against post-stimulus time consists of a series of positive and negative peaks; these are typically compared to a pre-stimulus baseline, that is a short (100-200 ms) record of activity (or preferably inactivity) immediately preceding each experimental stimulus, although other baselines are possible. Voltages are thus only negative or positive with respect to
+the baseline.
+
+> The ERP peaks are typically labeled according to their polarity (negative [N] or positive [P]) and latency in milliseconds relative to stimulus onset (e.g., N100, P230, P300). Occasionally, peaks are designated by their polarity and ordinal position in the waveform (e.g., N1, P1, N2). Sometimes, the labels denote a functional description (e.g., mismatch negativity or MMN) or refer to its
+presumed neural generator (e.g., auditory brainstem response) or its most reliable scalp location (e.g., LAN or left anterior negativity). The mix of descriptive and functional labels brings us to the distinction between an ERP peak, readily observed by the eye, and the more abstract concept of a "component" (see Allison, Wood & McCarthy, 1986; Donchin, Ritter & McCallum, 1978).
+
+###### VISUAL WORD RECOGNITION
+
+> Allison and colleagues recorded evoked potentials directly from the cortical surface to a variety of visual stimui -- sinusoidal gratings, pictures of faces, word and nonword letter strings, number strings, and animate (butterflies) and inanimate (cars) objects, etc, -- in a large number of patients with intractable seizures (Allison, McCarthy, Nobre, Puce & Belger, 1994; Allison, Puce, Spencer
+& McCarthy, 1999). The earliest activity in the visual cortex (V1 and V2) was evidenced by N100 and P100 components which are sensitive to luminance, luminance contrast, and stimulus size but not to stimulus category. Other relatively early responses in posterior visual cortex were sensitive to sinuosoidal
+gratings (P120-N180-P260). Approximately 20-30 ms later, category-specific activations were observed in more ventral areas (e.g., P150-N200-N290-N700). For instance, several different cortical patches within extrastriate cortex generated surface negativities with peak latencies around 200 ms (N200), but different patches were specific to faces, objects, or letter strings (Allison et al. 1994; Nobre et al. 1994). Letter-string specific areas in the posterior fusiform gyrus responded equally to words and nonwords, whereas the anterior fusiform gyrus was sensitive to properties of letter strings (Nobre et al., 1994). On the surface of the anterior fusiform gyrus, bilaterally, a P400 component was specific
+to real words; a potential of the opposite polarity (N400) was observed just superior to this region, indicating locally-generated activity (McCarthy et al. 1995). Overall, depth recordings reflect the segregation of the ventral object recognition system into functionally discrete regions.
+
+
+ --- 

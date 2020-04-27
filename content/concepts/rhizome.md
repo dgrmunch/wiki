@@ -24,7 +24,7 @@ tags: epistemology, topology, complexity, knowledge, rhizome,  concepts
 As described [here](https://books.google.fr/books?id=vaXv_yhefG8C), a graph is a pair `G = (V, E)` in which:
 
    *  `V` a set of vertices (also called nodes)
-   * `E ⊆ {{x, y} | (x, y) ∈ V2 ∧ x ≠ y}` a set of edges (also called links), which are unordered pairs of vertices.
+   * `E ⊆ {x, y} | (x, y) ∈ V2 ∧ x ≠ y` a set of edges (also called links), which are unordered pairs of vertices.
 
 
 ## Knowledge Organization

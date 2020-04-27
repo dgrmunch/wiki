@@ -1,33 +1,19 @@
 
 # SciArt Lab Projects
 
-tags: projects, art, science, tech, lab, sciart, virtual reality
+## Future projects
 
-## Research topics
 
-### Sound Synthesis and Computational Music Composition
+* **Neuroscience for kids**: 
 
-Hacking music with both sound synthesis and algorithmic composition, combining experimental music with new technologies. Discovering how coding and music can be combined by prototyping domain-specific languages, enabling self-composed songs with genetic algorithms or re-discovering MIDI controllers to create audio art.
+This project would allow us to perform our SciArt experiments of DIY Neuroscience using EEG low-cost technology in combination with our virtual reality technology and our STEAM educational events. We will be able to explore phenomenological aspects of visual perception, specially in VR, artistic production and photography. 
 
-### Virtual Reality: Building a Lab in a Distributed Metaverse
+The possibility of getting an affordable neuroscience equipment would allow us to extract raw data from situated/embodied experiences, giving us the possibility of correlating neural event-related potentials and brain waves with sensory stimuli within the context of SciArt experiments.
 
-During the last year we have been exploring how the SciArt Lab could contribute to the emergence of the distributed metaverse. We had the chance of testing new virtual reality open-source technologies and develop several WebVR components with a triple goal:
+The use of neuroscience to *naturalize* phenomenological descriptions within a more analytical framework with actual brain data would really give us a potential tool. 
 
-* Create our own immersive experiments in virtual reality for phenomenological and artistic explorations.
-* Contribute to the upcoming 3D Web, sharing content and open-source components with the idea of a future distributed metaverse in mind (built on the top of a-frame + ipfs).
-* Build the facilities of the SciArt Lab in a virtual space, in order to have a place always accessible, independently of our location in the physical world
+Additionally, if the EEG device is wireless or easy to carry and we could perform *out-of-the-lab* experiments, capturing data about situations in which embodiment and immersion are crucial, providing a valuable tool to study situated cognition.
 
-###  Complex Systems and Artificial Life
-
-Studying the emergence of complex behavior in self-organizing systems, such as artificial life simulations, biochemical experiments o social organisms.
-
-###  Data Visualization, Digital Art and Visual Explorations
-
-Some of our projects are focused in the development of data visualization tools. Others explore new ways of expression, visual ethnography and photographic/film representation through the use of physical methods, lighting and digital processing. Others are oriented to computer graphics, artificial systems simulation, educational games and generative art.
-
-### Constructed Languages and Knowledge Representation
-
-Exploring the intersection of artificial agent-based models with constructed languages and discovering news ways for knowledge representation, conscript development and visual languages design.
 
 ## Ongoing projects
 
@@ -55,3 +41,30 @@ Legacy projects which are currently managed by other organization.
 * [GAVC](sciartlab/gavc.md): Generative Art and Visual Complexity: This project aims to explore the potential of algorithmic implementations to generate visual art.
 
 * [Soundbox](https://github.com/SciArtLab/soundbox): Experimental digital environment for synthetic music creation. Transform your voice or your instrument in a MIDI interface.
+
+
+## Research topics
+
+### Sound Synthesis and Computational Music Composition
+
+Hacking music with both sound synthesis and algorithmic composition, combining experimental music with new technologies. Discovering how coding and music can be combined by prototyping domain-specific languages, enabling self-composed songs with genetic algorithms or re-discovering MIDI controllers to create audio art.
+
+### Virtual Reality: Building a Lab in a Distributed Metaverse
+
+During the last year we have been exploring how the SciArt Lab could contribute to the emergence of the distributed metaverse. We had the chance of testing new virtual reality open-source technologies and develop several WebVR components with a triple goal:
+
+* Create our own immersive experiments in virtual reality for phenomenological and artistic explorations.
+* Contribute to the upcoming 3D Web, sharing content and open-source components with the idea of a future distributed metaverse in mind (built on the top of a-frame + ipfs).
+* Build the facilities of the SciArt Lab in a virtual space, in order to have a place always accessible, independently of our location in the physical world
+
+###  Complex Systems and Artificial Life
+
+Studying the emergence of complex behavior in self-organizing systems, such as artificial life simulations, biochemical experiments o social organisms.
+
+###  Data Visualization, Digital Art and Visual Explorations
+
+Some of our projects are focused in the development of data visualization tools. Others explore new ways of expression, visual ethnography and photographic/film representation through the use of physical methods, lighting and digital processing. Others are oriented to computer graphics, artificial systems simulation, educational games and generative art.
+
+### Constructed Languages and Knowledge Representation
+
+Exploring the intersection of artificial agent-based models with constructed languages and discovering news ways for knowledge representation, conscript development and visual languages design.

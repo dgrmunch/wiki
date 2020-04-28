@@ -2,4 +2,4 @@
 
 ## Context for new visitors
 
-* See [about](sciartlab/about.md)
+* See [about](about.md)

@@ -345,4 +345,4 @@ Images from https://freeiconshop.com and the aforementioned book :)
 
 ---
 
-Permalink: http://talks.xmunch.com/testing-notes
+Permalink: http://talks.xmunch.com/effective-unit-testing

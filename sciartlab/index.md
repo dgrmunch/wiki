@@ -1,4 +1,4 @@
-# <SciArt Lab's wiki>
+# The lab
 
 ## Context for new visitors
 

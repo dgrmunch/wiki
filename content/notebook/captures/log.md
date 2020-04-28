@@ -158,3 +158,103 @@ which both the object (noema) and consciousness (noesis) partake
 emerges does so in an open clearing or expanse, delimited by a
 
 
+
+## 27 Apr 2020 at 22:56
+
+> Type: **Quote**
+
+motil ura ule individual molecules would otherwise have.
+Emergence through collective self-organization thus has two as-
+pects. One is local-to-global determination, as a result of which novel
+macrolevel structures and processes emerge. The other is global-to-
+local determination whereby global structures and processes constrain
+local interactions. These global-to-local influences do not take the
+same form as the local-to-global ones: they typically manifest them-
+selves through changes in control parameters (the temperature gra-
+dient in the example above) and boundary conditions rather than
+
+motil ura ule individual molecules would otherwise have.
+Emergence through collective self-organization thus has two as-
+pects. One is local-to-global determination, as a result of which novel
+macrolevel structures and processes emerge. The other is global-to-
+local determination whereby global structures and processes constrain
+local interactions. These global-to-local influences do not take the
+same form as the local-to-global ones: they typically manifest them-
+selves through changes in control parameters (the temperature gra-
+dient in the example above) and boundary conditions rather than
+
+
+62
+## 27 Apr 2020 at 22:58
+
+> Type: **Quote**
+
+62
+The Enactive Approach
+through changes to the individual elements (the fluid molecules) a
+herent and ordered global behaviors, which are described by collective
+variables or order parameters, constrain or govern the behavior of the
+individual components, entraining them so that they no longer have
+the same behavioral alternatives open to them as they would if they
+were not interdependently woven into the coherent and ordered
+global pattern. At the same time, the behavior of the components gen-
+erates and sustains the global order. This two-sided or double determi-
+nation is known as circular causality (Haken 1983).
+Emergence and circular causality are crucially important in the con
+text of neurodynamics. Neuroscience indicates that cognition, emo-
+tion, and action require the transient integration of numerous, widely
+distributed, and constantly interacting brain regions and areas. An
+outstanding question for neuroscience today is to determine the
+mechanisms of this large-scale integration. From a dynamic-system
+perspective, large-scale integration corresponds to the forma
+transient dynamic links between widespread neural popu.
+(Varela et al. 2001). On the one hand, large-scale dynamic pe
+emerge from distributed local neuronal activities. On the other
+large-scale patterns constrain these local activities. Accord
+number of theorists, dynamic instability or metastability is
+large-scale integration because it permits a flexible reperto
+states without the system becoming trapped in any o
+state. 10
+dynamic patterns
+On the other hand,
+cording to a
+lity is crucial to
+pertoire of global
+ny one particular
+mer
+
+62
+The Enactive Approach
+through changes to the individual elements (the fluid molecules) a
+herent and ordered global behaviors, which are described by collective
+variables or order parameters, constrain or govern the behavior of the
+individual components, entraining them so that they no longer have
+the same behavioral alternatives open to them as they would if they
+were not interdependently woven into the coherent and ordered
+global pattern. At the same time, the behavior of the components gen-
+erates and sustains the global order. This two-sided or double determi-
+nation is known as circular causality (Haken 1983).
+Emergence and circular causality are crucially important in the con
+text of neurodynamics. Neuroscience indicates that cognition, emo-
+tion, and action require the transient integration of numerous, widely
+distributed, and constantly interacting brain regions and areas. An
+outstanding question for neuroscience today is to determine the
+mechanisms of this large-scale integration. From a dynamic-system
+perspective, large-scale integration corresponds to the forma
+transient dynamic links between widespread neural popu.
+(Varela et al. 2001). On the one hand, large-scale dynamic pe
+emerge from distributed local neuronal activities. On the other
+large-scale patterns constrain these local activities. Accord
+number of theorists, dynamic instability or metastability is
+large-scale integration because it permits a flexible reperto
+states without the system becoming trapped in any o
+state. 10
+dynamic patterns
+On the other hand,
+cording to a
+lity is crucial to
+pertoire of global
+ny one particular
+mer
+
+

@@ -1,6 +1,6 @@
 # Synthetic Cognitive Development
 
-tags: cognitive science, embodied cognition, dynamical systems, complexity, autopoiesis, artificial intelligence, open ended intelligence, philosophy of mind, dynamical systems theory, self-organization, p2p, distributed
+tags: cognitive science, embodied cognition, dynamical systems, complexity, autopoiesis, artificial intelligence, open ended intelligence, philosophy of mind, dynamical systems theory, self-organization, p2p, distributed, individuation
 
 In 2015, I had the chance of giving a talk about scalable cognition through collaborative sense-making in *The Eighth Conference on Artificial General Intelligence*. 
 

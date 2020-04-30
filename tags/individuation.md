@@ -1,5 +1,5 @@
 
-# tag: open ended intelligence
+# tag: individuation
 
  * [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Synthetic Cognitive Development](../content/notebook/captures/notes/agi-notes.md)
 

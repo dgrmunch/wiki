@@ -156,3 +156,18 @@ to real words; a potential of the opposite polarity (N400) was observed just sup
 
 
  --- 
+
+
+## Brain Waves
+
+ Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Brain Waves](../content/notebook/captures/notes/erp-notes copy.md)
+
+
+
+  <a class="tag" href="#!tags/neuroscience.md">neuroscience</a>  <a class="tag" href="#!tags/cognitive science.md">cognitive science</a>  <a class="tag" href="#!tags/eeg-notes.md">eeg-notes</a>  <a class="tag" href="#!tags/embodied cognition.md">embodied cognition</a>  <a class="tag" href="#!tags/eeg.md">eeg</a>  <a class="tag" href="#!tags/research.md">research</a>  <a class="tag" href="#!tags/neurophenomenology.md">neurophenomenology</a>  <a class="tag" href="#!tags/philosophy of mind.md">philosophy of mind</a>  <a class="tag" href="#!tags/experiments.md">experiments</a>  <a class="tag" href="#!tags/brain.md">brain</a>  <a class="tag" href="#!tags/situated.md">situated</a>  <a class="tag" href="#!tags/sciart.md">sciart</a>  <a class="tag" href="#!tags/erp.md">erp</a>
+
+  --- 
+
+
+
+ --- 

@@ -17,11 +17,11 @@ Nevertheless, phenomenological investigations about personal identity and self-i
 
 ## Looking for Identity
 
-As any other content included in this site, the concept of *identity* does not follow the standardized or generally accepted definition. This wiki provides a map to navigate a subjective ontology (produced by an "individuated" cognitive agent, and therefore based in subjective experiences and reflections) rather than a *knowledge base* built on [consensus](consensus.md).
+As any other content included in this site, the concept of *identity* does not follow the standardized or generally accepted definition. This wiki provides a map to navigate a subjective ontology (produced by an "individuated" cognitive agent, and therefore based on subjective experiences and reflections) rather than a *knowledge base* built on [consensus](consensus.md).
 
-As said, personal identity and the notion of self can be understood as emergent properties of a complex biological system, interdependently embedded in an external ecosystem through dynamic interactions. Self-perception could be just a sophisticated process that enhances our adaptability and decision-making capabilities, producing as many "personalities" and personal narratives as contexts we need to adapt to, linking all together in a chronologically structured personal narrative of episodic memories and conscious experience.
+As said, personal identity and the notion of self can be understood as emergent properties of a complex biological system, interdependently embedded in an external ecosystem through dynamic interactions. Self-perception could be just a sophisticated process that enhances our adaptability and decision-making capabilities, producing as many "personalities" and personal narratives as contexts we need to adapt to, linking all together in a chronologically structured internal-history, basically built on episodic memories and the continuity of conscious experience.
 
-Additionally, from a performative perspective, we could tell that subjects are something different that what they perform in each specific social environment. Actually, we perform multiple roles and behave differently depending on the given context. Most of our interactions with the environment are a consequence of nurture rather than nature and most of the time we are "identified" as static "personas" from a behaviorist viewpoint rather than analyzing our complexity as dynamic complex systems, as biological and cognitive agents.
+Additionally, from a performative perspective, we could tell that subjects are something different that what they perform in each specific social environment. Actually, we perform multiple roles and behave differently depending on the given context. Most of our interactions with the environment are a consequence of nurture rather than nature and most of the time we are "identified" as static "personas" based on context-specific behavior rather than analyzing our complexity as dynamic complex systems, as biological and cognitive agents.
 
 In that regard, identity does not seem an easy concept to describe. Actually, if we assume the existence of multiple cognitive processes with parallel and ephemeral existences, coexisting with each other without the need of permanent dominance but rather just flowing withing our synaptic rhizomes, things can be seen from a different angle. The appearance of the self could also be just an evolutionary artifact, a biologically random accident; in terms of Daniel Dennett, "a kind of convenient fiction".
 
@@ -31,11 +31,24 @@ For years, I  studied identity formation by following traditional methodologies 
 
 Notwithstanding my interest in keeping my subjective experience out of the game, my approach inevitably evolved towards pure [phenomenology](phenomenology.md), introspective self-inquiry and single-subject experiments. Eventually it lead me to the deconstruction of those lower-case identities, what I refer to like "the characters". I started to understand *identity* as something else, closer to John Locke's foundations about the self. And then, I killed Locke and discovered Hume. 
 
-David Hume's approach and his *Bundle Theory of the Self* basically opened the gate for the deconstruction of Decartes *res cogito* and the negation of the existence of a self. Empiricism, Philosophy of Mind, Cognitive Science, Complexity Science, Neurophenomenology... I found interesting clues all over the place; in the works of Daniel Dennett, Thomas Fuchs, Evan Thompson or Thomas Metzinger, but also in the contributions of Jean Paul Sartre, Edmund Husserl, Nishida Kitaro and the praxis and theoretical investigations some zen schools.
+David Hume's approach and his *Bundle Theory of the Self* basically opened the gate for the deconstruction of Decartes *res cogito* and the negation of the existence of a self. Empiricism, Philosophy of Mind, Cognitive Science, Complexity Science, Neurophenomenology... I found interesting clues all over the place; in the works of Daniel Dennett, Thomas Fuchs, Evan Thompson or Thomas Metzinger, but also in the contributions of Jean Paul Sartre, Edmund Husserl, Nishida Kitaro and the praxis and theoretical investigations of some zen schools.
 
 In order to understand the complexity of identity one should deconstruct the dualistic cartesian conception. An attempt can be found in the article [Situated Epoché: towards a phenomenology of identity](../articles/situated.md).
 
-Some useful notes and quotes are displayed below.
+
+## Current research: single-subject experiments
+
+The self and other aggregates of our subjective ontology (objects that only exist as mental entities) constitute the core foundation of our daily life. Therefore, their deconstruction and negation seems quite hard, at least from a practical point of view. 
+
+Assuming that one's self is just an imagined entity, as Daniel Dennett claims with his "illusion of conciousness", and that at the end we are just biological bundles of physical properties and interconnected complex sub-systems such as neurons and other kinds of cells, implies the negation of the dualistic and cartesian notion of personal identity (in line with David Hume's thought, at least in his early work).
+
+This theoretical deconstruction of the notion of the self seems quite easy. Even when diluting our natural attitude during practises such as meditation, our mind still jumps to our default mental modes. In that regard, even though philosophically we can deconstruct our personal identity, to really accept the challenge as part of our normal modes of operation seems far beyond feasible without practice and perseverance, without an actual daily *praxis*. 
+
+This achievement is not impossible though. It is true that our internal narratives continuously tend to be self-reinforced. But phenomenology, as meta-cognition, should be "practiced" under that assumption. Exploring our own subjective ontology and discover more about the appearance of our personal narratives, "our characters", and the way in which they unfold every day is a fascinating subject for [single-subject research](#!tags/single-subject research.md). 
+
+Hacking our [sense-making](sense-making.md) processes and exposing our minds to different kinds of experience beyond the "natural attitude" (Husserlian jargon) could be done with DIY neuroscience and phenomenology. Conducting [neuropheonomenological](#!tags/neuropheonomenology.md) research can allow us to correlate objective observations with subjective experiments and gain further knowledge about human cognition. If you are interested in these topics you can navigate my [notes](#!tags/notes.md).
+
+Some useful quotes and links regarding "identity" are displayed below too.
 
 ## Interesting quotes
 
@@ -69,25 +82,9 @@ Some useful notes and quotes are displayed below.
 
 ---
 
-> "La idea de una substancia [...] no es más que una colección de ideas simples que están unidas por la imaginación y poseen un nombre particular asignado a ellas, por el que somos capaces de recordar para nosotros mismos o los otros esta colección." **David Hume**
-
-
 ## Notes
 
-
-Negating the existence of the soul seems quite easy for somebody with a materialist/naturalist view of reality. If the universe is material, despite the fact of assuming the existence of subjective ontologies causally correlated with biological entities, there is no need to religious thought and supranatural entities such as gods, souls or angels.
-
-However, the self and other aggregates of our subjective ontology (which only exist as mental entities in our brain) constitute kind of a core foundation for our daily life, and their negation seems quite hard, at least from a practical point of view. 
-
-Assuming that ones self is just an imagined entity, as Daniel Dennett claims with his "illusion of conciousness", and that at the end we are just biological bundles of physical properties and interconnected complex sub-systems such as neurons and other kinds of cells, does not seem crazy though.
-
-However, our first-person characters, as part of our subjective ontology, would still like to be expressed and self-reinforced. A way for me to explore my subjective ontology and know more about those characters, there personal narratives and the way in which they unfold every day is a fascinating subject. But writing about it without a continuous theoretical contradiction does not seem easy.
-
-Maybe we should even discard any explicit assignation of meaning through *internal dialogs* and [sense-making](sense-making.md) processes and just open our minds to a different kind of experience.  But even when diluting our notion of self during practises such as meditation, our mind still jumps to our previous mental ontologies.
-
-Being coherent does not seem easy therefore. The use of "I" is already an oxymoron if this text should be coherent with a *negationist* view of the self and provide a valid philosophical argument.
-
-In that sense, to dig into the concept of *identity*, this wiki combines a mixture of different communication/writing styles, notes and poems with contradictory notions and styles.
+Being coherent does not seem easy when talking about personal identity. The use of "I" is already an oxymoron if this text should be coherent with a *negationist* view of the self and provide a valid philosophical argument. In that sense, to dig into the concept of *identity*, this wiki combines a mixture of different communication/writing styles, notes and poems with contradictory notions and styles.
 
 ### Notes about Identity
 

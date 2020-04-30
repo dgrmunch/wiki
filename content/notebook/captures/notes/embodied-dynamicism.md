@@ -52,7 +52,9 @@ However, through the years, and specially during grad school, I became more attr
 
 <treeview></treeview>
 
-## Notes from Thompson's work (Mind in Life)
+## Notes from Evan Thompson's book "Mind in Life"
+
+**Section reference:** Thompson, E., & Press, B. (2007). Mind in Life. Harvard University Press. 
 
 ### Dynamic Systems and Cognitive Science
 
@@ -65,12 +67,11 @@ organized compensations triggered by perturbations, rather than as representatio
 
 > The central idea of the embodied approach is that cognition is the exercise of skillful know-how in situated and embodied action. Cognitive structures and processes emerge from recurrent sensorimotor patterns that govern perception and action in autonomous and situated agents. Cognition as skillful know-how is not reducible to prespecified problem solving, because the cognitive system both poses the problems and specifies what actions need to be taken for their solution.
 
-> Strictly speaking, dynamicism and embodiment are logically independent theoretical commitments. For example, dynamical connectionism incorporates dynamicist ideas into artificial neural networks whereas autonomous
-agents research in robotics incorporates embodiment ideas without ploying dynamic systems theory. 
+> Strictly speaking, dynamicism and embodiment are logically independent theoretical commitments. For example, dynamical connectionism incorporates dynamicist ideas into artificial neural networks whereas autonomous agents research in robotics incorporates embodiment ideas without ploying dynamic systems theory. 
 
 
 ## Enactivism and Virtual Reality
 
-* Hovhannisyan, G., Henson, A., & Sood, S. (2019). Enacting Virtual Reality: The Philosophy and Cognitive Science of Optimal Virtual Experience. Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 11580 LNAI, 225–255. https://doi.org/10.1007/978-3-030-22419-6_17:
+> The standard approach to immersive virtual reality (VR) is arguably “object-centric” in that it aims to design physically realistic virtual experiences. This article deems the object-centric approach both philosophically and theoretically problematic and builds up to an alternative, “action-predicated” approach, whose aim is to simulate virtual experiences with a primary emphasis on pragmatic functionality instead.
 
-The standard approach to immersive virtual reality (VR) is arguably “object-centric” in that it aims to design physically realistic virtual experiences. This article deems the object-centric approach both philosophically and theoretically problematic and builds up to an alternative, “action-predicated” approach, whose aim is to simulate virtual experiences with a primary emphasis on pragmatic functionality instead.
+**Ref:** Hovhannisyan, G., Henson, A., & Sood, S. (2019). Enacting Virtual Reality: The Philosophy and Cognitive Science of Optimal Virtual Experience. Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 11580 LNAI, 225–255. https://doi.org/10.1007/978-3-030-22419-6_17:

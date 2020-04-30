@@ -1,6 +1,6 @@
 
 # tag: embodied dynamicism
 
- * [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Embodied dynamicism](../content/notebook/captures/notes/mind-in-life-notes1.md)
+ * [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Embodied dynamicism](../content/notebook/captures/notes/embodied-dynamicism.md)
 
   * Tags:  <a class="tag" href="#!tags/cognitive science.md">cognitive science</a>  <a class="tag" href="#!tags/embodied cognition.md">embodied cognition</a>  <a class="tag" href="#!tags/dynamical systems.md">dynamical systems</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/autopoiesis.md">autopoiesis</a>  <a class="tag" href="#!tags/biology.md">biology</a>  <a class="tag" href="#!tags/enactive.md">enactive</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/neurophenomenology.md">neurophenomenology</a>  <a class="tag" href="#!tags/philosophy of mind.md">philosophy of mind</a>  <a class="tag" href="#!tags/embodied dynamicism.md">embodied dynamicism</a>  <a class="tag" href="#!tags/dynamical systems theory.md">dynamical systems theory</a>  <a class="tag" href="#!tags/self-organization.md">self-organization</a>  <a class="tag" href="#!tags/virtual reality.md">virtual reality</a>

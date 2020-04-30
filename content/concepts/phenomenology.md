@@ -7,9 +7,15 @@ tags: academic, mind, epistemology, philosophy of mind,  cognitive science, subj
 
 The term *phenomenology* describes a philosophical approach focused on the study of subjective/direct experience. 
 
-Based in the initial work of Edmund Husserl, critical in the philosophical development of Martin Heidegger, Maurice Merleau-Ponty or Jean Paul Sartre, phenomenology attempts to explore the contents of consciousness through first-person research. 
+Based in the initial work of Edmund Husserl, critical in the philosophical development of Martin Heidegger, Maurice Merleau-Ponty, Francisco Varela or Jean Paul Sartre, phenomenology attempts to explore first-person experience through first-person research. 
 
-Phenomenology could be considered a radical observation of raw phenomena, an empirical immersion in the world as it is captured by the senses, without theoretical frameworks, preconceptions and prejudices about reality.
+Phenomenology could be considered a radical observation of raw phenomena, a far-beyond-empirical immersion in the immediate environment as it-is-given within the perceptual field of the subject, without theoretical frameworks, preconceptions and prejudices about phenomena. 
+
+What is experienced in our minds could be sometimes a consequence of sensorial stimuli but, even in those cases, phenomenology does not care about the *objective world out there* but rather about the *experienced world as it is presented* in the subject's awareness. That should not lead to any misconception about phenomenology, as far as it should not be confused with idealism and solipsism. 
+
+Phenomenology does not question the existence of an objective material world. Actually, neurophenomenology works within the domains of natural sciences, specifically cognitive neuroscience. However, phenomenology is not necessarily constrained to the analysis of experience as directly related to an external physical reality, but is rather extensible to other perceptual realms not necessarily correlated with any material world, like virtual reality, hypnagogia or other mental states such as dreaming. 
+
+Therefore, its domain is *the experienced phenomena* in general terms.
 
 
 ## Quotes

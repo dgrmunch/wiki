@@ -37,49 +37,15 @@ In order to improve my note-taking flow, and automatically append thoughts, task
 "Meontology is the philosophical study of non-being."
 
 
-## 26 Apr 2020 at 11:46
 
-> Type: **Quote**
+Page 7
 
-Cany, Irom Husserl's notion of "tran-
-scendence within immanence." (Dupuy 2000, pp. 104–105)
-missed
-aber
-7
-7
-Because this notion of transcendence-within-immanence is often
-misunderstood, it bears clarification here. It does not mean
-Bears to be beyond or outside the sphere of mental activity is really
-contained within the mind in some idealist or internalist sense).
-Rather, the crucial point is that the transcendent is given as such by
-virtue of the intentional activities of consciousness. Thus it falls
-within the sphere of what is phenomenologically constituted (dis-
-closed or brought to awareness by consciousness). Clearly, this point
-makes sense only at a transcendental level, for at this level the tran-
-scendent is understood as a mode of givenness or disclosure (one char-
-acterizing things in the world, but not one's own consciousness).
-Thus, at a transcendental level, what is really or genuinely transcendent
-is also phenomenologically immanent (see Crowell, in press, for further
-discussion).
-The correspondence between phenomenology and dynamic systems
-theory to which Dupuy is pointing should therefore be understood as
-follows. External events are really transcendent, for they are certainly not
-contained within the system, nor are they a mere product of what goes
-inside the system. Nevertheless, they are intentionally immanent, in the
-following sense: they do not arrive already labeled, as it were, as ex-
-ternal events; instead they are constituted or disclosed as such, and
-with the significance they have, by virtue of the network's autonomous
-(self-organizing) dynamics. In other words, their status as external
-events for the system (as opposed to their status for an observer of the
-system) is a function of the system's own activity. Their meaning or sig-
-nificance corresponds to an attractor of the system's dynamics (a re-
-current pattern of activity toward which the system tends), which itself
-is an emergent product of that very dynamics. The external world is
-constituted as such for the system by virtue of the system's self-
-organizing activity. Dupuy's proposal, in a nutshell, is that constitutional
-intentionality corresponds to a kind of self-organization. This proposal, as we
-will see in later chapters, is one of the key guiding intuitions of the en-
-active approach and neurophenomenology.
+What is actually external (or transcendent, in the *husserlian* sense of the term) to the cognitive system is also phenomenologically immanent.  
+
+> The correspondence between phenomenology and dynamic systems
+theory [...] (by Dupuy) should therefore be understood as follows. External events are [...] certainly not contained within the system, nor are they a mere product of what goes inside the system. Nevertheless, they are intentionally immanent, in the following sense: they do not arrive already labeled, as it were, as external events; instead they are constituted or disclosed as such, and with the significance they have, by virtue of the network's autonomous
+(self-organizing) dynamics. In other words, their status as external events for the system (as opposed to their status for an observer of the system) is a function of the system's own activity. Their meaning or significance corresponds to an attractor of the system's dynamics (a recurrent pattern of activity toward which the system tends), which itself
+is an emergent product of that very dynamics. The external world is constituted as such for the system by virtue of the system's self-organizing activity. Dupuy's proposal, in a nutshell, is that constitutional intentionality corresponds to a kind of self-organization. This proposal [...] is one of the key guiding intuitions of the enactive approach and neurophenomenology.
 .
 .
 

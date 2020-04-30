@@ -84,12 +84,6 @@ Some useful quotes and links regarding "identity" are displayed below too.
 
 ## Notes
 
-Being coherent does not seem easy when talking about personal identity. The use of "I" is already an oxymoron if this text should be coherent with a *negationist* view of the self and provide a valid philosophical argument. In that sense, to dig into the concept of *identity*, this wiki combines a mixture of different communication/writing styles, notes and poems with contradictory notions and styles.
+To dig into the concept of *identity*, this wiki combines a mixture of different communication/writing styles, distributed in notes in which you could probably even find contradictory notions.
 
-### Notes about Identity
-
-* [See notes](../../tags/identity-notes.md)
-
-### Automatic Writing / Poems about Identity
-
-* [See poems](../notebook/captures/notes/automatic-writing-identity.md)
+[See notes](../../tags/identity-notes.md)

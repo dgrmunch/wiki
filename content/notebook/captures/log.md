@@ -293,3 +293,231 @@ Examples: https://www.gwern.net/Zeo#zeo-qs (zeo sleep self-experiment)
 * http://fab.cba.mit.edu/classes/863.15/section.Harvard/people/Ricker/htm/Final_Project.html
 * http://www.neuroeducate.com/about-us.html
 * http://learn.neurotechedu.com/contributors/
+
+
+## 29 Apr 2020 at 22:35
+
+> Type: **Quote**
+
+-
+oi autopoiesis. In other words, the local mo-
+lecular effects happen as they do because of the global and organiza-
+tional context in which they are embedded. And it is this global level
+that defines the bacterium as a biological individual and sucrose as
+food.
+Living structures are thus ontologically emergent with respect to mere
+physical structures. They constitute a new order of nature that is qualita-
+tively distinct from the merely physical order. This new order is marked
+by two generic characteristics. The first is that an organism is an indi-
+vidual in a new and precise sense that goes beyond the earlier notion of
+physical individuality. Although Merleau-Ponty earlier stated that "the
+physical form is an individual" (1963, p. 137), he now states that an or-
+ganism "is an individual in a sense which is not that of even modern
+physics" (p. 154). A physical form is an individual in the sense of being
+an invariant topological pattern in a changing material substrate (like a
+convection roll or soap bubble). Individuality in this case corresponds to
+identity of form through material change. A living form, in the autopoi-
+etic sense, is one whose own organization (defining network of rela-
+tions) is the fundamental, morphodynamic invariant through material
+change. An autopoietic system is a circular network whose constituent
+molecular processes both produce and embody that network. Individu-
+ality in this case corresponds to a formal self-identity—to an invariant dy-
+namic pattern that is produced, maintained, and realized by the system
+itself, while the system undergoes incessant material transformation and
+regulates its external boundary conditions accordingly. An autopoietic
+system is thus an individual in a sense that begins to be worthy of the
+term self. The second generic characteristic marking the living order is
+that the relation between organism and environment is meaningful and
+normative. As Figure 3.3 depicts, meaning (or significance or informa-
+tion) is implicated once there is the coupling of a co-defined self-pole
+and environment-pole, and such coupling is intrinsically normative (in
+the biological sense of norms discussed above).
+I will develop this account of life in more detail in Part II. It can be
+
+-
+oi autopoiesis. In other words, the local mo-
+lecular effects happen as they do because of the global and organiza-
+tional context in which they are embedded. And it is this global level
+that defines the bacterium as a biological individual and sucrose as
+food.
+Living structures are thus ontologically emergent with respect to mere
+physical structures. They constitute a new order of nature that is qualita-
+tively distinct from the merely physical order. This new order is marked
+by two generic characteristics. The first is that an organism is an indi-
+vidual in a new and precise sense that goes beyond the earlier notion of
+physical individuality. Although Merleau-Ponty earlier stated that "the
+physical form is an individual" (1963, p. 137), he now states that an or-
+ganism "is an individual in a sense which is not that of even modern
+physics" (p. 154). A physical form is an individual in the sense of being
+an invariant topological pattern in a changing material substrate (like a
+convection roll or soap bubble). Individuality in this case corresponds to
+identity of form through material change. A living form, in the autopoi-
+etic sense, is one whose own organization (defining network of rela-
+tions) is the fundamental, morphodynamic invariant through material
+change. An autopoietic system is a circular network whose constituent
+molecular processes both produce and embody that network. Individu-
+ality in this case corresponds to a formal self-identity—to an invariant dy-
+namic pattern that is produced, maintained, and realized by the system
+itself, while the system undergoes incessant material transformation and
+regulates its external boundary conditions accordingly. An autopoietic
+system is thus an individual in a sense that begins to be worthy of the
+term self. The second generic characteristic marking the living order is
+that the relation between organism and environment is meaningful and
+normative. As Figure 3.3 depicts, meaning (or significance or informa-
+tion) is implicated once there is the coupling of a co-defined self-pole
+and environment-pole, and such coupling is intrinsically normative (in
+the biological sense of norms discussed above).
+I will develop this account of life in more detail in Part II. It can be
+
+
+Page 75, regarding self 
+## 29 Apr 2020 at 22:54
+
+> Type: **Quote**
+
+The Structure of Behavior
+another human subject (1963, p. 166). Human perception is primarily
+directed toward how intentions are expressed in other human beings
+rather than toward objects of nature and their sensory qualities.
+Human perception grasps intentions as "experienced realities," not as
+biects in a detached or intellectual sense. As Merleau-Ponty points
+ut, anticipating subsequent research in developmental psychology.
+the infant's first experienced realities in visual perception are the face
+and gestures of the mother or caregiver. The mother's face is not an
+obiect or a mere collection of sensory qualities, but a center of inten-
+tional expression and action (see, for example, Meltzoff and Moore
+1998; Stern 2000; Trevarthen and Aitken 2001). Perception is thus first
+and foremost physiognomic, and later it is directed toward things as
+use-objects. Perception never loses its physiognomic quality; it remains
+physiognomic not simply in its nascent phases, but in its mature phe-
+nomenal character (an idea that gains importance in Merleau-Ponty's
+subsequent writings)
+By "work," Merleau-Ponty means activities (ensembles of intentional
+actions) that transform physical and living nature and thereby modify
+the milieu or produce a new one (1963, p. 162). Work is forward-
+looking and creative or productive. By altering the present milieu,
+work in effect negates it in favor of a new one. (Merleau-Ponty uses the
+word "work” instead of "action" precisely to convey this Hegelian
+idea.) The correlative form of perception required for work is percep-
+tion that presents its object not as something simply there now (some-
+thing present and actual), but as something of use that can change
+other things (something oriented in relation to the future and possi-
+bilities).
+Whereas living structures are ontologically emergent with respect to
+physical ones, the human structure "perceived situation-work" is emer-
+gent with respect to living structures. It represents a new kind of di-
+cal relation between organism and milieu, or self and world. For
+eason, Merleau-Ponty states: "although all actions permit an
+aptation to life, the word 'life' does not have the same meaning in
+mality and humanity; and the conditions of life are defined by the
+life is the ambiguity of
+milieu is social and cult
+selves. Our symbolic to
+essence of the species" (1963, p. 174). A key feature of human
+ambiguity of its dialectical relation to its milieu. The human
+Social and cultural, and it is created by human beings them-
+ur symbolic forms of behavior enable us to create social and
+
+The Structure of Behavior
+another human subject (1963, p. 166). Human perception is primarily
+directed toward how intentions are expressed in other human beings
+rather than toward objects of nature and their sensory qualities.
+Human perception grasps intentions as "experienced realities," not as
+biects in a detached or intellectual sense. As Merleau-Ponty points
+ut, anticipating subsequent research in developmental psychology.
+the infant's first experienced realities in visual perception are the face
+and gestures of the mother or caregiver. The mother's face is not an
+obiect or a mere collection of sensory qualities, but a center of inten-
+tional expression and action (see, for example, Meltzoff and Moore
+1998; Stern 2000; Trevarthen and Aitken 2001). Perception is thus first
+and foremost physiognomic, and later it is directed toward things as
+use-objects. Perception never loses its physiognomic quality; it remains
+physiognomic not simply in its nascent phases, but in its mature phe-
+nomenal character (an idea that gains importance in Merleau-Ponty's
+subsequent writings)
+By "work," Merleau-Ponty means activities (ensembles of intentional
+actions) that transform physical and living nature and thereby modify
+the milieu or produce a new one (1963, p. 162). Work is forward-
+looking and creative or productive. By altering the present milieu,
+work in effect negates it in favor of a new one. (Merleau-Ponty uses the
+word "work” instead of "action" precisely to convey this Hegelian
+idea.) The correlative form of perception required for work is percep-
+tion that presents its object not as something simply there now (some-
+thing present and actual), but as something of use that can change
+other things (something oriented in relation to the future and possi-
+bilities).
+Whereas living structures are ontologically emergent with respect to
+physical ones, the human structure "perceived situation-work" is emer-
+gent with respect to living structures. It represents a new kind of di-
+cal relation between organism and milieu, or self and world. For
+eason, Merleau-Ponty states: "although all actions permit an
+aptation to life, the word 'life' does not have the same meaning in
+mality and humanity; and the conditions of life are defined by the
+life is the ambiguity of
+milieu is social and cult
+selves. Our symbolic to
+essence of the species" (1963, p. 174). A key feature of human
+ambiguity of its dialectical relation to its milieu. The human
+Social and cultural, and it is created by human beings them-
+ur symbolic forms of behavior enable us to create social and
+
+
+
+Page 77 
+## 29 Apr 2020 at 22:56
+
+> Type: **Quote**
+
+78
+The Enactive Approach
+cultural structures to which we are committed. Yet we refuse to let our-
+selves become identical to them; we are always trying to pass beyond
+them and create new things. In Merleau-Ponty's words: "use-objects
+and cultural objects would not be what they are if the activity which
+brings about their appearance did not also have as its meaning to re-
+ject them and to surpass them" (1963, p. 176; emphasis omitted). This
+self-surpassing mentality is a structural precondition for cultural forms
+in the first place (even while it is always already reciprocally consti-
+tuted by them in any of its concrete instances). Exemplified in the
+human order, this mentality is emergent not simply in relation to the
+living order overall, but also in relation to higher animals (1963, PP-
+175-176).
+a generative phenomenology
+With these ideas, Merleau-Ponty passes from a static and gency
+phenomenology of form or structure to a generative phenon
+of intersubjectivity and culture (or from a phenomenal topology of 1
+ture to a phenomenal topology of culture.)
+In this book, I follow Merleau-Ponty's lead, beginning with life
+velopment, and evolution (Chapters 5-7), then proceeding on
+sciousness (Chapters 8-12), and finally discussing empathy and en
+turation (Chapter 13).
+eginning with life, de-
+oceeding on to con-
+8 empathy and encul
+
+78
+The Enactive Approach
+cultural structures to which we are committed. Yet we refuse to let our-
+selves become identical to them; we are always trying to pass beyond
+them and create new things. In Merleau-Ponty's words: "use-objects
+and cultural objects would not be what they are if the activity which
+brings about their appearance did not also have as its meaning to re-
+ject them and to surpass them" (1963, p. 176; emphasis omitted). This
+self-surpassing mentality is a structural precondition for cultural forms
+in the first place (even while it is always already reciprocally consti-
+tuted by them in any of its concrete instances). Exemplified in the
+human order, this mentality is emergent not simply in relation to the
+living order overall, but also in relation to higher animals (1963, PP-
+175-176).
+a generative phenomenology
+With these ideas, Merleau-Ponty passes from a static and gency
+phenomenology of form or structure to a generative phenon
+of intersubjectivity and culture (or from a phenomenal topology of 1
+ture to a phenomenal topology of culture.)
+In this book, I follow Merleau-Ponty's lead, beginning with life
+velopment, and evolution (Chapters 5-7), then proceeding on
+sciousness (Chapters 8-12), and finally discussing empathy and en
+turation (Chapter 13).
+eginning with life, de-
+oceeding on to con-
+8 empathy and encul

@@ -1,6 +1,6 @@
 # Identity
 
-tags: self, intentionality, being, cognitive science, identity, mind, dualism, narrative, epistemology, ontology, philosophy of mind, concepts
+tags: self, intentionality, being, cognitive science, identity, mind, dualism, narrative, epistemology, ontology, philosophy of mind, concepts, single-subject research
 
 ## Description
 
@@ -29,7 +29,7 @@ My current position on personal identity is based on the advances in cognitive s
 
 For years, I  studied identity formation by following traditional methodologies and formal research. Everything began with synthetic biology and artificial life, with mathematical and computational simulations of social behavior. A quantitative and math-based approach to social research became my main asset. Nonetheless, after finishing grad school I moved towards ethnography, with a methodology with a radically more qualitative flavor, based on social anthropology and focused on ethnic and linguistic clusters. I even published a film titled [Looking for Identity](https://youtu.be/1rUHNIJ7rn0) exploring identity-related issues from an ethnographic perspective.
 
-Notwithstanding my interest in keeping my subjective experience out of the game, my approach inevitably evolved towards pure [phenomenology](phenomenology.md), introspective self-inquiry and single-subject experiments. Eventually it lead me to the deconstruction of those lower-case identities, what I refer to like "the characters". I started to understand *identity* as something else, closer to John Locke's foundations about the self. And then, I killed Locke and discovered Hume. 
+Notwithstanding my interest in keeping my subjective experience out of the game, my approach inevitably evolved towards pure [phenomenology](phenomenology.md), introspective self-inquiry and [single-subject](#!tags/single-subject research.md) experiments. Eventually it lead me to the deconstruction of those lower-case identities, what I refer to like "the characters". I started to understand *identity* as something else, closer to John Locke's foundations about the self. And then, I killed Locke and discovered Hume. 
 
 David Hume's approach and his *Bundle Theory of the Self* basically opened the gate for the deconstruction of Decartes *res cogito* and the negation of the existence of a self. Empiricism, Philosophy of Mind, Cognitive Science, Complexity Science, Neurophenomenology... I found interesting clues all over the place; in the works of Daniel Dennett, Thomas Fuchs, Evan Thompson or Thomas Metzinger, but also in the contributions of Jean Paul Sartre, Edmund Husserl, Nishida Kitaro and the praxis and theoretical investigations of some zen schools.
 

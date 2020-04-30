@@ -29,7 +29,7 @@ Read more about [neuroscience](#!tags/neuroscience.md) in the notes about [erp](
 
 
 
-  <a class="tag" href="#!tags/neuroscience.md">neuroscience</a>  <a class="tag" href="#!tags/cognitive science.md">cognitive science</a>  <a class="tag" href="#!tags/eeg-notes.md">eeg-notes</a>  <a class="tag" href="#!tags/embodied cognition.md">embodied cognition</a>  <a class="tag" href="#!tags/eeg.md">eeg</a>  <a class="tag" href="#!tags/research.md">research</a>  <a class="tag" href="#!tags/neurophenomenology.md">neurophenomenology</a>  <a class="tag" href="#!tags/philosophy of mind.md">philosophy of mind</a>  <a class="tag" href="#!tags/experiments.md">experiments</a>  <a class="tag" href="#!tags/brain.md">brain</a>  <a class="tag" href="#!tags/situated.md">situated</a>  <a class="tag" href="#!tags/sciart.md">sciart</a>  <a class="tag" href="#!tags/virtual reality.md">virtual reality</a>  <a class="tag" href="#!tags/brain waves.md">brain waves</a>  <a class="tag" href="#!tags/erp.md">erp</a>  <a class="tag" href="#!tags/notes.md">notes</a>
+  <a class="tag" href="#!tags/neuroscience.md">neuroscience</a>  <a class="tag" href="#!tags/cognitive science.md">cognitive science</a>  <a class="tag" href="#!tags/eeg-notes.md">eeg-notes</a>  <a class="tag" href="#!tags/embodied cognition.md">embodied cognition</a>  <a class="tag" href="#!tags/eeg.md">eeg</a>  <a class="tag" href="#!tags/research.md">research</a>  <a class="tag" href="#!tags/neurophenomenology.md">neurophenomenology</a>  <a class="tag" href="#!tags/philosophy of mind.md">philosophy of mind</a>  <a class="tag" href="#!tags/experiments.md">experiments</a>  <a class="tag" href="#!tags/brain.md">brain</a>  <a class="tag" href="#!tags/situated.md">situated</a>  <a class="tag" href="#!tags/sciart.md">sciart</a>  <a class="tag" href="#!tags/virtual reality.md">virtual reality</a>  <a class="tag" href="#!tags/brain waves.md">brain waves</a>  <a class="tag" href="#!tags/erp.md">erp</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/single-subject research.md">single-subject research</a>
 
   --- 
 
@@ -38,7 +38,7 @@ Read more about [neuroscience](#!tags/neuroscience.md) in the notes about [erp](
 
 For some time I have been thinking about buying EEG hardware in order to do some [neuroscience](#!tags/neuroscience.md) research for the [SciArt Lab](http://sciartlab.com).
 
-That would allow us to perform our SciArt experiments with a [neurophenomenological](#!tags/neurophenomenology.md) approach in combination with our virtual reality technology and our STEAM educational events. I am particularly interested in the phenomenological aspects of visual perception, specially in VR, artistic production and photography. 
+That would allow us to perform our SciArt experiments with a [neurophenomenological](#!tags/neurophenomenology.md) approach in combination with our virtual reality technology and our STEAM educational events. I am particularly interested  [single-subject research](#!tags/single-subject research.md) and in the phenomenological aspects of visual perception, specially in VR, artistic production and photography. 
 
 The possibility of getting an affordable neuroscience equipment would allow us to extract raw data from situated/embodied experiences, giving us the possibility of correlating neural activity (see [ERP](#!tags/erp.md)s and [brain waves](#!tags/brain waves.md)) with sensory stimuli within the context of SciArt experiments.
 

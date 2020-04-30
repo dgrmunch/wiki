@@ -1,12 +1,12 @@
 # Electroencephalography (EEG) and the SciArt Lab
 
-tags: neuroscience, cognitive science, eeg-notes, embodied cognition, eeg, research, neurophenomenology, philosophy of mind, experiments, brain, situated, sciart, virtual reality, brain waves, erp, notes
+tags: neuroscience, cognitive science, eeg-notes, embodied cognition, eeg, research, neurophenomenology, philosophy of mind, experiments, brain, situated, sciart, virtual reality, brain waves, erp, notes, single-subject research
 
 ## Introduction 
 
 For some time I have been thinking about buying EEG hardware in order to do some [neuroscience](#!tags/neuroscience.md) research for the [SciArt Lab](http://sciartlab.com).
 
-That would allow us to perform our SciArt experiments with a [neurophenomenological](#!tags/neurophenomenology.md) approach in combination with our virtual reality technology and our STEAM educational events. I am particularly interested in the phenomenological aspects of visual perception, specially in VR, artistic production and photography. 
+That would allow us to perform our SciArt experiments with a [neurophenomenological](#!tags/neurophenomenology.md) approach in combination with our virtual reality technology and our STEAM educational events. I am particularly interested  [single-subject research](#!tags/single-subject research.md) and in the phenomenological aspects of visual perception, specially in VR, artistic production and photography. 
 
 The possibility of getting an affordable neuroscience equipment would allow us to extract raw data from situated/embodied experiences, giving us the possibility of correlating neural activity (see [ERP](#!tags/erp.md)s and [brain waves](#!tags/brain waves.md)) with sensory stimuli within the context of SciArt experiments.
 

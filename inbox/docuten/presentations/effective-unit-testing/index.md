@@ -331,8 +331,72 @@ _class : invert
 <br>
 ![](images/bullseye-flat.png)
 
+
+
 ---
 
+<!-- 
+_class : invert
+-->
+
+# Chapter 7: Holy Grail 😉
+
+## Testable design 
+
+---
+
+
+## Modular design
+	
+* In context (ie. Tim Berners lee comment)
+* Test-driving toward modular design:
+
+	<br>
+
+> It’s not just the test-first facet of TDD that spurs modular design. TDD practitioners also refactor their code frequently so they’re constantly looking for too big methods to split, better abstractions to introduce, and duplications to remove.
+
+
+---
+
+<!-- 
+_class : invert
+-->
+
+
+# [SOLID Design Principles]
+
+* **S**INGLE RESPONSIBILITY
+* **O**PEN-CLOSED
+* **L**ISKOV SUBSTITUTION
+* **I**NTERFACE SEGREGATION
+* **D**EPENDENCY INVERSION
+
+
+---
+
+# Guidelines for testable design
+
+
+![](images/document-edit-flat-128x128.png)
+
+---
+<!-- 
+_class : invert
+-->
+
+* Avoid complex private methods
+* Avoid final methods
+* Avoid static methods
+* Use *new* with care
+* Avoid logic in constructors
+* Avoid the Singleton pattern
+* Favor composition over inheritance
+* Wrap external libraries
+* Avoid service lookups
+
+
+
+---
 
 Images from https://freeiconshop.com and the aforementioned book :)
 <br>

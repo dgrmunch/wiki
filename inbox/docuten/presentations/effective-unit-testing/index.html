@@ -236,14 +236,60 @@ to yield.</p>
 <img src="images/bullseye-flat.png" alt="" /></p>
 </blockquote>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="30" data-theme="uncover" style="--theme:uncover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="30" data-class="invert" data-theme="uncover" class="invert" style="--class:invert;--theme:uncover;">
+<h1>Chapter 7: Holy Grail <img class="emoji" draggable="false" alt="😉" src="https://twemoji.maxcdn.com/2/svg/1f609.svg" data-marp-twemoji=""/></h1>
+<h2>Testable design</h2>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="31" data-marpit-fragments="2" data-theme="uncover" style="--theme:uncover;">
+<h2>Modular design</h2>
+<ul>
+<li data-marpit-fragment="1">
+<p>In context (ie. Tim Berners lee comment)</p>
+</li>
+<li data-marpit-fragment="2">
+<p>Test-driving toward modular design:</p>
+  <br />
+</li>
+</ul>
+<blockquote>
+<p>It’s not just the test-first facet of TDD that spurs modular design. TDD practitioners also refactor their code frequently so they’re constantly looking for too big methods to split, better abstractions to introduce, and duplications to remove.</p>
+</blockquote>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="32" data-marpit-fragments="5" data-class="invert" data-theme="uncover" class="invert" style="--class:invert;--theme:uncover;">
+<h1>[SOLID Design Principles]</h1>
+<ul>
+<li data-marpit-fragment="1"><strong>S</strong>INGLE RESPONSIBILITY</li>
+<li data-marpit-fragment="2"><strong>O</strong>PEN-CLOSED</li>
+<li data-marpit-fragment="3"><strong>L</strong>ISKOV SUBSTITUTION</li>
+<li data-marpit-fragment="4"><strong>I</strong>NTERFACE SEGREGATION</li>
+<li data-marpit-fragment="5"><strong>D</strong>EPENDENCY INVERSION</li>
+</ul>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="33" data-theme="uncover" style="--theme:uncover;">
+<h1>Guidelines for testable design</h1>
+<p><img src="images/document-edit-flat-128x128.png" alt="" /></p>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="34" data-marpit-fragments="9" data-class="invert" data-theme="uncover" class="invert" style="--class:invert;--theme:uncover;">
+<ul>
+<li data-marpit-fragment="1">Avoid complex private methods</li>
+<li data-marpit-fragment="2">Avoid final methods</li>
+<li data-marpit-fragment="3">Avoid static methods</li>
+<li data-marpit-fragment="4">Use <em>new</em> with care</li>
+<li data-marpit-fragment="5">Avoid logic in constructors</li>
+<li data-marpit-fragment="6">Avoid the Singleton pattern</li>
+<li data-marpit-fragment="7">Favor composition over inheritance</li>
+<li data-marpit-fragment="8">Wrap external libraries</li>
+<li data-marpit-fragment="9">Avoid service lookups</li>
+</ul>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="35" data-theme="uncover" style="--theme:uncover;">
 <p>Images from <a href="https://freeiconshop.com">https://freeiconshop.com</a> and the aforementioned book :)<br />
 <br /><br />
 <strong>Cheers and thanks, Docuteam!</strong></p>
 <br />
 <p><img src="images/wine-glass-flat-128x128.png" alt="" /></p>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="31" data-theme="uncover" style="--theme:uncover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="36" data-theme="uncover" style="--theme:uncover;">
 <p>Permalink: <a href="http://talks.xmunch.com/effective-unit-testing">http://talks.xmunch.com/effective-unit-testing</a></p>
 </section>
 <script>!function(){"use strict";function t(t){Array.from(document.getElementsByTagName("svg"),e=>{if(e.hasAttribute("data-marpit-svg")){const{clientHeight:r,clientWidth:a}=e;e.style.transform||(e.style.transform="translateZ(0)");const o=t||e.currentScale||1,i=e.viewBox.baseVal.width/o,n=e.viewBox.baseVal.height/o,s=Math.min(r/n,a/i);Array.from(e.querySelectorAll(":scope > foreignObject"),t=>{const e=t.x.baseVal.value,o=t.y.baseVal.value;Array.from(t.querySelectorAll(":scope > section"),t=>{t.style.transformOrigin||(t.style.transformOrigin="0 0");const l=(a-s*i)/2-e,c=(r-s*n)/2-o;t.style.transform=`translate3d(${l}px,${c}px,0) scale(${s}) translate(${e}px,${o}px)`})})}})}const e=(t,e,r)=>{if(t.getAttribute(e)!==r)return t.setAttribute(e,r),!0};function r(a=!0){for(const e of"Apple Computer, Inc."===navigator.vendor?[t]:[])e();Array.from(document.querySelectorAll('svg[data-marp-fitting="svg"]'),t=>{const r=t.firstChild,a=r.firstChild,{scrollWidth:o,scrollHeight:i}=a;let n,s=1;if(t.hasAttribute("data-marp-fitting-code")&&(n=t.parentElement.parentElement),t.hasAttribute("data-marp-fitting-math")&&(n=t.parentElement),n){const t=getComputedStyle(n),e=Math.ceil(n.clientWidth-parseFloat(t.paddingLeft)-parseFloat(t.paddingRight));e&&(s=e)}const l=Math.max(o,s),c=Math.max(i,1),p=`0 0 ${l} ${c}`;e(r,"width",""+l),e(r,"height",""+c),e(t,"preserveAspectRatio",getComputedStyle(t).getPropertyValue("--preserve-aspect-ratio")||"xMinYMin meet"),e(t,"viewBox",p)&&t.classList.toggle("__reflow__")}),a&&window.requestAnimationFrame(()=>r(a))}!function(){if("undefined"==typeof window)throw new Error("Marp Core's browser script is valid only in browser context.");window.marpCoreBrowserScript?console.warn("Marp Core's browser script has already executed."):(Object.defineProperty(window,"marpCoreBrowserScript",{value:!0}),r())}()}();

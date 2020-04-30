@@ -258,3 +258,38 @@ ny one particular
 mer
 
 
+
+## Single-subject design
+
+In design of experiments, single-subject design or single-case research design is a research design most often used in applied fields of psychology, education, and human behavior in which the subject serves as his/her own control, rather than using another individual/group. Researchers use single-subject design because these designs are sensitive to individual organism differences vs group designs which are sensitive to averages of groups. Often there will be large numbers of subjects in a research study using single-subject design, however—because the subject serves as their own control, this is still a single-subject design.[1] These designs are used primarily to evaluate the effect of a variety of interventions in applied research 
+
+https://en.wikipedia.org/wiki/Single-subject_design
+
+----
+
+
+
+
+An N of 1 trial is a clinical trial in which a single patient is the entire trial, a single case study. A trial in which random allocation can be used to determine the order in which an experimental and a control intervention are given to a patient is an N of 1 randomized controlled trial. The order of experimental and control interventions can also be fixed by the researcher.
+
+This type of study has enabled practitioners to achieve experimental progress without the overwhelming work of designing a group comparison study. It can be very effective in confirming causality. This can be achieved in many ways. One of the most common procedures is the ABA withdrawal experimental design, where the patient problem is measured before a treatment is introduced (baseline) and then measured again during the treatment and finally when the treatment has terminated. If the problem vanished during the treatment it can be established that the treatment was effective. But the N=1 study can also be executed in an AB quasi experimental way; this means that causality cannot be definitively demonstrated. Another variation is non-concurrent experimental design where different points in time are compared with one another. This experimental design also has a problem with causality, whereby statistical significance under a frequentist paradigm may be un-interpretable but other methods, such as clinical significance[1] or Bayesian methods should be considered. Many consider this framework to be a proof of concept or hypothesis generating process to inform subsequent, larger clinical trials. 
+
+Design 	Causality 	Use
+A-B 	Quasi experiment 	Often the only possible method
+A-A1-A 	Experiment 	Placebo design where A is no drug and A1 is a placebo
+A-B-A 	Experiment 	Withdrawal design where effects of B phase can be established
+A-B-A-B 	Experiment 	Withdrawal design where effects of B phase can be established
+A-B-A-B-A-B 	Experiment 	Withdrawal design where effects of B phase can be established
+A-B1-B2-B3-Bn-A 	Experiment 	Establishing the effect of different versions of B phase 
+
+https://en.wikipedia.org/wiki/N_of_1_trial
+
+Examples: https://www.gwern.net/Zeo#zeo-qs (zeo sleep self-experiment)
+
+
+### Brain hacking / neurohackers
+
+* http://fab.cba.mit.edu/classes/863.15/section.Harvard/people/Ricker/
+* http://fab.cba.mit.edu/classes/863.15/section.Harvard/people/Ricker/htm/Final_Project.html
+* http://www.neuroeducate.com/about-us.html
+* http://learn.neurotechedu.com/contributors/

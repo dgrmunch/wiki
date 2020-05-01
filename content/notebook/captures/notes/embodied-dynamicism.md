@@ -70,6 +70,18 @@ organized compensations triggered by perturbations, rather than as representatio
 > Strictly speaking, dynamicism and embodiment are logically independent theoretical commitments. For example, dynamical connectionism incorporates dynamicist ideas into artificial neural networks whereas autonomous agents research in robotics incorporates embodiment ideas without ploying dynamic systems theory. 
 
 
+### Circular causality in neurodynamics
+
+> Emergence through collective self-organization thus has two aspects. One is local-to-global determination, as a result of which novel macrolevel structures and processes emerge. The other is global-to-local determination whereby global structures and processes constrain local interactions. These global-to-local influences do not take the same form as the local-to-global ones: they typically manifest themselves through changes in control parameters. 
+
+> This two-sided or double determination is known as **circular causality**
+
+> Emergence and circular causality are crucially important in the context of neurodynamics. Neuroscience indicates that cognition, emotion, and action require the transient integration of numerous, widely distributed, and constantly interacting brain regions and areas. An outstanding question for neuroscience today is to determine the mechanisms of this large-scale integration. 
+
+**Ref:** *page 62*
+
+
+
 ## Enactivism and Virtual Reality
 
 > The standard approach to immersive virtual reality (VR) is arguably “object-centric” in that it aims to design physically realistic virtual experiences. This article deems the object-centric approach both philosophically and theoretically problematic and builds up to an alternative, “action-predicated” approach, whose aim is to simulate virtual experiences with a primary emphasis on pragmatic functionality instead.

@@ -86,6 +86,16 @@ Probably that time will come soon, depending on the needs and the funding (not a
 
 > Ref: https://www.neuroelectrics.com/blog/2014/12/18/single-channel-eeg/
 
+### Useful resources
+
+#### Brain hacking / neurohackers
+
+* https://github.com/NeuroTechX/awesome-bci
+* http://fab.cba.mit.edu/classes/863.15/section.Harvard/people/Ricker/htm/Final_Project.html
+* http://www.neuroeducate.com/about-us.html
+* http://learn.neurotechedu.com/contributors/
+* https://www.gwern.net/Zeo#zeo-qs (zeo sleep self-experiment)
+
 
 
 

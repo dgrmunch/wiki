@@ -36,7 +36,9 @@ The ​logo ​of ​the ​SciArt ​Lab ​is ​simply ​a ​new ​perspec
 
 Multidisciplinary researcher, software engineer, visual ethnographer, DIY nerd and digital artist.
 
-[Read more](http://www.xmunch.com/)
+You can read his [personal wiki](http://wiki.xmunch.com) to discover part of the theoretical background of the organization. Actually, you will find there [random notes related with the lab](http://wiki.xmunch.com/#!tags/sciart.md).
+
+For more information [visit his personal site](http://www.xmunch.com/).
 
 #### PAULA MORALES, PHD
 

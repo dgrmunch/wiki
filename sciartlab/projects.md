@@ -14,7 +14,6 @@ The use of neuroscience to *naturalize* phenomenological descriptions within a m
 
 Additionally, if the EEG device is wireless or easy to carry and we could perform *out-of-the-lab* experiments, capturing data about situations in which embodiment and immersion are crucial, providing a valuable tool to study situated cognition.
 
-
 ## Ongoing projects
 
 * [Alda-tabs](https://dgrmunch.github.io/blog/blog/2017/alda-tabs.html): Domain Specific Language for Guitar Players in the Java Virtual Machine: A piece of software to help guitar players to “execute” their music notes in the JVM, compose songs and get audio feedback with basic tab syntax.

@@ -36,9 +36,9 @@ Legacy projects which are currently managed by other organization.
 
 * [xmunch atomspace](https://github.com/dgrmunch/xmunch-atomspace/wiki): Visual tool for the dynamic construction of neural and semantic networks for knowledge representation, reasoning and learning in an abstract space of atoms.
 
-* [SciArt 2D Simulator](sciartlab/sciart2DSimulator.md): 2D Graphics Engine for agent-based modeling, artificial life and educational games.
+* [SciArt 2D Simulator](projects/sciart2DSimulator.md): 2D Graphics Engine for agent-based modeling, artificial life and educational games.
 
-* [GAVC](sciartlab/gavc.md): Generative Art and Visual Complexity: This project aims to explore the potential of algorithmic implementations to generate visual art.
+* [GAVC](projects/gavc.md): Generative Art and Visual Complexity: This project aims to explore the potential of algorithmic implementations to generate visual art.
 
 * [Soundbox](https://github.com/SciArtLab/soundbox): Experimental digital environment for synthetic music creation. Transform your voice or your instrument in a MIDI interface.
 

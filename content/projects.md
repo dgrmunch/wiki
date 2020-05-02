@@ -4,7 +4,7 @@ tags: projects, tech, software engineer, art, photography
 
 ## SciArt Lab
 
-Most of my Research & Development and Open Source coding projects can be found in the [projects section](https://filedn.com/lzKR35HlP1yHLFtV0oLTAku/wiki/sciartlab.html#!content/projects/sciartlab.md) of the [SciArt Lab](http://sciartlab.com) website.
+Most of my Research & Development and Open Source coding projects can be found in the [projects section](http://wiki.sciartlab.com/#!projects.md) of the [SciArt Lab](http://sciartlab.com) website.
 
 [![](../images/sciartlogo.png)](http://www.sciartlab.com)
 

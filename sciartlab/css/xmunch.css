@@ -134,8 +134,12 @@ a {
 }
 
 #md-page-menu .list-group-item {
-    background-color: black;
+    background-color: #4f6c7b;
     color: white;
+}
+
+#md-body{
+    font-size: 86% !important;
 }
 
 #md-page-menu .list-group-item a {

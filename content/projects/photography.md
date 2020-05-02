@@ -1,6 +1,6 @@
 # Photography
 
-tags: photography, art, projects
+tags: photography, art, projects, sciart
 
 ## Introduction
 

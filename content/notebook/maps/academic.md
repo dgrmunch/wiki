@@ -1,6 +1,6 @@
 # Academic path
 
-tags: academic, history, path, visual, map, artificial intelligence, systems biology, complexity, research, curriculum, ethnography
+tags: academic, history, path, visual, map, artificial intelligence, systems biology, complexity, research, curriculum, ethnography, sciart
 
 ## Introduction
 

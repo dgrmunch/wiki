@@ -164,5 +164,11 @@ presumed neural generator (e.g., auditory brainstem response) or its most reliab
 gratings (P120-N180-P260). Approximately 20-30 ms later, category-specific activations were observed in more ventral areas (e.g., P150-N200-N290-N700). For instance, several different cortical patches within extrastriate cortex generated surface negativities with peak latencies around 200 ms (N200), but different patches were specific to faces, objects, or letter strings (Allison et al. 1994; Nobre et al. 1994). Letter-string specific areas in the posterior fusiform gyrus responded equally to words and nonwords, whereas the anterior fusiform gyrus was sensitive to properties of letter strings (Nobre et al., 1994). On the surface of the anterior fusiform gyrus, bilaterally, a P400 component was specific
 to real words; a potential of the opposite polarity (N400) was observed just superior to this region, indicating locally-generated activity (McCarthy et al. 1995). Overall, depth recordings reflect the segregation of the ventral object recognition system into functionally discrete regions.
 
+### Online material
+
+* Introduction to Cognitive Neuroscience MIT: https://ocw.mit.edu/high-school/biology/introduction-to-cognitive-neuroscience/video-lectures/lecture-1/
+* Awesome BCI Resources: https://github.com/NeuroTechX/awesome-bci
+* EEG Notebooks by NeuroTechX: https://eeg-notebooks.readthedocs.io/en/latest/index.html
+
 
  --- 

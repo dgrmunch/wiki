@@ -138,10 +138,6 @@ a {
     color: white;
 }
 
-#md-body{
-    font-size: 86% !important;
-}
-
 #md-page-menu .list-group-item a {
     color: white;
     font-size: 90%;
@@ -149,6 +145,9 @@ a {
 
 .img-thumbnail {
     padding: 0px !important;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 code {

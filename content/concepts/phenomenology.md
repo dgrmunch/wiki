@@ -64,4 +64,4 @@ necessarily implicates “horizon” taken noetically as a structure of consciou
 
 ## Notes
 
-* [See notes](../../tags/phenomenol
+* [See notes](../../tags/phenomenology-notes.md)

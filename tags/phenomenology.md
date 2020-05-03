@@ -13,6 +13,9 @@
  * [articles](../content/articles.md) >  [Situated Epoché: towards a phenomenology of identity](../content/articles/situated.md)
 
   * Tags:  <a class="tag" href="#!tags/mind.md">mind</a>  <a class="tag" href="#!tags/self.md">self</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/philosophy of mind.md">philosophy of mind</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/articles.md">articles</a>  <a class="tag" href="#!tags/spanish.md">spanish</a>
+ * [concepts](../content/concepts.md) >  [Phenomenology](../content/concepts/phenomenology (conflicted).md)
+
+  * Tags:  <a class="tag" href="#!tags/academic.md">academic</a>  <a class="tag" href="#!tags/mind.md">mind</a>  <a class="tag" href="#!tags/epistemology.md">epistemology</a>  <a class="tag" href="#!tags/philosophy of mind.md">philosophy of mind</a>  <a class="tag" href="#!tags/cognitive science.md">cognitive science</a>  <a class="tag" href="#!tags/subjective.md">subjective</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/concepts.md">concepts</a>
  * [concepts](../content/concepts.md) >  [Pathways](../content/concepts/pathways.md)
 
   * Tags:  <a class="tag" href="#!tags/topology.md">topology</a>  <a class="tag" href="#!tags/ethnography.md">ethnography</a>  <a class="tag" href="#!tags/mind.md">mind</a>  <a class="tag" href="#!tags/ontology.md">ontology</a>  <a class="tag" href="#!tags/philosophy of mind.md">philosophy of mind</a>  <a class="tag" href="#!tags/history.md">history</a>  <a class="tag" href="#!tags/networks.md">networks</a>  <a class="tag" href="#!tags/rhizome.md">rhizome</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/subjective.md">subjective</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/path.md">path</a>  <a class="tag" href="#!tags/concepts.md">concepts</a>
@@ -34,6 +37,9 @@
  * [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Phenomenology Notes in Spanish](../content/notebook/captures/notes/phenomenology-notes.md)
 
   * Tags:  <a class="tag" href="#!tags/spanish.md">spanish</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/phenomenology-notes.md">phenomenology-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>
+ * [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Lucid Dreaming](../content/notebook/captures/notes/lucid-dreaming-notes.md)
+
+  * Tags:  <a class="tag" href="#!tags/eeg.md">eeg</a>  <a class="tag" href="#!tags/lucid-dreaming.md">lucid-dreaming</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/neuroscience.md">neuroscience</a>  <a class="tag" href="#!tags/cognitive science.md">cognitive science</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/neurophenomenology.md">neurophenomenology</a>  <a class="tag" href="#!tags/erp.md">erp</a>  <a class="tag" href="#!tags/research.md">research</a>
  * [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Phenomenology pending readings](../content/notebook/captures/notes/phenomenology-readings.md)
 
   * Tags:  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/phenomenology-notes.md">phenomenology-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>

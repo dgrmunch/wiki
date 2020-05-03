@@ -13,7 +13,7 @@ Phenomenology could be considered a radical observation of raw phenomena, a far-
 
 What is experienced in our minds could be sometimes a consequence of sensorial stimuli but, even in those cases, phenomenology does not care about the *objective world out there* but rather about the *experienced world as it is presented* in the subject's awareness. What is actually external (or transcendent, in the *husserlian* sense of the term) to the cognitive system is also phenomenologically immanent.  
 
-> The correspondence (by Dupuy) between phenomenology and dynamic systems theory [...]  should be understood as follows. External events are [...] certainly not contained within the system, nor are they a mere product of what goes inside the system. Nevertheless, they are intentionally immanent, in the following sense: they do not arrive already labeled, as it were, as external events; instead they are constituted or disclosed as such, and with the significance they have, by virtue of the network's autonomous (self-organizing) dynamics. In other words, their status as external events for the system (as opposed to their status for an observer of the system) is a function of the system's own activity. Their meaning or significance corresponds to an attractor of the system's dynamics (a recurrent pattern of activity toward which the system tends), which itself is an emergent product of that very dynamics. The external world is constituted as such for the system by virtue of the system's self-organizing activity. Dupuy's proposal, in a nutshell, is that constitutional intentionality corresponds to a kind of self-organization. This proposal [...] is one of the key guiding intuitions of the enactive approach and neurophenomenology. **Reference:** **Thompson, E., & Press, B. (2007). Mind in Life. Harvard University Press, Page 7.**
+> The correspondence (by Dupuy) between phenomenology and dynamic systems theory [...]  should be understood as follows. External events are [...] certainly not contained within the system, nor are they a mere product of what goes inside the system. Nevertheless, they are intentionally immanent, in the following sense: they do not arrive already labeled, as it were, as external events; instead they are constituted or disclosed as such, and with the significance they have, by virtue of the network's autonomous (self-organizing) dynamics. In other words, their status as external events for the system (as opposed to their status for an observer of the system) is a function of the system's own activity. Their meaning or significance corresponds to an attractor of the system's dynamics (a recurrent pattern of activity toward which the system tends), which itself is an emergent product of that very dynamics. The external world is constituted as such for the system by virtue of the system's self-organizing activity. Dupuy's proposal, in a nutshell, is that constitutional intentionality corresponds to a kind of self-organization. This proposal [...] is one of the key guiding intuitions of the enactive approach and neurophenomenology. **Reference:** <cite>Thompson, E., & Press, B. (2007). Mind in Life. Harvard University Press, Page 7.</cite>
 
 Phenomenology does not question the existence of an objective material world, and therefore it should not be confused with idealism, solipsism and [non-materialist pseudoscience](https://rationalwiki.org/wiki/Non-materialist_neuroscience). Actually, contemporary neurophenomenology works within the domains of natural sciences, specifically cognitive neuroscience.
 
@@ -36,7 +36,7 @@ Therefore, its domain is *the experienced phenomena* in general terms.
 
 ### Merleau-Ponty on perception and behavior
 
-**Section reference:** Thompson, E., & Press, B. (2007). Mind in Life. Harvard University Press. 
+**Section reference:** <cite>Thompson, E., & Press, B. (2007). Mind in Life. Harvard University Press.</cite> 
 
 > Human perception is primarily directed toward how intentions are expressed in other human beings rather than toward objects of nature and their sensory qualities. Human perception grasps intentions as "experienced realities," not as objects in a detached or intellectual sense. [...]
 
@@ -56,7 +56,7 @@ of intersubjectivity and culture (or from a phenomenal topology of structure to 
 
 ### Edmund Husserl's noetical horizon
 
-**Section reference:** Thompson, E., & Press, B. (2007). Mind in Life. Harvard University Press. 
+**Section reference:** <cite>Thompson, E., & Press, B. (2007). Mind in Life. Harvard University Press. </cite>
 
 > A horizon is not a thing "out there” but rather a structure of appearance. It therefore implicates or points back to the perceiver for whom appearances are so structured. In phenomenological language, “horizon” taken noematically as a structure of appearance
 necessarily implicates “horizon” taken noetically as a structure of consciousness. One could say that a horizon is the precondition for the appearance of anything, except that “precondition" is too static. Stated in a genetic register, a horizon is a dynamic structure of disclosure in which both the object (noema) and consciousness (noesis) partake.
@@ -64,4 +64,4 @@ necessarily implicates “horizon” taken noetically as a structure of consciou
 
 ## Notes
 
-* [See notes](../../tags/phenomenology-notes.md)
+* [See notes](../../tags/phenomenol

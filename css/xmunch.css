@@ -97,6 +97,20 @@
 }
 
 
+cite{
+    
+background-color: #fffecd;
+font-family: monospace;
+font-size: 70%;
+padding: 2px;
+padding-right: 2px;
+padding-left: 2px;
+border: 1px dashed #9d9a02;
+padding-left: 10px;
+padding-right: 10px;
+
+}
+
 .img-thumbnail {
     padding: 0px !important;
     display: block;

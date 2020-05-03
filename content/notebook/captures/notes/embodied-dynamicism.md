@@ -54,7 +54,7 @@ However, through the years, and specially during grad school, I became more attr
 
 ## Notes from Evan Thompson's book "Mind in Life"
 
-**Section reference:** Thompson, E., & Press, B. (2007). Mind in Life. Harvard University Press. 
+**Section reference:** <cite>Thompson, E., & Press, B. (2007). Mind in Life. Harvard University Press.</cite> 
 
 ### Dynamic Systems and Cognitive Science
 

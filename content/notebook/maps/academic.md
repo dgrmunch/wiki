@@ -45,7 +45,7 @@ The building blocks of life, individuals and societies were just **self-organize
 
 I did not have a straight pathway, but rather a rhizomatic exploration of knowledge. After finishing both degrees, I moved for some months to the United States and had a research placement in the Artificial Intelligence Lab of the University of North Carolina at Greensboro. I improved my English, my communication skills, my ideas about research and, above all, my worldview.
 
-When I came back to Spain, I prioritized looking for some funding and professional experience, so I started working as consultant and developer in IT. At the same time, I starting collaborating with the *Cognitive Neuroscience Center UCM-ISCIII for Human Evolution and Behavior* and kept volunteering in non-profit organizations. So I was partially focused in Cognitive Neuroscience, partially focused in Social Complexity, and partially focused in Computer Science and Software Engineering.
+When I came back to Spain, I prioritized looking for some funding and professional experience, so I started working as consultant and developer in IT. At the same time, I starting collaborating with the *Cognitive Neuroscience Center UCM-ISCIII for Human Evolution and Behavior* and kept volunteering in non-profit organizations. So I was partially focused in **[Cognitive Neuroscience](../../../tags/neuroscience.md)**, partially focused in Social Complexity, and partially focused in Computer Science and Software Engineering. 
 
 Some years later, I got a **PhD in Information Science** after doing some computational modeling of complex adaptive systems and writing several articles, book chapters and a dissertation about _peer-to-peer_ systems.
 
@@ -122,9 +122,13 @@ So basically I came back to the original questions, to my doubts and interests o
 
 This explanation can be useful to understand the theoretical foundations of this site and the personal/academic/professional path which precedes my current stage.
 
-Currently, I pursue the quest for the understanding of human complexity through different tools, specially philosophy of mind, photography and theoretical cognitive science. Trying to decipher the node in order to transform the network. Trying to come up with a rhizomatic philosophy through this wiki, an endless philosophical project.
+Currently, I keep alive the **SciArt Lab**, exploring from a multidisciplinary perspective different aspects of human potential, embracing both science, technology and humanities.
 
-I still work in IT, and for some time I have been leading _Research and Development_ tasks regarding Distributed Technologies as **Software Engineer & Blockchain Expert** in *Docuten*, I have been responsible of the evolution of our technological stack in terms of decentralization and blockchain-based innovation, towards a model in which traditional third-party solutions can be replaced by P2P technologies. Basically, pushing enterprises towards the _complex adaptive systems_ paradigm, towards a model based on freedom and self-organization rather than centralization.
+I pursue the quest for the understanding of human complexity through different tools, specially [DIY neuroscience](../../../tags/neuroscience.md), philosophy of mind, photography and theoretical cognitive science. Trying to decipher the node in order to transform the network. Trying to come up with a rhizomatic philosophy about the human experience through this wiki, an endless philosophical project.
 
-At the same time, I keep alive the **SciArt Lab**, exploring from a multidisciplinary perspective different aspects of human potential, embracing both science, technology and humanities.
+I still work in IT, and for some time I have been leading _Research and Development_ tasks regarding Distributed Technologies as **Software Engineer & Blockchain Expert** in *Docuten*, I have been responsible of the evolution of our technological stack in terms of decentralization and blockchain-based innovation, towards a model in which traditional third-party solutions can be replaced by P2P technologies. Basically, pushing enterprises towards the _complex adaptive systems_ paradigm, towards a model based on freedom and self-organization rather than centralization. 
+
+I am basically a person who loves to learn, to read, to test, to hack, to explore, to create...
+A a maker, a hacker, a coder, a traveler. An explorer. A knowledge nerd :)
+
 

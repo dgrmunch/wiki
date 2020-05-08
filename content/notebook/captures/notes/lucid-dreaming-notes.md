@@ -1,7 +1,7 @@
 
-# Lucid Dreaming
+# Meta-cognition and Lucid Dreaming
 
-tags: eeg, lucid-dreaming, notes, neuroscience, cognitive science, phenomenology, neurophenomenology, erp, research
+tags: eeg, lucid-dreaming, notes, neuroscience, cognitive science, phenomenology, neurophenomenology, erp, research, meta-cognition
 
 ## Neuroscience research
 
@@ -25,6 +25,6 @@ Some images from both studies are shown below:
 
 It seems intuitive that meta-cognition has a direct effect on lucid dreaming. Actually, lucid dreaming can emerge as an artifact or epiphenomenon if meta-cognition is trained. Performing phenomenology on a daily basis, and developing routines involved in self-reflection, could lead to lucid dreaming.
 
-Some evidence is provided in studies like <cite>Filevich, E., Dresler, M., Brick, T. R., & Kühn, S. (2015). Metacognitive mechanisms underlying lucid dreaming. Journal of Neuroscience, 35(3), 1082–1088. https://doi.org/10.1523/JNEUROSCI.3342-14.2015</cite>, where they compared the *voxel-based morphometry (VBM)* differences between the two lucidity groups based on brain imaging. The "high-lucidity group showed greater gray matter volume in two separate clusters within BA9/10, in right ACC, left SMA and hippocampus bilaterally." 
+Some evidence is provided in studies like <cite>Filevich, E., Dresler, M., Brick, T. R., & Kühn, S. (2015). Metacognitive mechanisms underlying lucid dreaming. Journal of Neuroscience, 35(3), 1082–1088. https://doi.org/10.1523/JNEUROSCI.3342-14.2015</cite>, where they compared the *voxel-based morphometry (VBM)* differences between two lucidity groups based on brain imaging. The "high-lucidity group showed greater gray matter volume in two separate clusters within BA9/10, in right ACC, left SMA and hippocampus bilaterally." 
 
 ![Figure 1](../../../../images/zns9991567060002.jpg) 

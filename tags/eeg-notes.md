@@ -23,30 +23,47 @@ Read more about [neuroscience](#!tags/neuroscience.md) in the notes about [erp](
  --- 
 
 
-## Electroencephalography (EEG) and the SciArt Lab
+## Electroencephalography (EEG) and the SciArt Lab# Arriving to neuroscience
 
  Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Electroencephalography (EEG) and the SciArt Lab](../content/notebook/captures/notes/eeg-notes.md)
 
 
 
-  <a class="tag" href="#!tags/neuroscience.md">neuroscience</a>  <a class="tag" href="#!tags/cognitive science.md">cognitive science</a>  <a class="tag" href="#!tags/eeg-notes.md">eeg-notes</a>  <a class="tag" href="#!tags/embodied cognition.md">embodied cognition</a>  <a class="tag" href="#!tags/eeg.md">eeg</a>  <a class="tag" href="#!tags/research.md">research</a>  <a class="tag" href="#!tags/neurophenomenology.md">neurophenomenology</a>  <a class="tag" href="#!tags/philosophy of mind.md">philosophy of mind</a>  <a class="tag" href="#!tags/experiments.md">experiments</a>  <a class="tag" href="#!tags/brain.md">brain</a>  <a class="tag" href="#!tags/situated.md">situated</a>  <a class="tag" href="#!tags/sciart.md">sciart</a>  <a class="tag" href="#!tags/virtual reality.md">virtual reality</a>  <a class="tag" href="#!tags/brain waves.md">brain waves</a>  <a class="tag" href="#!tags/erp.md">erp</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/single-subject research.md">single-subject research</a>
+  <a class="tag" href="#!tags/neuroscience.md">neuroscience</a>  <a class="tag" href="#!tags/cognitive science.md">cognitive science</a>  <a class="tag" href="#!tags/eeg-notes.md">eeg-notes</a>  <a class="tag" href="#!tags/embodied cognition.md">embodied cognition</a>  <a class="tag" href="#!tags/eeg.md">eeg</a>  <a class="tag" href="#!tags/research.md">research</a>  <a class="tag" href="#!tags/neurophenomenology.md">neurophenomenology</a>  <a class="tag" href="#!tags/philosophy of mind.md">philosophy of mind</a>  <a class="tag" href="#!tags/experiments.md">experiments</a>  <a class="tag" href="#!tags/brain.md">brain</a>  <a class="tag" href="#!tags/situated.md">situated</a>  <a class="tag" href="#!tags/sciart.md">sciart</a>  <a class="tag" href="#!tags/virtual reality.md">virtual reality</a>  <a class="tag" href="#!tags/brain waves.md">brain waves</a>  <a class="tag" href="#!tags/erp.md">erp</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/single-subject research.md">single-subject research</a>  <a class="tag" href="#!tags/science.md">science</a>  <a class="tag" href="#!tags/R.md">R</a>
 
   --- 
 
 
-### Introduction 
 
-For some time I have been thinking about buying EEG hardware in order to do some [neuroscience](#!tags/neuroscience.md) research for the [SciArt Lab](http://sciartlab.com).
+My philosophical view about the mind is both science-based and phenomenologically-oriented. I strongly believe in a bidirectional approach to truly understand human experience (philosophy of mind should be guided by science, but also the other way around). 
 
-That would allow us to perform our SciArt experiments with a [neurophenomenological](#!tags/neurophenomenology.md) approach in combination with our virtual reality technology and our STEAM educational events. I am particularly interested  [single-subject research](#!tags/single-subject research.md) and in the phenomenological aspects of visual perception, specially in VR, artistic production and photography. 
+My first-person explorations in [neurophenomenology](#!tags/neurophenomenology.md)  are guided by the conjunction of low-cost EEG and DIY neuroscience. I love exploring the field of cognitive science by reading academic bibliography, but I find my self specially satisfied while executing self-guided phenomenological and neuroscience projects, in order to test or verify any hypothesis on my own.
 
-The possibility of getting an affordable neuroscience equipment would allow us to extract raw data from situated/embodied experiences, giving us the possibility of correlating neural activity (see [ERP](#!tags/erp.md)s and [brain waves](#!tags/brain waves.md)) with sensory stimuli within the context of SciArt experiments.
+I did not study neuroscience as an undergrad. Actually, my first incursion in this field did not take place until 2013, when I started collaborating with the **Cognitive Neuroscience Center** at the **UCM-ISCIII for Human Evolution and Behavior**.
 
-The use of neuroscience to *naturalize* [phenomenological](#!tags/neurophenomenology.md) descriptions within a more analytical framework with actual brain data would really give us a potential tool. 
+At the time I had a strong background in Computer Science, Artificial Intelligence and Systems Biology, but I really wanted to learn more in detail about Neuroscience. Affordable MOOCs were a good resource to get into the field and Coursera and EdX were already available. So I invested my short free time studying online courses from Duke University, MIT or the Hebrew University of Jerusalem. 
 
-Additionally, if the EEG device is wireless or easy to carry and we could perform *out-of-the-lab* experiments, capturing data about situations in which embodiment and immersion are crucial, providing a valuable tool to study [situated cognition](#!tags/situated.md).
+I was working full time for an IT company and volunteering some hours for the Cognitive Neuroscience Center. Usually, once a week, I met with Manuel Martín-Loeches and learnt about neuroscience and EEG. Thanks to Manuel I could have an initial approach to software like SPM, Presentation or EEGLAB, a cool interactive Matlab toolbox for continuous and event-related EEG developed by the University of California at San Diego. I also studied the lab's ERP data, read research papers and got immersed in neuroscience books while enjoying the background noise of coffee shops.
 
-The whole point so far is about funding. Therefore, right now I am interested in the research possibilities of low-cost EEG, even though this would imply thinking about dramatically reducing the number of EEG channels.
+After that I had a research stay in a making lab in the University of Toronto, I got a PhD in Information Science (mostly about the simulation of complex and self-organized systems, but also with some cognitive science) and moved to the US for some years. I could not continue with the **Cognitive Neuroscience Center** at the **UCM-ISCIII for Human Evolution and Behavior**. However, I kept studying neuroscience. 
+
+DIY neuroscience is today one of my passions and part of my current research. Some of the notes about this topic are in here or linked somehow under the same tags that this article.
+
+
+### Affordable hardware and DIY electronics in Low Cost EEG 
+
+For some time I thought about buying EEG hardware in order to do some[neuroscience](#!tags/neuroscience.md) research for the [SciArt Lab](http://sciartlab.com).
+
+One of the goals was to use it for live experiments during our STEAM educational events, exploring neuroscience within the context of VR or artistic production. But I was particularly interested in [single-subject research](#!tags/single-subject research.md) and the potential of correlating phenomenological investigations with its neurophysiological correlates. In other words, to perform DIY experiments with a [neurophenomenological](#!tags/neurophenomenology.md) approach and (important) with a low budget.
+
+The possibility of getting an affordable neuroscience equipment was remote. 
+The lab did not have a lot of money, so I just decided to explore DIY electronics, buy a kit for one channel EEG, pay it from my pocket and learn how to make it work with my Arduino and my Raspberry Pi.
+
+Our new equipment would allow us to extract raw data from situated/embodied experiences, giving us the possibility of correlating sensory stimuli  with neural activity (see [ERP](#!tags/erp.md)s and [brain waves](#!tags/brain waves.md)) within the context of both SciArt and [single-subject research](#!tags/single-subject research.md) experiments.
+
+The use of neuroscience to *naturalize* [phenomenological](#!tags/neurophenomenology.md) descriptions within a more analytical framework with actual brain data was a potential tool. Additionally, the fact of using low cost electronics to implement small cognitive neuroscience setups, easy to carry, was crucial to perform *out-of-the-lab* experiments, capturing data about situations in which embodiment and immersion are crucial, providing a valuable tool to study [situated cognition](#!tags/situated.md).
+
+The whole point was getting the most basic hardware and combine it with my amateur neuroscience knowledge, my experience with Arduino and DIY electronics, and my skills as a Software Engineer. 
 
 
 ### Backyard Brains and DIY Neuroscience
@@ -59,7 +76,7 @@ The sticker triggered some memories about a fascinating talk I watched time befo
 
 At the end, Backyard Brains was bringing the "making/hacking" mindset to a field traditionally restrained to academic or medical institutions. That was fascinating and I thought that, one day, we would talk to them and test some of their hardware.
 
-Probably that time will come soon, depending on the needs and the funding (not a lot so far). 
+Some years after that, I ordered my first hardware from BB! Even though this implied thinking about dramatically reducing the number of EEG channels (if compared with professional equipment), this limitation is obviously a motivation :)
 
 
 #### Needs and hardware
@@ -88,6 +105,12 @@ Probably that time will come soon, depending on the needs and the funding (not a
 
 ### Useful resources
 
+#### EEG 
+
+* Introduction to Cognitive Neuroscience MIT: https://ocw.mit.edu/high-school/biology/introduction-to-cognitive-neuroscience/video-lectures/lecture-1/
+* Awesome BCI Resources: https://github.com/NeuroTechX/awesome-bci
+* EEG Notebooks by NeuroTechX: https://eeg-notebooks.readthedocs.io/en/latest/index.html
+
 #### Brain hacking / neurohackers
 
 * https://github.com/NeuroTechX/awesome-bci
@@ -96,6 +119,28 @@ Probably that time will come soon, depending on the needs and the funding (not a
 * http://learn.neurotechedu.com/contributors/
 * https://www.gwern.net/Zeo#zeo-qs (zeo sleep self-experiment)
 
+
+#### Signal processing
+
+* Wav to EDF? 
+    * https://en.wikipedia.org/wiki/European_Data_Format
+    * https://www.teuniz.net/edfbrowser/
+    * https://www.edfplus.info/downloads/index.html
+
+* R packages: https://rdrr.io/find/?repos=cran%2Cbioc%2Crforge%2Cgithub&fuzzy_slug=eeg
+    * https://rdrr.io/cran/eegkit/
+    * https://rdrr.io/cran/eegAnalysis/
+    * https://rdrr.io/github/TKoscik/eegr/man/eegr-package.html
+
+* https://stackoverflow.com/questions/7105962/how-do-i-run-a-high-pass-or-low-pass-filter-on-data-points-in-r
+* R Signal package: https://cran.r-project.org/web/packages/signal/signal.pdf
+https://rdrr.io/rforge/dplR/man/pass.filt.html
+
+
+#### More info:
+
+* See [ERP notes](erp-notes.md)
+* See notes, concepts and articles tagged as [eeg](#!tags/eeg.md)
 
 
 
@@ -112,14 +157,6 @@ Probably that time will come soon, depending on the needs and the funding (not a
 
   --- 
 
-
-### Arriving to neuroscience
-
-In 2013 I was collaborating with the **Cognitive Neuroscience Center** at the **UCM-ISCIII for Human Evolution and Behavior**.
-
-At the time I had a strong background in Computer Science, Artificial Intelligence and Systems Biology, but I really wanted to learn more in detail about Neuroscience. Affordable MOOCs were a good resource to get into the field and Coursera and EdX were already available. So I invested my short free time studying online courses from Duke University, MIT or the Hebrew University of Jerusalem. 
-
-I was working full time in IT, and volunteering some hours for the Cognitive Neuroscience Center. Unfortunately, not as much as I wanted but usually, once a week, I meet with Manuel Martín-Loeches and learnt about cognitive neuroscience and EEG. Thanks to Manuel I could have an initial approach to software like SPM, Presentation or EEGLAB, a cool interactive Matlab toolbox for continuous and event-related EEG developed by the University of California at San Diego. I also studied the lab's ERP data, read research papers and got immersed in neuroscience books while enjoying the background noise of coffee shops. Some of the notes of that time are here.
 
 
 ### Definition of ERP
@@ -138,6 +175,8 @@ The N400 is a component of time-locked EEG signals known as event-related potent
 
 
 ### EEG
+
+* See [eeg-notes](eeg-notes.md)
 
 * See notes, concepts and articles tagged as [eeg](#!tags/eeg.md)
 
@@ -163,12 +202,6 @@ presumed neural generator (e.g., auditory brainstem response) or its most reliab
 & McCarthy, 1999). The earliest activity in the visual cortex (V1 and V2) was evidenced by N100 and P100 components which are sensitive to luminance, luminance contrast, and stimulus size but not to stimulus category. Other relatively early responses in posterior visual cortex were sensitive to sinuosoidal
 gratings (P120-N180-P260). Approximately 20-30 ms later, category-specific activations were observed in more ventral areas (e.g., P150-N200-N290-N700). For instance, several different cortical patches within extrastriate cortex generated surface negativities with peak latencies around 200 ms (N200), but different patches were specific to faces, objects, or letter strings (Allison et al. 1994; Nobre et al. 1994). Letter-string specific areas in the posterior fusiform gyrus responded equally to words and nonwords, whereas the anterior fusiform gyrus was sensitive to properties of letter strings (Nobre et al., 1994). On the surface of the anterior fusiform gyrus, bilaterally, a P400 component was specific
 to real words; a potential of the opposite polarity (N400) was observed just superior to this region, indicating locally-generated activity (McCarthy et al. 1995). Overall, depth recordings reflect the segregation of the ventral object recognition system into functionally discrete regions.
-
-### Online material
-
-* Introduction to Cognitive Neuroscience MIT: https://ocw.mit.edu/high-school/biology/introduction-to-cognitive-neuroscience/video-lectures/lecture-1/
-* Awesome BCI Resources: https://github.com/NeuroTechX/awesome-bci
-* EEG Notebooks by NeuroTechX: https://eeg-notebooks.readthedocs.io/en/latest/index.html
 
 
  --- 

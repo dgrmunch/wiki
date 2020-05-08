@@ -1,6 +1,6 @@
 # Visual koan
 
-tags: academic, mind, epistemology, visual, map, cognitive science, arts, zen, subjective, photography, phenomenology, concepts
+tags: academic, mind, epistemology, visual, map, cognitive science, arts, zen, subjective, photography, phenomenology, concepts, visual koan
 
 
 ## What is a koan?
@@ -16,7 +16,7 @@ However, there is something appealing in the _koan_ that can be easily transpose
 ## Why is zen interesting from a western philosophical viewpoint?
 
 * Secular buddhism provides philosophical foundations closer to skepticism, empiricism, atheism and critical thinking than to religious and dualistic approaches.
-* Lack of doctrines, faith dogmas and magical though. 
+* Lack of doctrines, faith dogmas and magical thought. 
 * Practice/praxis towards the destruction of the dualist notion of identity.
 * Zen goes beyond Nietzsche's negation of God. Rather than being just an atheism, it negates both *theos* and *arthropos*. It's a radical deconstruction of dualism, including the subject-object dichotomy and the Cartesian notion of the self.
 * Radical empiricism: 

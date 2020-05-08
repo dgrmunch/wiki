@@ -2,14 +2,6 @@
 
 tags: neuroscience, cognitive science, eeg-notes, embodied cognition, eeg, research, neurophenomenology, philosophy of mind, experiments, brain, situated, sciart, erp, notes
 
-## Arriving to neuroscience
-
-In 2013 I was collaborating with the **Cognitive Neuroscience Center** at the **UCM-ISCIII for Human Evolution and Behavior**.
-
-At the time I had a strong background in Computer Science, Artificial Intelligence and Systems Biology, but I really wanted to learn more in detail about Neuroscience. Affordable MOOCs were a good resource to get into the field and Coursera and EdX were already available. So I invested my short free time studying online courses from Duke University, MIT or the Hebrew University of Jerusalem. 
-
-I was working full time in IT, and volunteering some hours for the Cognitive Neuroscience Center. Unfortunately, not as much as I wanted but usually, once a week, I meet with Manuel Martín-Loeches and learnt about cognitive neuroscience and EEG. Thanks to Manuel I could have an initial approach to software like SPM, Presentation or EEGLAB, a cool interactive Matlab toolbox for continuous and event-related EEG developed by the University of California at San Diego. I also studied the lab's ERP data, read research papers and got immersed in neuroscience books while enjoying the background noise of coffee shops. Some of the notes of that time are here.
-
 
 ## Definition of ERP
 
@@ -27,6 +19,8 @@ The N400 is a component of time-locked EEG signals known as event-related potent
 
 
 ## EEG
+
+* See [eeg-notes](eeg-notes.md)
 
 * See notes, concepts and articles tagged as [eeg](#!tags/eeg.md)
 
@@ -52,9 +46,3 @@ presumed neural generator (e.g., auditory brainstem response) or its most reliab
 & McCarthy, 1999). The earliest activity in the visual cortex (V1 and V2) was evidenced by N100 and P100 components which are sensitive to luminance, luminance contrast, and stimulus size but not to stimulus category. Other relatively early responses in posterior visual cortex were sensitive to sinuosoidal
 gratings (P120-N180-P260). Approximately 20-30 ms later, category-specific activations were observed in more ventral areas (e.g., P150-N200-N290-N700). For instance, several different cortical patches within extrastriate cortex generated surface negativities with peak latencies around 200 ms (N200), but different patches were specific to faces, objects, or letter strings (Allison et al. 1994; Nobre et al. 1994). Letter-string specific areas in the posterior fusiform gyrus responded equally to words and nonwords, whereas the anterior fusiform gyrus was sensitive to properties of letter strings (Nobre et al., 1994). On the surface of the anterior fusiform gyrus, bilaterally, a P400 component was specific
 to real words; a potential of the opposite polarity (N400) was observed just superior to this region, indicating locally-generated activity (McCarthy et al. 1995). Overall, depth recordings reflect the segregation of the ventral object recognition system into functionally discrete regions.
-
-## Online material
-
-* Introduction to Cognitive Neuroscience MIT: https://ocw.mit.edu/high-school/biology/introduction-to-cognitive-neuroscience/video-lectures/lecture-1/
-* Awesome BCI Resources: https://github.com/NeuroTechX/awesome-bci
-* EEG Notebooks by NeuroTechX: https://eeg-notebooks.readthedocs.io/en/latest/index.html

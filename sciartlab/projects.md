@@ -1,28 +1,16 @@
 
 # SciArt Lab Projects
 
-## Future projects
+## Current projects
 
+* **DIY Neuroscience**: 
 
-* **Neuroscience for kids**: 
+> DIY Neuroscience can be used for single-subject research, but also in STEAM educational events. 
 
-This project would allow us to perform our SciArt experiments of DIY Neuroscience using EEG low-cost technology in combination with our virtual reality technology and our STEAM educational events. We will be able to explore phenomenological aspects of visual perception, specially in VR, artistic production and photography. 
+We are currently studying the potential of **DIY Neuroscience**, designing experiments based on EEG low-cost technology and exploring the possibilities of electroencephalography + educational electronics (Raspberry Pi, Arduino, Makey-Makey...) in STEAM educational events.
 
-The possibility of getting an affordable neuroscience equipment would allow us to extract raw data from situated/embodied experiences, giving us the possibility of correlating neural event-related potentials and brain waves with sensory stimuli within the context of SciArt experiments.
+We are also interested in single-subject research and the potential of correlating phenomenological investigations with its neurophysiological correlates, as much as the combination of neuroscience with the SciArt/Making approach, both within the context of VR and artistic production. 
 
-The use of neuroscience to *naturalize* phenomenological descriptions within a more analytical framework with actual brain data would really give us a potential tool. 
-
-Additionally, if the EEG device is wireless or easy to carry and we could perform *out-of-the-lab* experiments, capturing data about situations in which embodiment and immersion are crucial, providing a valuable tool to study situated cognition.
-
-## Ongoing projects
-
-* [Alda-tabs](https://dgrmunch.github.io/blog/blog/2017/alda-tabs.html): Domain Specific Language for Guitar Players in the Java Virtual Machine: A piece of software to help guitar players to “execute” their music notes in the JVM, compose songs and get audio feedback with basic tab syntax.
-
-* [Artificial Intelligence Music Generation](https://dgrmunch.github.io/blog/blog/2017/digital-music-creation.html):  Set of cellular automata with emergent properties for music composition. Each cellular automaton is able to compose its own music based on simple rules, evolving while it plays synthetic instruments in Ableton Live or external devices through MIDI events.
-
-* [SciArt Lab Metaverse components](https://dgrmunch.github.io/blog/blog/2017/building-a-distributed-metaverse.html): The potential of WebVR is amazing. It leads to new opportunities for developers and content creators, fixing the problem of interoperability between three-dimensional environments by bringing the community together around web standards (compatible with any virtual reality hardware and accessible from any web browser). We are creating open-source virtual reality components to be used in our SciArt projects.
-
-* [Building a lab in Decentraland](https://dgrmunch.github.io/blog/blog/2017/building-a-distributed-metaverse.html): After some of the SciArt Lab Metaverse components were published in Github and Twitter, we were mentioned a couple of times in the Week of A-Frame series (supported by Mozilla). Some weeks later, we were contacted by the team of Decentraland offering support for our project. Decentraland is one of the most promising projects of the new blockchain-based startup ecosystem. They raised $24 million during their ICO. Forbes wrote an article about them recently, remarking how new economies may emerge very soon in virtual worlds. It combines the possibilities of open standards, WebVR and decentralized technologies within a conceptual and economic framework: shared ownership of the platform. Since then we started to build the *SciArt Lab Metaverse Branch* as a district in Decentraland. 
 
 ## Transition Projects
 
@@ -30,12 +18,20 @@ Legacy projects which are currently managed by other organization.
 
 * [Bitmind](https://dgrmunch.github.io/blog/blog/2017/blockchain.html): Decentralized entrepreneurial initiative for the exploration of Open Value Networks (OVN/DAOs) by using blockchain-based technologies. Project transferred to the P2P Foundation.
 
-## Legacy Projects
+## Finished Projects
 
+* [Alda-tabs](https://dgrmunch.github.io/blog/blog/2017/alda-tabs.html): Domain Specific Language for Guitar Players in the Java Virtual Machine: A piece of software to help guitar players to “execute” their music notes in the JVM, compose songs and get audio feedback with basic tab syntax.
 
-* [xmunch atomspace](https://github.com/dgrmunch/xmunch-atomspace/wiki): Visual tool for the dynamic construction of neural and semantic networks for knowledge representation, reasoning and learning in an abstract space of atoms.
+* [Artificial Intelligence Music Generation](https://dgrmunch.github.io/blog/blog/2017/digital-music-creation.html):  Set of cellular automata with emergent properties for music composition. Each cellular automaton is able to compose its own music based on simple rules, evolving while it plays synthetic instruments in Ableton Live or external devices through MIDI events.
+
+* [SciArt Lab Metaverse components](https://dgrmunch.github.io/blog/blog/2017/building-a-distributed-metaverse.html): The potential of WebVR is amazing. It leads to new opportunities for developers and content creators, fixing the problem of interoperability between three-dimensional environments by bringing the community together around web standards (compatible with any virtual reality hardware and accessible from any web browser). We have created open-source virtual reality components to be used in our SciArt projects.
+
 
 * [SciArt 2D Simulator](projects/sciart2DSimulator.md): 2D Graphics Engine for agent-based modeling, artificial life and educational games.
+
+* [Building a lab in Decentraland](https://dgrmunch.github.io/blog/blog/2017/building-a-distributed-metaverse.html): After some of the SciArt Lab Metaverse components were published in Github and Twitter, we were mentioned a couple of times in the Week of A-Frame series (supported by Mozilla). Some weeks later, we were contacted by the team of Decentraland offering support for our project. Decentraland is one of the most promising projects of the new blockchain-based startup ecosystem. They raised $24 million during their ICO. Forbes wrote an article about them recently, remarking how new economies may emerge very soon in virtual worlds. It combines the possibilities of open standards, WebVR and decentralized technologies within a conceptual and economic framework: shared ownership of the platform. Since then we started to build the *SciArt Lab Metaverse Branch* as a district in Decentraland. 
+
+* [xmunch atomspace](https://github.com/dgrmunch/xmunch-atomspace/wiki): Visual tool for the dynamic construction of neural and semantic networks for knowledge representation, reasoning and learning in an abstract space of atoms.
 
 * [GAVC](projects/gavc.md): Generative Art and Visual Complexity: This project aims to explore the potential of algorithmic implementations to generate visual art.
 
@@ -50,7 +46,7 @@ Hacking music with both sound synthesis and algorithmic composition, combining e
 
 ### Virtual Reality: Building a Lab in a Distributed Metaverse
 
-During the last year we have been exploring how the SciArt Lab could contribute to the emergence of the distributed metaverse. We had the chance of testing new virtual reality open-source technologies and develop several WebVR components with a triple goal:
+During the last years we have been exploring how the SciArt Lab could contribute to the emergence of the distributed metaverse. We had the chance of testing new virtual reality open-source technologies and develop several WebVR components with a triple goal:
 
 * Create our own immersive experiments in virtual reality for phenomenological and artistic explorations.
 * Contribute to the upcoming 3D Web, sharing content and open-source components with the idea of a future distributed metaverse in mind (built on the top of a-frame + ipfs).

@@ -13,10 +13,10 @@ tags: identity, tech, phd, software engineer, research, curriculum, sciart
   * Blockchain Expert / Sofware Engineer at Docuten
   <br>
 * **General labels**:
-  * Contemporary Photographer / Digital Artist
   * Software Engineer
   * Part-time writer/researcher
   * Full-time dad
+  * Maker / Photographer / Digital Artist
 * **Education:**
   * **Postdoctoral Researcher**, LIS Department, University of North Carolina (UNCG), 2016-2018
   * **Doctor of Philosophy (PhD)**, Information Science, Cum Laude, Universidad Carlos III de Madrid (UC3M), 2013-2015
@@ -39,13 +39,13 @@ I have also worked and collaborated with different universities in Spain (*URJC,
 
 I am the founder and coordinator of **Bitmind**, a commons-oriented startup to explore the potential of DAOs/OVNs and the evolution of social complexity in agent-based models and production communities. Bitmind had an international impact in the context of Applied Research & Open Source development around OVNs/DAOs. Since 2017 it will be a project of the P2P Foundation.
 
-I am also co-founder of the **SciArt Lab**, a digital R&D laboratory for the open exploration of Science, Art and Technology. We consider that a multidisciplinary approach is crucial to hack seemingly unrelated topics such as artificial intelligence, generative art, complex adaptive systems or digital photography.
+I am also co-founder of the **SciArt Lab**, a digital R&D laboratory for the open exploration of Science, Art and Technology. We consider that a multidisciplinary approach is crucial to hack seemingly unrelated topics such as DIY neuroscience, artificial intelligence, generative art, complex adaptive systems or digital photography.
 
 Additionally, I am a hobbyist photographer, a self-guided researcher/writer and a digital artist. I have other side projects and conduct some self-directed research initiatives.
 
-For years I have been exploring the evolution of social complexity in agent-based models. I have also studied diverse topics such as the intersection of artificial agent-based models with constructed languages or the application of *genetic algorithms* to music composition.
+For years I have been exploring the evolution of social complexity in agent-based models. I have also studied diverse topics such as neuroscience, genetic algorithms or decentralized technologies.
 
-I enjoy self-guided research, applying qualitative approaches such as visual ethnography to study diversity of identity/identities in real social agents, open source coding to bootstrap the potential of mankind, or a [phenomenology-based](content/concepts/phenomenology.md) approach to philosophy to dig into the nature of human experience. My current research interests are cognitive science, self-organization, philosophy of mind, phenomenology and complex systems. 
+I enjoy self-guided research, applying qualitative approaches such as visual ethnography to study diversity of identity/identities in real social agents, open source coding to bootstrap the potential of mankind, and DIY Neuroscience and a [phenomenology-based](content/concepts/phenomenology.md) approach to philosophy to dig into the nature of human experience. My current research interests are cognitive science, self-organization, philosophy of mind, phenomenology and complex systems. 
 
 ## Pathways
 

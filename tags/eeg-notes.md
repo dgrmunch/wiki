@@ -23,9 +23,9 @@ Read more about [neuroscience](#!tags/neuroscience.md) in the notes about [erp](
  --- 
 
 
-## Electroencephalography (EEG) and the SciArt Lab# Arriving to neuroscience
+## Electroencephalography (EEG) notes# Arriving to neuroscience
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Electroencephalography (EEG) and the SciArt Lab](../content/notebook/captures/notes/eeg-notes.md)
+ Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Electroencephalography (EEG) notes](../content/notebook/captures/notes/eeg-notes.md)
 
 
 
@@ -52,7 +52,7 @@ DIY neuroscience is today one of my passions and part of my current research. So
 
 ### Affordable hardware and DIY electronics in Low Cost EEG 
 
-For some time I thought about buying EEG hardware in order to do some[neuroscience](#!tags/neuroscience.md) research for the [SciArt Lab](http://sciartlab.com).
+For some time I thought about buying EEG hardware in order to do some [neuroscience](#!tags/neuroscience.md) research for the [SciArt Lab](http://sciartlab.com).
 
 One of the goals was to use it for live experiments during our STEAM educational events, exploring neuroscience within the context of VR or artistic production. But I was particularly interested in [single-subject research](#!tags/single-subject research.md) and the potential of correlating phenomenological investigations with its neurophysiological correlates. In other words, to perform DIY experiments with a [neurophenomenological](#!tags/neurophenomenology.md) approach and (important) with a low budget.
 
@@ -76,28 +76,7 @@ The sticker triggered some memories about a fascinating talk I watched time befo
 
 At the end, Backyard Brains was bringing the "making/hacking" mindset to a field traditionally restrained to academic or medical institutions. That was fascinating and I thought that, one day, we would talk to them and test some of their hardware.
 
-Some years after that, I ordered my first hardware from BB! Even though this implied thinking about dramatically reducing the number of EEG channels (if compared with professional equipment), this limitation is obviously a motivation :)
-
-
-#### Needs and hardware
-
-* Experimental research in neurophenomenology 
-* Use in VR and Visual/Immersive experiments
-* STEAM projects for kids
-
-* Possible hardware:
-    * https://backyardbrains.com/products/heartAndBrainSpikerShieldBundle
-
-* Doubts
-    * Outcome / data format
-    * Maximum number of EEG channels we can get with the SpikerShield. Scalability and possible "spacial resolution"
-    * Current availability of the hardware  
-    * Possibility of delivering to Spain
-    * APIs, info for developers
-    
-
-### Other products?
-
+Some years after that, I ordered my first kit from BB! Even though this implied thinking about dramatically reducing the number of channels (if compared with professional equipment), this limitation was obviously a motivation. At the end, single-channel EEG can also be interesting, right?
 
 > The general feeling in the research community is not a lot but more and more people are betting on “more data” over “good data”. Consumer grade products already exist such as Neurosky the original single channel system) and Muse and Melon (3-4 electrodes as far as I can tell). With these devices the emphasis is on making it easy to use and cheap enough for consumer apps and I think there is a lot of value in this (it will drive down costs) but the most interesting (and perhaps controversial) example is the iBrain form NeuroVigil. Founder Philip Low claims to be able to classify brain states and responses with a single channel that other groups have been struggling with using dense EEG arrays for many years. The work is based on his PhD which recently became public after a long patent related embargo and appears to be a simple classification of states based on the most prevalent frequency band in a normalised spectrum for a given epoch (using epochs of 30s). What’s interesting is that the classification is in temporal space although the feature is in frequency space. 
 

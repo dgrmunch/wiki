@@ -1,5 +1,5 @@
 
-# tag: arts
+# tag: visual koan
 
  * [concepts](../content/concepts.md) >  [Visual koan](../content/concepts/visual_koan.md)
 

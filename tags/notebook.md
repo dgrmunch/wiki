@@ -1,12 +1,6 @@
 
 # tag: notebook
 
- * [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) >  [Captures Log](../content/notebook/captures/photolog.md)
-
-  * Tags:  <a class="tag" href="#!tags/notebook.md">notebook</a>  <a class="tag" href="#!tags/notes.md">notes</a>
- * [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) >  [Notes Log](../content/notebook/captures/log.md)
-
-  * Tags:  <a class="tag" href="#!tags/notebook.md">notebook</a>  <a class="tag" href="#!tags/notes.md">notes</a>
  * [notebook](../content/notebook.md) >  [Pronouns](../content/notebook/pronouns.md)
 
   * Tags:  <a class="tag" href="#!tags/notebook.md">notebook</a>  <a class="tag" href="#!tags/language.md">language</a>

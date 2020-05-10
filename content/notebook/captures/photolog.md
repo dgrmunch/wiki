@@ -1,6 +1,5 @@
 # Captures Log
 
-tags: notebook, notes
 
 ## Description
 

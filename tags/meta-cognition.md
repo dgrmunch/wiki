@@ -1,5 +1,5 @@
 
-# tag: lucid-dreaming
+# tag: meta-cognition
 
  * [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Meta-cognition and Lucid Dreaming](../content/notebook/captures/notes/lucid-dreaming-notes.md)
 

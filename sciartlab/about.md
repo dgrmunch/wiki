@@ -46,7 +46,7 @@ Computational chemist, Medicinal Chemistry researcher, science advocate.
 
 [Read more](https://orcid.org/0000-0002-6209-8600)
 
-### Collaborators
+### Advisors and Collaborators
 
 #### VASILIS KOSTAKIS, PHD
 
@@ -54,6 +54,14 @@ Faculty Associate at Harvard University, Professor of P2P Governance at Tallinn 
 
 [Read more](https://scholar.google.com/citations?user=GhIZ-iEAAAAJ&hl=en)
  
+
+#### MATT RATTO, PHD
+
+Associate Professor in the Faculty of Information at the University of Toronto, Director of the Bachelor of Information degree program, and the Bell University Labs Chair in Human-Computer Interaction. 
+
+[Read more](https://ischool.utoronto.ca/profile/matt-ratto/)
+ 
+
 
 #### FATIH OGUZ, PHD
 

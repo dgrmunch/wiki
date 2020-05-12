@@ -51,7 +51,13 @@ Some years after that, I ordered my first kit from BB! Even though this implied 
 
 > Ref: https://www.neuroelectrics.com/blog/2014/12/18/single-channel-eeg/
 
+
 ## Useful resources
+
+### Single-channel EEG
+
+* Philip Low's PhD thesis: https://escholarship.org/uc/item/6250v3wk
+* https://www.neurovigil.com
 
 ### EEG 
 

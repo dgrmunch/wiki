@@ -2,15 +2,15 @@
 
 ## Context for new visitors
 
-This site is a open-ended philosophical project, a dynamic digital book about [cognitive science](tags/cognitive science.md), self-organization, [philosophy of mind](content/notebook/maps/philosophy.md), [phenomenology](content/concepts/phenomenology.md) and [complex systems](tags/complexity.md). 
+This site is a open-ended philosophical project, a dynamic digital book about [cognitive science](tags/cognitive science.md), [self-organization](tags/self-organization.md), [philosophy of mind](content/notebook/maps/philosophy.md), [phenomenology](content/concepts/phenomenology.md), [DIY neuroscience](tags/neuroscience.md) and [complex systems](tags/complexity.md). 
 
-It is also a personal wiki with random notes about different topics. It embodies an ontological claim: the radical importance of creating our own narratives while using decentralized communication protocols to interconnect with other minds.
+It is also a personal wiki with random notes about different topics. Beyond conceptual [consensus](content/concepts/consensus.md), this continuously-evolving knowledge repository serves as a backup of a subjective philosophical viewpoint. 
 
-Beyond conceptual [consensus](content/concepts/consensus.md), this continuously-evolving knowledge repository serves as a backup of a subjective philosophical viewpoint. Additionally, it enables a click-based navigation tool for my own personal [notes](tags/notes.md), [concepts](content/concepts.md), [articles](content/articles.md) and [projects](content/projects.md).
+Additionally, it enables a click-based navigation tool for my own personal [notes](tags/notes.md), [concepts](content/concepts.md), [articles](content/articles.md) and [projects](content/projects.md).
 
-This site has been created by somebody who does not subscribe any *-ism*, somebody who identifies as a [heterodox researcher](http://sciartlab.com), a [rhizomatic](content/concepts/rhizome.md) writer, a [phenomenological](content/concepts/phenomenology.md) photographer, a [software engineer](about.md) and a nerd of  [philosophy of mind](content/notebook/maps/philosophy.md).
+All the content of this site, except quotes and references, has been published by [Diego González Rodríguez](http://www.xmunch.com), somebody who identifies as a [heterodox researcher](http://sciartlab.com), a [rhizomatic](content/concepts/rhizome.md) writer, a [phenomenological](content/concepts/phenomenology.md) photographer, a [software engineer](about.md) and a nerd of [philosophy of mind](content/notebook/maps/philosophy.md).
 
-My name is not important, but you can know more [about me](about.md) if you want. I am just a **social agent** sharing its internal thoughts, philosophical notes and visual explorations.
+You can know more [about me](about.md) if you want. I am just a **social agent** sharing its internal thoughts, philosophical notes and visual explorations. You can also check my [academic path](content/notebook/maps/academic.md).
 
 
 [![](0x/1c05c3d987a4321bdeea2c56f6a5dc72)](content/projects/photography.md)

@@ -37,7 +37,7 @@ My current position on personal identity is based on the advances in cognitive s
 
 > My philosophical view about the mind is both science-based and phenomenologically-oriented. I strongly believe in a bidirectional approach to truly understand human experience (philosophy of mind should be guided by science, but also the other way around). 
 
-> My first-person explorations in [neurophenomenology](#!tags/neurophenomenology.md)  are guided by the conjunction of low-cost EEG and [DIY neuroscience](../notebook/captures/notes/eeg-notes.md). I love exploring the field of cognitive science by reading academic bibliography, but I find my self specially satisfied while executing self-guided phenomenological and neuroscience projects, in order to test or verify any hypothesis on my own.
+> My explorations in [neurophenomenology](#!tags/neurophenomenology.md) are guided by the conjunction of low-cost EEG and [DIY neuroscience](../notebook/captures/notes/eeg-notes.md). I love exploring the field of cognitive science by reading academic bibliography, but I am specially satisfied while executing phenomenological and neuroscience projects, in order to test or verify any hypothesis on my own.
 
 > Read more in the [eeg](#!tags/eeg.md) section.
 

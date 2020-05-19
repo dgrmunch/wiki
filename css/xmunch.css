@@ -9,6 +9,10 @@
           position: static;
   }
 
+  .node rect, .node circle, .node ellipse, .node polygon {
+    fill: black !important;
+}
+
  treeview{
     text-align: center;
   }

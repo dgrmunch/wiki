@@ -301,3 +301,44 @@ https://backyardbrains.com/experiments/targetedmemoryreactivation
 https://en.m.wikipedia.org/wiki/Electrooculography
 
 
+
+## 10 May 2020 at 18:10
+
+> Type: **Quote**
+
+https://blog.backyardbrains.com/2017/08/real-time-mind-reading/
+
+
+
+## 10 May 2020 at 18:10
+
+> Type: **Quote**
+
+https://blog.backyardbrains.com/2017/08/real-time-mind-reading/
+
+
+
+## 10 May 2020 at 20:27
+
+> Type: **Quote**
+
+https://www.google.es/amp/s/rdrr.io/a/cran/eegkit/man/eegfft.html
+Toronto Emergency Device Accelerator
+
+
+## 11 May 2020 at 21:55
+
+> Type: **Quote**
+
+https://backyardbrains.com/experiments/EOG
+
+
+
+## 13 May 2020 at 18:00
+
+> Type: **Quote**
+
+http://neurofeedbackalliance.org/understanding-brain-waves/
+
+https://backyardbrains.com/products/files/Extracting_Frequency_Bands_EEG.pdf
+

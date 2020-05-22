@@ -344,6 +344,11 @@ Images from https://freeiconshop.com and the aforementioned book :)
 
 ![](images/wine-glass-flat-128x128.png)
 
+---
+
+> Frozen Gif?
+
+![](images/team.png)
 
 ---
 

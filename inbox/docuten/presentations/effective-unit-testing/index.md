@@ -13,15 +13,6 @@ A review by Diego González 😉
 
 ---
 
-# Jargon
-
-SUT -> System Under Test
-GOD -> Martin Fowler
-
----
-
-
-
 
 The promise of good tests 
 <br>
@@ -228,18 +219,6 @@ Let's ask God, aka Martin Fowler :)
 <!-- 
 _class : invert
 -->
-> Mocks are what we are talking about here: objects pre-programmed with expectations which form a specification of the calls they are expected to receive.
-
-<br>
-
-http://martinfowler.com/articles/mocksArentStubs.html
-
-
----
-
-<!-- 
-_class : invert
--->
 
 > Only mocks insist upon **behavior verification**. The other doubles can, and usually do, use **state verification** [...] mocks differ in the setup and the verification phases.
 
@@ -250,7 +229,7 @@ http://martinfowler.com/articles/mocksArentStubs.html
 
 ---
 
-Basically, the idea is that Mocks's methods are not modified, but rather just verified. We are interested in **behavior verification**.
+Basically, the idea is that Mocks's methods are not modified, but rather just verified.
 
 ---
 
@@ -302,18 +281,6 @@ _class : invert
 
 **Bonus Mantra I**
 
-> Inject your dependencies 
-<br>
-![](images/meat-flat.png)
-
----
-
-<!-- 
-_class : invert
--->
-
-**Bonus Mantra II**
-
 > Avoid Thread.sleep (time matters!)  
 <br>
 
@@ -325,7 +292,7 @@ _class : invert
 _class : invert
 -->
 
-**Bonus Mantra III**
+**Bonus Mantra II**
 
 > A test should have only one reason to fail
 <br>
@@ -335,41 +302,14 @@ _class : invert
 
 ---
 
-<!-- 
-_class : invert
--->
-
-# Chapter 7: Holy Grail 😉
-
-## Testable design 
-
----
-
-
 ## Modular design
 	
-* In context (ie. Tim Berners lee comment)
+* In context (ie. Tim Berners Lee comment)
 * Test-driving toward modular design:
 
 	<br>
 
-> It’s not just the test-first facet of TDD that spurs modular design. TDD practitioners also refactor their code frequently so they’re constantly looking for too big methods to split, better abstractions to introduce, and duplications to remove.
-
-
----
-
-<!-- 
-_class : invert
--->
-
-
-# [SOLID Design Principles]
-
-* **S**INGLE RESPONSIBILITY
-* **O**PEN-CLOSED
-* **L**ISKOV SUBSTITUTION
-* **I**NTERFACE SEGREGATION
-* **D**EPENDENCY INVERSION
+> TDD practitioners refactor their code frequently so they’re constantly looking for too big methods to split, better abstractions to introduce, and duplications to remove.
 
 
 ---
@@ -390,9 +330,7 @@ _class : invert
 * Use *new* with care
 * Avoid logic in constructors
 * Avoid the Singleton pattern
-* Favor composition over inheritance
 * Wrap external libraries
-* Avoid service lookups
 
 
 

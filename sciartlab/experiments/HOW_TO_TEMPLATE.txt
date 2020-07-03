@@ -1,0 +1,14 @@
+
+- Título
+- Identificador numérico (así cada uno de los experimentos tiene un id que podemos usar como referencia dentro del sistema)
+- Áreas de conocimiento (separadas por comas si son más de una): química, biología
+- Nivel de dificultad: un valor numeric del 1 al 10 que podamos correlacionar con intervalos de edad
+- Idioma: Spanish/English
+- Tags: etiquetas separadas por comas para facilitar búsquedas, relacionar experimentos entre sí, etc...
+- Images: caratula y content
+- Descripción Breve (como un abstract)
+- Materiales necesarios
+- Experimento (descripción detallada, pasos a seguir, etc...)
+- Explicación científica
+- Explicación sencilla
+- Bibliografía complementaria

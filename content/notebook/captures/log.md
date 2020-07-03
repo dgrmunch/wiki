@@ -342,3 +342,11 @@ http://neurofeedbackalliance.org/understanding-brain-waves/
 
 https://backyardbrains.com/products/files/Extracting_Frequency_Bands_EEG.pdf
 
+
+## 28 May 2020 at 18:41
+
+> Type: **Resource**
+
+http://www.markwk.com/meditation-effect-on-cognition-experiment.html
+
+

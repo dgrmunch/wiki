@@ -2,7 +2,7 @@
 
 tags: zero-waste, eco, recipes, DIY, home  
 
-## Zero Waste Recipes
+## Recipes
 
 ### Dishwasher detergent
 
@@ -10,6 +10,7 @@ tags: zero-waste, eco, recipes, DIY, home
   * **Na2CO3** (*Sodium carbonate*): 200 gr.
   * **2Na2CO3·3H2O2** (*Sodium Percarbonate*): 150 gr.
   * **C6H8O7** (*Citric Acid*): 200 gr.  
+
 
 * Process: 
 

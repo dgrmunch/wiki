@@ -1,4 +1,4 @@
-# Zero Waste Notes
+# Simple cooking
 
 tags: cooking, eco, recipes, DIY, home, simple-living
 

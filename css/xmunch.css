@@ -20,7 +20,7 @@
   #md-page-menu a.active {
       /* background-color: rgba(0, 0, 0, 0.01); */
       font-weight: bold;
-      padding-left: 6px;
+      /*! padding-left: 6px; */
 
   }
   @media (min-width: 992px) {
@@ -83,6 +83,7 @@
   text-align: justify;
   text-justify: inter-word;
   font-size: 18px;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
 }
 
 .concepts {
@@ -129,7 +130,7 @@ a {
 #md-content a[href$=".md"], #children-list a[href$=".md"] {
         color: black;
         font-size: 90%;
-        border-bottom: 1px solid black;
+        /*! border-bottom: 1px solid black; */
 }
 
 #md-content a[href$="pronouns.md"] {
@@ -160,12 +161,12 @@ a {
 }
 
 #md-page-menu .list-group-item {
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
 }
 
 #md-page-menu .list-group-item a {
-    color: white;
+    color: black;
     font-size: 90%;
 }
 
@@ -184,8 +185,10 @@ code {
 
 
 .navbar-default {
-    background-color: #000000;
-    border: 1px solid black;
+    background-color: white;
+    /*! border: 1px solid #dfdfdf; */
+    color: black !important;
+    font-size: 90%;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -194,19 +197,24 @@ code {
 }
 
 .navbar-default .navbar-brand {
-    color: white;
-    font-family: monospace;
+    color: black;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 1px;
+    letter-spacing: 3px;
 }
 
 h1, .h1 {
-    font-size: 36px;
-    font-family: monospace;
+    font-size: 35px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 1;
+    letter-spacing: 2px;
 }
 
 h2, .h2 {
     font-size: 30px;
-    font-family: monospace;
-    border-bottom: 1px dashed black;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-bottom: 30px;
+    font-weight: 5;
 }
 
 .img-thumbnail {
@@ -232,7 +240,7 @@ pre {
 }
 
 .navbar-default .navbar-nav > li > a {
-    color: #fff;
+    color: black;
     font-size: 100% !important;
 }
 
@@ -242,19 +250,19 @@ table {
     width: 100%;
     margin-top: 20px;
     margin-bottom: 20px;
-    background-color: black;
-    color:white;
+    background-color: white;
+    color:black;
     font-size: 16px;
     padding: 20px;
     text-align: justify;
 }
 
 .table-bordered {
-    border: 10px solid black;
+    border: 1px solid black;
 }
 
 .table-bordered > thead > tr > th, .table-bordered > tbody > tr > th, .table-bordered > tfoot > tr > th, .table-bordered > thead > tr > td, .table-bordered > tbody > tr > td, .table-bordered > tfoot > tr > td {
-    border: 1px solid  #ddd;
+    border: 1px solid black;
     text-align: justify;
 }
 
@@ -310,24 +318,28 @@ g .edgePath{
     display: inline;
     padding: 5px !important;
     font-size: 75% !important;
-    font-weight: bold;
+    font-weight: 1;
     line-height: 2.3;
     text-align: center;
     white-space: nowrap;
     vertical-align: baseline;
     border-radius: 0.25em;
     color: black;
-    border: 1px solid gray;
+    border: 1px solid #c9c9c9;
     margin-right: 0px;
     font-family: arial !important;
     text-decoration: none !important;
     margin-top: 20px !important;
-    color: black !important;
+    color: #4a4a4a !important;
+    /*! letter-spacing: 0px; */
 }
 
 .md-text a {
     color: black !important;
     font-size: 90%;
     text-decoration: none;
-    border-bottom: 1px solid gray;
+    border-bottom: 1px solid #d6d6d6;
+    font-weight: 1;
+    letter-spacing: 2px;
+    /*! background-color: #fffbec; */
 }

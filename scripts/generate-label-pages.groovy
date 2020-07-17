@@ -47,7 +47,7 @@ for(def file: list){
 
         file.withReader { reader ->
             while ((line = reader.readLine()) != null) {
-                if(line.contains("tags:")){
+                if(line.contains("tags:")  && !line.contains("* tags:")){
                     tags = line.replace("tags:","").split(",")
 
                     for(def tag : tags){

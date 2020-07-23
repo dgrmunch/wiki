@@ -5,15 +5,15 @@ tags: consensus, politics, social, narrative, epistemology, ontology, p2p, truth
 
 ## Description
 
-When two or more parties need to come to an agreement, to share a unique accepted truth, or to enforce a common policy, **consensus mechanisms** seem the most democratic way to avoid misconceptions, mitigate conflicts and unify a shared view about any given topic.
+When two or more parties need to come to an agreement, share a unique accepted truth or enforce a common policy, **consensus mechanisms** seem the most democratic way to avoid misconceptions, mitigate conflicts and unify a shared view about any given topic.
 
 Consensus is usually the best way to build alternatives to centralized policies and hierarchical power structures, while providing [distributed](distributed_networks.md) awareness and a flat responsibility layer. In that sense, consensus would be fair enough in the context of any given community to replace top-down models such as the ones of representative democracy by bottom-up social dynamics.
 
 However, the whole idea of deliberative democracy, in which assemblies replace centralized structures, is obviously inefficient. 
 
-Social experiments in the last couple of decades have become hard to sustain when the number of participants went beyond some threshold. The decay, that is, the decrease in the levels of compromise, and, in some cases, the gradual centralization of supposedly assambleary processes in homogeneous groups of people are a clear problem of assemblies.
+Social experiments in the last couple of decades have become hard to sustain when the number of participants went beyond some threshold. *Decay* -the decrease in the levels of compromise- and, in some cases, the gradual centralization of supposedly bottom-up processes in homogeneous groups of people are a clear problem of assemblies.
 
-In order to be sustainable, different mechanisms can be introduced in consensus layers. 
+In order to become sustainable in the long term, different mechanisms can be introduced in consensus layers. 
 For example, cryptography and incentives.
 
 Large scale coordination and [distributed](distributed_networks.md) consensus between nodes can be easily sustained thanks to the use of peer-to-peer technologies such as the blockchain.

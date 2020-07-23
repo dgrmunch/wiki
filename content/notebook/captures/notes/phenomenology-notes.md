@@ -2,7 +2,7 @@
 
 tags: spanish, phenomenology, phenomenology-notes, notes
 
-En esencia nuestra adquisición gradual de conocimiento como agentes cognitivos deriva no sólo de la razón, esto es, de la aplicación del pensamiento lógico, sino de la percepción sensorial de un entorno del que aprendemos mediante la interacción y iteración. Los axiomas en los que fundamentamos razonamientos ulteriores son en gran medida un subproducto de un conjunto de procesos de aprendizaje de carácter meramente empírico.
+Nuestra adquisición gradual de conocimiento como agentes cognitivos deriva no sólo de la aplicación del pensamiento lógico sino también de la percepción sensorial de un entorno del que aprendemos mediante la interacción e iteración. Los axiomas en los que fundamentamos razonamientos posteriores son en gran medida el subproducto de un conjunto de procesos de aprendizaje a partir de experiencias de carácter meramente empírico.
 
 
 En aproximaciones filosóficas como la fenomenología nos encontramos con una visión del mundo fundamentada en un empirismo radical, en la exploración no condicionada de los fenómenos que se presentan ante la película de la mente, en la supresión de las asunciones de partida y la experimentación con el torrente de información sensorial que se proyecta ante nuestra intencionalidad.

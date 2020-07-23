@@ -4,7 +4,7 @@ tags: philosophy, distributed, p2p, self, identity, heterogeneity, systems biolo
 
 ## Information spreading in distributed networks
 
-For the more than a decade, I have been defending [distributed networks](../concepts/distributed_networks.md) as the best topology for resilience and dynamic adaptation to changes. 
+For more than a decade, I have been defending [distributed networks](../concepts/distributed_networks.md) as the best topology for resilience and dynamic adaptation to changes. 
 
 In my thesis, during my PhD, I was actually studying the impact of **decentralization** in information spreading (horizontal propagation) and how, under certain conditions and in combination with functional **heterogeneity**, collective knowledge production was favored by a distributed organization of societies. 
 

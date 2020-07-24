@@ -67,17 +67,21 @@ The romantic dream of distributed networks; the naive assumption of selfless fra
 
 > Wrong. 
 
-The virus arrived and people did not follow any of the experts' recommendations. A mixture of denials and professional clowns making jokes about the virus soon became trendy in social media. Conspiracy theories infected society as a whole even before the COV-19 was in our blood. And we all were doomed.
+The virus arrived and people did not follow any of the experts' recommendations. A mixture of denials and professional clowns making jokes about the virus soon became trendy in social media. Conspiracy theories infected society as a whole even before the COV-19 was in our blood. 
 
-> "This is just a simple flu. Nothing to worry about. We are not China. We are European democracies."
+We were continuously over-informed. Another disadvantage of distributed networks: **information overflow**. And we all were doomed.
+
+> "This is just a simple flu. Nothing to worry about. We are not China. We are European democracies [...] Using masks is not important."
 
 The importance of individual behavior, common sense and community-oriented responsibility was gone. And probably never was there. It was just an old dream of **collectivists**. 
 
-**Individualism** won. People followed their own personal interests. They kept traveling for vacation, they went to terraces, lined up for hours to buy tobacco and drunk together in public squares when college was closed. They gathered with tens of kids in parks after public schools were closed to prevent more infections. And so on.
+**Individualism** won. People followed their own personal interests. 
 
-It was better for their individual and selfish interests. Oh! And at the same time they bought everything they could from the grocery stores. Maximizing selfishness and, of course, making use of their capital.
+At the end we were just executing small tasks, performing local interactions, satisfying little desires. Nothing big. Theoretically, nothing big enough to be noticed at large scale. Wrong. Small actions sum up and collective impact emerges. That is Complex Systems 101.
 
-On the other side of the world, a communist regime seemed successful against the virus. National control, executive decisions, military discipline, hierarchy. Wow. A centralized network stopping the propagation of the virus. 
+Enjoying our freedom to decide, the simple fact of following our little individual and selfish interests led to the collapse of the system. And then centralized restriction policies arrived and people still did not follow the imposed rules.
+
+On the other side of the world, a totalitarian regime seemed successful against the virus. National control, executive decisions, military discipline, hierarchy. Wow. A centralized network stopping the propagation of the virus. 
 
 But was just the use of force? Was just the fear to disobey the government? Or also a sense of belonging, a sense of community, a sense of responsibility?
 
@@ -97,13 +101,11 @@ And this is exactly what happened. On one hand, our globalized world, full of lo
 
 On the other hand, fake news, relativistic jokes, denial arguments and ideological disinformation also spread through the global network.
 
-People did not do anything.
+In this context, success supposedly could only rely in more centralized control and state-reinforced aligned action with martial discipline. Sad conclusion.
 
-In this context, the success supposedly could only rely in more centralized control and state-reinforced aligned action with martial discipline.
+Even in my case, a defender of freedom and decentralization, I felt extremely relieved when the government sent all of us to our homes. Maybe the fact of losing three family members and having three more in the hospital also helped. Fear leads to centralization. 
 
-And even in my case, a defender of freedom and decentralization, I felt extremely relieved when the government sent all of us to our homes.
-
-With my freedom completely limited during the quarantine, telecommuting, without being able to walk around -only going out to buy groceries or pharmaceutical products-, I still wondered if everything could just have been avoided with common sense, with coordinated effort towards the same direction, with a mutualist ideal and a sense of belonging to a bigger community, to a bigger species. 
+But with my freedom completely limited during the quarantine, telecommuting, without being able to walk around -only going out to buy groceries or pharmaceutical products-, grieving and suffering for my lost ones, I still wondered if everything could just have been avoided with common sense, with coordinated effort towards the same direction, with a mutualist ideal and a sense of belonging to a bigger community, to a bigger species. 
 
 Maybe centralization was an option we could have skipped. Maybe if *P2P Social Dynamics* would actually had existed and social agents would had focused on  win-win strategies, on the commons, on the mutual benefit, rather than in our individual self-interest.
 

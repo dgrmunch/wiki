@@ -4,7 +4,7 @@
 
 ## UofT: Notes from meetings with collaborators
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [UofT: Notes from meetings with collaborators](../content/notebook/captures/notes/uoft-note-meetings.md)
+ Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) > [bibliography](../content/notebook/captures/notes/bibliography.md) >  [UofT: Notes from meetings with collaborators](../content/notebook/captures/notes/bibliography/uoft-note-meetings.md)
 
 
 
@@ -88,7 +88,7 @@ analysis are used to collect relationship data using a social network analysis a
 
 ## Embodiment / Cybernetics Bibliography
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Embodiment / Cybernetics Bibliography](../content/notebook/captures/notes/uoft-note-cibernetics-bibliography.md)
+ Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) > [bibliography](../content/notebook/captures/notes/bibliography.md) >  [Embodiment / Cybernetics Bibliography](../content/notebook/captures/notes/bibliography/uoft-note-cibernetics-bibliography.md)
 
 
 
@@ -107,7 +107,7 @@ analysis are used to collect relationship data using a social network analysis a
 
 ## Situated Learning / Ethnography Bibliography
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Situated Learning / Ethnography Bibliography](../content/notebook/captures/notes/uoft-note-situated-bibliography.md)
+ Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) > [bibliography](../content/notebook/captures/notes/bibliography.md) >  [Situated Learning / Ethnography Bibliography](../content/notebook/captures/notes/bibliography/uoft-note-situated-bibliography.md)
 
 
 
@@ -127,7 +127,7 @@ analysis are used to collect relationship data using a social network analysis a
 
 ## University of Toronto: Bibliography and Recommendations
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [University of Toronto: Bibliography and Recommendations](../content/notebook/captures/notes/uoft-note-bibliography.md)
+ Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) > [bibliography](../content/notebook/captures/notes/bibliography.md) >  [University of Toronto: Bibliography and Recommendations](../content/notebook/captures/notes/bibliography/uoft-note-bibliography.md)
 
 
 
@@ -169,7 +169,7 @@ analysis are used to collect relationship data using a social network analysis a
 
 ## Mark Poster bibliography
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Mark Poster bibliography](../content/notebook/captures/notes/uoft-note-mark-bibliography.md)
+ Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) > [bibliography](../content/notebook/captures/notes/bibliography.md) >  [Mark Poster bibliography](../content/notebook/captures/notes/bibliography/uoft-note-mark-bibliography.md)
 
 
 

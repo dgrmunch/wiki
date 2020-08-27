@@ -4,7 +4,7 @@
 
 ## Phenomenology Notes in Spanish
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Phenomenology Notes in Spanish](../content/notebook/captures/notes/phenomenology-notes.md)
+ Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) > [neuroscience](../content/notebook/captures/notes/neuroscience.md) >  [Phenomenology Notes in Spanish](../content/notebook/captures/notes/neuroscience/phenomenology-notes.md)
 
 
 
@@ -30,7 +30,7 @@ Existen otros métodos, como los [visual koans](visual_koan.md), que entienden l
 
 ## Phenomenology pending readings
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Phenomenology pending readings](../content/notebook/captures/notes/phenomenology-readings.md)
+ Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) > [neuroscience](../content/notebook/captures/notes/neuroscience.md) >  [Phenomenology pending readings](../content/notebook/captures/notes/neuroscience/phenomenology-readings.md)
 
 
 

@@ -71,7 +71,8 @@ for(def file: list){
                             
                         } else {
 
-                            tagFile << "\n * "+getSections(file)+" ["+getTitle(file)+"](../"+file.toString().replace("./","")+")\n\n"
+                            //tagFile << "\n * "+getSections(file)+" ["+getTitle(file)+"](../"+file.toString().replace("./","")+")\n\n"
+                            tagFile << "\n * **["+getTitle(file)+"](../"+file.toString().replace("./","")+")**\n\n"
 
                             tagFile << "  * Tags:"
                             for(def tag2 : tags){

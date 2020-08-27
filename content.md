@@ -15,3 +15,7 @@ The following table can be an useful starting point though. The content is distr
 |  [Projects](content/projects.md)    | A summary of Research & Development Projects, Open Source repositories and Artwork. This section is a common place to share my R&D projects, but also my experiments as a digital artist, my photographic work and both musical and visual arts projects.
 |  [Notebook](content/notebook.md)  | Quotes, personal notes, recommended readings, text comments, drafts and raw ideas |
 |  [Recipes](content/recipes.md)    | Technical recipes / IT Miscellanea / HOW TOs |
+
+## Navigation through tags  
+
+You can directly check the [tags page](tags.md) to explore the [rhizome](content/concepts/rhizome.md) guided by your interests or just serendipity.

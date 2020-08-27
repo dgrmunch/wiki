@@ -4,7 +4,7 @@
 
 ## Automatic writing
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Automatic writing](../content/notebook/captures/notes/automatic-writing-identity.md)
+ Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) > [thoughts](../content/notebook/captures/notes/thoughts.md) >  [Automatic writing](../content/notebook/captures/notes/thoughts/automatic-writing-identity.md)
 
 
 
@@ -122,7 +122,7 @@
 
 ## Conflicts 
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Conflicts](../content/notebook/captures/notes/conflicts-notes.md)
+ Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) > [thoughts](../content/notebook/captures/notes/thoughts.md) >  [Conflicts](../content/notebook/captures/notes/thoughts/conflicts-notes.md)
 
 
 
@@ -156,7 +156,7 @@
 
 ## Writing about Identity?
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Writing about Identity?](../content/notebook/captures/notes/identity-notes.md)
+ Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) > [thoughts](../content/notebook/captures/notes/thoughts.md) >  [Writing about Identity?](../content/notebook/captures/notes/thoughts/identity-notes.md)
 
 
 

@@ -135,10 +135,8 @@ a {
 
 #md-content a[href$="pronouns.md"] {
     color: #9d6b6b;
-    font-weight: bold;
     vertical-align: super;
     text-decoration: none !important;
-    border: 0.5px dotted red;
 }
 
 #mynetwork {
@@ -160,9 +158,11 @@ a {
   font-size: 120%;
 }
 
+
 #md-page-menu .list-group-item {
     background-color: white;
     color: black;
+    border-color: white;
 }
 
 #md-page-menu .list-group-item a {
@@ -333,6 +333,7 @@ g .edgePath{
     color: #4a4a4a !important;
     /*! letter-spacing: 0px; */
 }
+
 
 .md-text a {
     color: black !important;

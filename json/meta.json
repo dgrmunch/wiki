@@ -1,0 +1,16 @@
+{	
+    "name":"Diego González Rodríguez", 
+    "urls":{
+        "web":{
+            "main":"http://me.xmunch.com", 
+            "wiki":"http://wiki.xmunch.com",
+            "blog":"http://blog.xmunch.com"
+        },        
+        "dweb":{
+            "hypercore":"hyper://7b8b3c6d2702846d62a93ce6cf0920c795035fdac8a7f458849ee8ca85d8e561",
+            "cabal":"cabal://7b8b3c6d2702846d62a93ce6cf0920c795035fdac8a7f458849ee8ca85d8e561",
+            "ethereum":"0x7fCAD8632C69b6489455Be08b690B41AA52B2146"
+        },
+        "pgp":"http://xmunch.com/pgp"
+    }
+}

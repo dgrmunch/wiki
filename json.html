@@ -1,0 +1,64 @@
+
+<script src="js/jquery.min.js"></script>
+<script>
+
+function output(inp) {
+  document.body.appendChild(document.createElement('pre')).innerHTML = inp;
+}
+
+function syntaxHighlight(json) {
+  json = json.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  return json.replace(/("(\\u[a-zA-Z0-9]{4}|\\[^u]|[^\\"])*"(\s*:)?|\b(true|false|null)\b|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?)/g, function (match) {
+      var cls = 'number';
+      if (/^"/.test(match)) {
+          if (/:$/.test(match)) {
+              cls = 'key';
+          } else {
+              cls = 'string';
+          }
+      } else if (/true|false/.test(match)) {
+          cls = 'boolean';
+      } else if (/null/.test(match)) {
+          cls = 'null';
+      }
+      return '<span class="' + cls + '"><b>' + match + '</b></span>';
+  });
+}
+
+var obj = {}
+var str = JSON.stringify(obj, undefined, 4);
+var allQuestions = new Array();
+
+function loadJson(jsonFile) {
+  $.getJSON(jsonFile, function (data) {
+      console.log(data);
+      var str = JSON.stringify(data, undefined, 4);
+      output(syntaxHighlight(str));
+  });
+}
+ 
+    $(document).ready(function() {
+        if(window.location.hash.includes(".json")){            
+            var jsonFile = window.location.hash.split("#!")[1];
+            console.log(jsonFile);
+            loadJson(jsonFile);
+        }
+    });
+
+
+</script>
+<style>
+
+body {background-color:black; color: lightgreen;}
+pre {outline: 1px solid #ccc; padding: 5px; margin: 5px; }
+.string { color: lightgreen; }
+.number { color: darkorange; }
+.boolean { color: blue; }
+.null { color: magenta; }
+.key { color: white; }
+
+</style>
+
+<script>
+ 
+</script>

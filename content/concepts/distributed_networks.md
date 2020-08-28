@@ -6,6 +6,7 @@ tags: epistemology, topology, complexity, knowledge, p2p, networks, distributed,
 ## Visual explanation
 
 ![](../../images/decentralized2.jpg)
+
 > *Baran, P. (1964). On Distributed Communications, Memorandum RM-3420-PR.*
 
 ## Description

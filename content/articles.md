@@ -43,17 +43,17 @@ tags: articles
 ### English
 
 
-* **Building a Lab in a Distributed Metaverse**: http://filedn.com/lzKR35HlP1yHLFtV0oLTAku/blog/output/blog/2017/building-a-distributed-metaverse.html
+* **Building a Lab in a Distributed Metaverse**: http://blog.xmunch.com/blog/2017/building-a-distributed-metaverse.html
 
-* **Digital creation for hackers & makers: prototyping musical tools from the SciArt Lab:** http://filedn.com/lzKR35HlP1yHLFtV0oLTAku/blog/output/blog/2017/digital-music-creation.html
+* **Digital creation for hackers & makers: prototyping musical tools from the SciArt Lab:** http://blog.xmunch.com/blog/2017/digital-music-creation.html
 
-* **Alda-tabs: Domain Specific Language for Guitar Players in the Java Virtual Machine**: http://filedn.com/lzKR35HlP1yHLFtV0oLTAku/blog/output/blog/2017/alda-tabs.html
+* **Alda-tabs: Domain Specific Language for Guitar Players in the Java Virtual Machine**: http://blog.xmunch.com/blog/2017/alda-tabs.html
 
-* **Blockchain Technologies and the P2P Paradigm**: http://filedn.com/lzKR35HlP1yHLFtV0oLTAku/blog/output/blog/2017/blockchain.html
+* **Blockchain Technologies and the P2P Paradigm**: http://blog.xmunch.com/blog/2017/blockchain.html
 
 
 ### Spanish / Español
 
 * [La epojé situada: hacía una fenomenología de la identidad](articles/situated.md)
-* [Abrazando la condición postmoderna](../../blog/output/blog/2017/la-llamada.html)
-* [Descentralizando la blogosfera](../../blog/output/blog/2017/descentralizando.html)
+* [Abrazando la condición postmoderna](http://blog.xmunch.com/blog/2017/la-llamada.html)
+* [Descentralizando la blogosfera](http://blog.xmunch.com/blog/2017/descentralizando.html)

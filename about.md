@@ -74,7 +74,7 @@ It does not go deep in specific coordinates. It ignores cities, national parks, 
 
 However, it summarizes how traveling constituted a very important part of my individual exploration. How moving freely has been as basic to me as breathing<!---; and even how a period of [*self-isolation*](content/articles/self-isolation.md) had important implications for my self-reflection regarding [identity](content/concepts/identity.md)-->.
 
-Some time ago I wrote a post about how traveling helped me to [embrace the postmodern condition](../blog/output/blog/2017/la-llamada.html) but the radical importance of traveling in my philosophical quest is better addressed in this article about the [situated epoché](content/articles/situated.md).
+Some time ago I wrote a post about how traveling helped me to [embrace the postmodern condition](http://blog.xmunch.com/blog/2017/la-llamada.html) but the radical importance of traveling in my philosophical quest is better addressed in this article about the [situated epoché](content/articles/situated.md).
 
 ## Social Links
 

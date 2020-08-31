@@ -1,6 +1,10 @@
 # Dat
 
-tags: recipes, technology, p2p, dat
+tags: recipes, technology, p2p, dat, decentralization, hypercore, hyperdrive
+
+
+Note! This recipe has not beeen updated after the update from the dat protocol to the hyper protocol! Pending to be reviewed and updated ;)
+
 
 ## Is this a P2P site?
 

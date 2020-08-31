@@ -1,7 +1,7 @@
 
 # Distributed networks
 
-tags: epistemology, topology, complexity, knowledge, p2p, networks, distributed, concepts
+tags: epistemology, topology, complexity, knowledge, p2p, networks, distributed, concepts, decentralization
 
 ## Visual explanation
 

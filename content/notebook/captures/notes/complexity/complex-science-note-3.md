@@ -1,6 +1,6 @@
 # Complexity and cooperation
 
-tags: complexity-notes, notes, complexity, complex science, complex adaptive systems, evolution, computation, biology, social complexity, cooperation, quotes
+tags: complexity-notes, notes, complexity, complex science, complex adaptive systems, evolution, computation, biology, social complexity, cooperation, quotes, decentralization
 
 > “In SuperCooperators, mathematical biologist Martin Nowak and New Scientist editor Roger Higheld present for nonspecialists recent progress in understanding how cooperation evolves from the competitive interactions inherent in Darwinian dynamics. They argue that we now know enough about the mathematics of adaptation to conceive of cooperation as a fundamental evolutionary principle and not merely as a surprising feature of biology in some way at odds with evolutionary processes. [...] In the penultimate chapter, Nowak suggests unification in the form of one parameter, his sigma—the structure coeficient. Sigma measures the rate of like interactions in an evolutionary game (e.g., cooperators encountering cooperators or defectors encountering defectors). When sigma exceeds unity, cooperation invades; when below, selfishness. Sigma captures in one scalar value essential features of assortative interactions, and hence it points toward the essential processes underlying the origin of cooperation.”
 

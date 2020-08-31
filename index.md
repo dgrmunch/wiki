@@ -2,7 +2,7 @@
 
 ## Context for new visitors
 
-This site is a open-ended philosophical project, a dynamic digital book about [cognitive science](tags/cognitive science.md), [self-organization](tags/self-organization.md), [philosophy of mind](content/notebook/maps/philosophy.md), [phenomenology](content/concepts/phenomenology.md), [DIY neuroscience](tags/neuroscience.md) and [complex systems](tags/complexity.md). 
+This site is a open-ended philosophical project, a dynamic digital book about [cognitive science](tags/cognitive science.md), [decentralization](tags/decentralization.md), [self-organization](tags/self-organization.md), [philosophy of mind](content/notebook/maps/philosophy.md), [phenomenology](content/concepts/phenomenology.md), [DIY neuroscience](tags/neuroscience.md) and [complex systems](tags/complexity.md). 
 
 It is also a personal wiki with random notes about different topics. Beyond conceptual [consensus](content/concepts/consensus.md), this continuously-evolving knowledge repository serves as a backup of a subjective philosophical viewpoint. 
 

@@ -1,6 +1,6 @@
 # Bacterial-Based Algorithm to Simulate Complex Adaptive Systems
 
-tags: complexity-notes, notes, complexity, complex science, complex adaptive systems, evolution, bio-inspired, artificial life, articles
+tags: complexity-notes, notes, complexity, complex science, complex adaptive systems, evolution, bio-inspired, artificial life, articles,decentralization
 
 I published this book chapter in the Springer *Lecture Notes in Computer Science Volume 8575, 2014, pp 250-259*.
 

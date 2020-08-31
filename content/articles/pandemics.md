@@ -1,6 +1,6 @@
 # Distributed Networks and Pandemics
 
-tags: philosophy, distributed, p2p, self, identity, heterogeneity, systems biology, philosophy of mind, politics, social, phenomenology, articles, biology
+tags: philosophy, distributed, p2p, self, identity, heterogeneity, systems biology, philosophy of mind, politics, social, phenomenology, articles, biology, decentralization
 
 ## Information spreading in distributed networks
 

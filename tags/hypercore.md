@@ -1,5 +1,5 @@
 
-# tag: technology
+# tag: hypercore
 
  * **[Dat](../content/recipes/dat.md)**
 

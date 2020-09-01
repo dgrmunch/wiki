@@ -1,5 +1,5 @@
 
-# tag: consensus
+# tag: blockchain
 
  * **[Blockchain](../content/concepts/blockchain.md)**
 

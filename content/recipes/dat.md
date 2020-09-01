@@ -14,8 +14,6 @@ It has been built following the experimental technologies of the *peer-to-peer w
 
 With the clear intention of resisting the process of centralization of the Internet, by which vigilance, epistemological homogeneity, psychological manipulation, lack of data-ownership, and DNS-based censorship are becoming a growing threat, this site advocates for **peer-to-peer** (_P2P_) alternatives as emancipatory tools for any human being, but specially for writers and artists.
 
-*P2P* technologies could lead to new practices of self-sovereignty, not only for the *cyberspace* inhabitants, but also for *off-the-grid* communities in rural areas, political activists and journalists, _hackers_ and free thinkers all over the world.
-
 This archive of thoughts and rhizomatic notes can be *seeded* or *pinned* by anyone (basically, it can be *mirrored* in the dat network to guarantee it is accessible by other *peers* anytime).
 
 As long as you know the `public key` identifier and the protocol you can keep a local synchronized copy. 

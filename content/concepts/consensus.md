@@ -1,7 +1,7 @@
 
 # Consensus
 
-tags: consensus, politics, social, narrative, epistemology, ontology, p2p, truth, distributed, concepts
+tags: consensus, politics, social, narrative, epistemology, ontology, p2p, truth, distributed, concepts, decentralization, blockchain
 
 ## Description
 
@@ -16,16 +16,23 @@ Social experiments in the last couple of decades have become hard to sustain whe
 In order to become sustainable in the long term, different mechanisms can be introduced in consensus layers. 
 For example, cryptography and incentives.
 
-Large scale coordination and [distributed](distributed_networks.md) consensus between nodes can be easily sustained thanks to the use of peer-to-peer technologies such as the blockchain.
+Large scale coordination and [distributed](distributed_networks.md) consensus between nodes can be easily sustained thanks to the use of peer-to-peer technologies such as the [blockchain](blockchain.md) stack.
 
 Specifically, the Bitcoin network has enabled more than a decade of large-scale coordination by combining cryptographic hashes, Merkle trees, P2P networking and a Proof-of-work algorithm. 
 
 Surprisingly, the Bitcoin network has enabled the common agreement of a significant volume of worldwide population during so many years. And without any central control, just by using a common protocol, a unique consensus layer empowered by P2P technology.
 
-The combination of blockchain technologies with reputation systems, liquid-democracy models and smart contracts thanks to the arrival of Ethereum and other technologies have enabled a fascinating playground to create large-scale consensus. 
+The combination of [blockchain](blockchain.md) technologies with reputation systems, liquid-democracy models and smart contracts thanks to the arrival of Ethereum and other technologies have enabled a fascinating playground to create large-scale consensus. 
 
 Digital signatures and simple cryptography with append-only log structures can be used too for one-to-one agreements without the need of large-scale layers such as blockchains.
 
-Consensus is important to guarantee a shared understanding and a common ontology. It implies assumptions not necessarily valid for everything though. For example, in scenarios in which subjective ontologies, pluralism and heterogeneity are demanded, there is no need for common vocabularies, common policies or any shared social contracts.  Individual [identity](identity.md) would have its own narrative.
+Consensus is important to guarantee a shared understanding and a common ontology. It implies assumptions not necessarily valid for everything though. For example, in scenarios in which subjective ontologies, pluralism and heterogeneity are demanded, there is no need for common vocabularies, common policies or any shared social contracts. Individual [identity](identity.md) would have its own narrative.
 
-In those cases a simple blog, a wiki and a digital signature are more than enough to enable the existence of a certain notion of truth, certain individual opinion, certain ontology.
+In those cases a simple blog, a plain text file, a wiki or a digital signature are more than enough to enable the existence of a certain subjective notion of truth, certain individual opinion, certain ontology.
+
+
+## Related concepts
+
+* [blockchain](blockchain.md)
+* [distributed networks](distributed_networks.md)
+* [decentralization](decentralization.md)

@@ -10,6 +10,9 @@
  * **[Rhizomatic Epistemology](../content/concepts/rhizomatic_epistemology.md)**
 
   * Tags:  <a class="tag" href="#!tags/epistemology.md">epistemology</a>  <a class="tag" href="#!tags/topology.md">topology</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/rhizome.md">rhizome</a>  <a class="tag" href="#!tags/knowledge.md">knowledge</a>  <a class="tag" href="#!tags/spanish.md">spanish</a>  <a class="tag" href="#!tags/concepts.md">concepts</a>
+ * **[Decentralization](../content/concepts/decentralization.md)**
+
+  * Tags:  <a class="tag" href="#!tags/consensus.md">consensus</a>  <a class="tag" href="#!tags/p2p.md">p2p</a>  <a class="tag" href="#!tags/truth.md">truth</a>  <a class="tag" href="#!tags/distributed.md">distributed</a>  <a class="tag" href="#!tags/concepts.md">concepts</a>  <a class="tag" href="#!tags/decentralization.md">decentralization</a>  <a class="tag" href="#!tags/blockchain.md">blockchain</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>
  * **[Rhizome](../content/concepts/rhizome.md)**
 
   * Tags:  <a class="tag" href="#!tags/epistemology.md">epistemology</a>  <a class="tag" href="#!tags/topology.md">topology</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/knowledge.md">knowledge</a>  <a class="tag" href="#!tags/rhizome.md">rhizome</a>  <a class="tag" href="#!tags/concepts.md">concepts</a>

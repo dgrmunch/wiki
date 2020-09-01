@@ -4,11 +4,11 @@ tags: academic, ontology, philosophy, truth, cognitive science, subjective, iden
 
 ## Description
 
-A subjective ontology constitutes the set of mental entities of an individual mind. A subjective ontology causally emerges from its neurophysiological brain correlates, which could be studied by [cognitive neuroscience](../../tags/neuroscience.md). However, it represents the domain of what is real from an individual perspective. 
+A **subjective ontology** constitutes the set of mental entities of an individual mind. A subjective ontology causally emerges from its neurophysiological brain correlates, which could be studied by [cognitive neuroscience](../../tags/neuroscience.md). However, it represents the domain of what is real from an individual perspective. 
 
-When combined with others subjective ontologies through communication and consensus mechanisms, it leads to social dynamics and collective ontologies.
+When combined with other subjective ontologies through communication, social dynamics and consensus mechanisms, it leads to **collective ontologies** and social configurations (and what we generally define as culture).
 
-Both *subjective ontologies* and *collective ontologies* emerge from human [sense-making](sense-making.md) processes.
+Both subjective ontologies* and collective ontologies emerge from human [sense-making](sense-making.md) processes.
 But far from any dualism, accepting the existence of a unique material reality and an objective truth (the physical world and its rules), we should assume that these ontologies constitute philosophical realities which could also be studied from a [phenomenological](phenomenology.md) perspective, as they are perceived and experienced by the subject.
 
 In that sense, [neurophenomenology](../../tags/neurophenomenology.md) seems a valid tool to understand the human mind in a context of pluralism.

@@ -8,9 +8,9 @@ Decentralization basically refers to a progressive transition from operations wh
 
 Decentralization can be described as a political, social, cultural and technical pathway towards bottom-up self-organization and de-hierarchization. 
 
-P2P (peer-to-peer) technologies empower individuals by removing the middle man from their interactions, replacing centralized control and blind faith by a democratization of coordination, information sharing tools and consensus mechanisms. In other words, a transition from centralized dependencies to networks of trust in which peers are empowered by reliable technology and open protocols.
+ [P2P](../../tags/p2p.md) (peer-to-peer) technologies empower individuals by removing the middle man from their interactions, replacing centralized control and blind faith by a democratization of coordination, information sharing tools and consensus mechanisms. In other words, a transition from centralized dependencies to networks of trust in which peers are empowered by reliable technology and open protocols.
 
-*P2P* technologies could lead to new practices of self-sovereignty, not only for the *cyberspace* inhabitants, but also for *off-the-grid* communities in rural areas (see *SSB*), political activists and journalists, _hackers_ and free thinkers all over the world.
+ [P2P](../../tags/p2p.md) technologies could lead to new practices of self-sovereignty, not only for the *cyberspace* inhabitants, but also for *off-the-grid* communities in rural areas (see *SSB*), political activists and journalists, _hackers_ and free thinkers all over the world.
 
 Decentralization technologies, communities and projects:
 

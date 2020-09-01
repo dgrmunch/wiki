@@ -11,7 +11,7 @@ When combined with others subjective ontologies through communication and consen
 Both *subjective ontologies* and *collective ontologies* emerge from human [sense-making](sense-making.md) processes.
 But far from any dualism, accepting the existence of a unique material reality and an objective truth (the physical world and its rules), we should assume that these ontologies constitute philosophical realities which could also be studied from a [phenomenological](phenomenology.md) perspective, as they are perceived and experienced by the subject.
 
-In that sense, [neurophenomenology](../../tags/neurophenomenology) seems a valid tool to understand the human mind in a context of pluralism.
+In that sense, [neurophenomenology](../../tags/neurophenomenology.md) seems a valid tool to understand the human mind in a context of pluralism.
 
 <tree>
     

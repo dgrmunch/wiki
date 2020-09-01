@@ -5,7 +5,7 @@ tags: topology, ethnography, mind, ontology, philosophy of mind, history, networ
 
 ## Description
 
-In order to properly understand the complexity of any social agent, it is important to dig into the pathways it[*](../notebook/bilingualism/pronouns.md) went through. 
+In order to properly understand the complexity of any social agent, it is important to dig into the pathways it[*](../notebook/pronouns.md) went through. 
 
 Pathways are part of the [rhizome](rhizome.md) and constitute a set of chronological structures, a multidimensional scaffold of personal narratives.
 

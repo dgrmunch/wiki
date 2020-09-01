@@ -4,7 +4,7 @@
 
 ## Brain Waves
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) > [neuroscience](../content/notebook/captures/notes/neuroscience.md) >  [Brain Waves](../content/notebook/captures/notes/neuroscience/brain-waves-notes.md)
+ Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Brain Waves](../content/notebook/captures/notes/brain-waves-notes.md)
 
 
 
@@ -25,7 +25,7 @@ Read more about [neuroscience](#!tags/neuroscience.md) in the notes about [erp](
 
 ## Electroencephalography (EEG) notes# Arriving to neuroscience
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) > [neuroscience](../content/notebook/captures/notes/neuroscience.md) >  [Electroencephalography (EEG) notes](../content/notebook/captures/notes/neuroscience/eeg-notes.md)
+ Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Electroencephalography (EEG) notes](../content/notebook/captures/notes/eeg-notes.md)
 
 
 
@@ -134,7 +134,7 @@ https://rdrr.io/rforge/dplR/man/pass.filt.html
 
 ## Notes about event-related potentials (ERPs)
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) > [neuroscience](../content/notebook/captures/notes/neuroscience.md) >  [Notes about event-related potentials (ERPs)](../content/notebook/captures/notes/neuroscience/erp-notes.md)
+ Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Notes about event-related potentials (ERPs)](../content/notebook/captures/notes/erp-notes.md)
 
 
 

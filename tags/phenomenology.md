@@ -25,18 +25,18 @@
  * **[Visual koan](../content/concepts/visual_koan.md)**
 
   * Tags:  <a class="tag" href="#!tags/academic.md">academic</a>  <a class="tag" href="#!tags/mind.md">mind</a>  <a class="tag" href="#!tags/epistemology.md">epistemology</a>  <a class="tag" href="#!tags/visual.md">visual</a>  <a class="tag" href="#!tags/map.md">map</a>  <a class="tag" href="#!tags/cognitive science.md">cognitive science</a>  <a class="tag" href="#!tags/arts.md">arts</a>  <a class="tag" href="#!tags/zen.md">zen</a>  <a class="tag" href="#!tags/subjective.md">subjective</a>  <a class="tag" href="#!tags/photography.md">photography</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/concepts.md">concepts</a>  <a class="tag" href="#!tags/visual koan.md">visual koan</a>
- * **[Single-subject design](../content/notebook/captures/notes/neuroscience/single-subject-design.md)**
+ * **[Single-subject design](../content/notebook/captures/notes/single-subject-design.md)**
 
   * Tags:  <a class="tag" href="#!tags/single-subject research.md">single-subject research</a>  <a class="tag" href="#!tags/DIY neuroscience.md">DIY neuroscience</a>  <a class="tag" href="#!tags/DIY.md">DIY</a>  <a class="tag" href="#!tags/subjective.md">subjective</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/eeg.md">eeg</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>
- * **[Embodied dynamicism](../content/notebook/captures/notes/neuroscience/embodied-dynamicism.md)**
+ * **[Embodied dynamicism](../content/notebook/captures/notes/embodied-dynamicism.md)**
 
   * Tags:  <a class="tag" href="#!tags/cognitive science.md">cognitive science</a>  <a class="tag" href="#!tags/embodied cognition.md">embodied cognition</a>  <a class="tag" href="#!tags/dynamical systems.md">dynamical systems</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/autopoiesis.md">autopoiesis</a>  <a class="tag" href="#!tags/biology.md">biology</a>  <a class="tag" href="#!tags/enactive.md">enactive</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/neurophenomenology.md">neurophenomenology</a>  <a class="tag" href="#!tags/philosophy of mind.md">philosophy of mind</a>  <a class="tag" href="#!tags/embodied dynamicism.md">embodied dynamicism</a>  <a class="tag" href="#!tags/dynamical systems theory.md">dynamical systems theory</a>  <a class="tag" href="#!tags/self-organization.md">self-organization</a>  <a class="tag" href="#!tags/virtual reality.md">virtual reality</a>
- * **[Phenomenology Notes in Spanish](../content/notebook/captures/notes/neuroscience/phenomenology-notes.md)**
+ * **[Phenomenology Notes in Spanish](../content/notebook/captures/notes/phenomenology-notes.md)**
 
   * Tags:  <a class="tag" href="#!tags/spanish.md">spanish</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/phenomenology-notes.md">phenomenology-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>
- * **[Meta-cognition and Lucid Dreaming](../content/notebook/captures/notes/neuroscience/lucid-dreaming-notes.md)**
+ * **[Meta-cognition and Lucid Dreaming](../content/notebook/captures/notes/lucid-dreaming-notes.md)**
 
   * Tags:  <a class="tag" href="#!tags/eeg.md">eeg</a>  <a class="tag" href="#!tags/lucid-dreaming.md">lucid-dreaming</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/neuroscience.md">neuroscience</a>  <a class="tag" href="#!tags/cognitive science.md">cognitive science</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/neurophenomenology.md">neurophenomenology</a>  <a class="tag" href="#!tags/erp.md">erp</a>  <a class="tag" href="#!tags/research.md">research</a>  <a class="tag" href="#!tags/meta-cognition.md">meta-cognition</a>
- * **[Phenomenology pending readings](../content/notebook/captures/notes/neuroscience/phenomenology-readings.md)**
+ * **[Phenomenology pending readings](../content/notebook/captures/notes/phenomenology-readings.md)**
 
   * Tags:  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/phenomenology-notes.md">phenomenology-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>

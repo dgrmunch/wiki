@@ -7,7 +7,7 @@
  * **[Pathways](../content/concepts/pathways.md)**
 
   * Tags:  <a class="tag" href="#!tags/topology.md">topology</a>  <a class="tag" href="#!tags/ethnography.md">ethnography</a>  <a class="tag" href="#!tags/mind.md">mind</a>  <a class="tag" href="#!tags/ontology.md">ontology</a>  <a class="tag" href="#!tags/philosophy of mind.md">philosophy of mind</a>  <a class="tag" href="#!tags/history.md">history</a>  <a class="tag" href="#!tags/networks.md">networks</a>  <a class="tag" href="#!tags/rhizome.md">rhizome</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/subjective.md">subjective</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/path.md">path</a>  <a class="tag" href="#!tags/concepts.md">concepts</a>
- * **[Situated Learning / Ethnography Bibliography](../content/notebook/captures/notes/bibliography/uoft-note-situated-bibliography.md)**
+ * **[Situated Learning / Ethnography Bibliography](../content/notebook/captures/notes/uoft-note-situated-bibliography.md)**
 
   * Tags:  <a class="tag" href="#!tags/methodology.md">methodology</a>  <a class="tag" href="#!tags/phd.md">phd</a>  <a class="tag" href="#!tags/situated.md">situated</a>  <a class="tag" href="#!tags/embodied.md">embodied</a>  <a class="tag" href="#!tags/ethnography.md">ethnography</a>  <a class="tag" href="#!tags/emergence.md">emergence</a>  <a class="tag" href="#!tags/authors.md">authors</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/scholars.md">scholars</a>  <a class="tag" href="#!tags/uoft-notes.md">uoft-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>
  * **[Academic path](../content/notebook/maps/academic.md)**

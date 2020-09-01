@@ -349,4 +349,10 @@ https://backyardbrains.com/products/files/Extracting_Frequency_Bands_EEG.pdf
 
 http://www.markwk.com/meditation-effect-on-cognition-experiment.html
 
+## 20 Aug 2020 at 01:26
+
+> Type: **Resource**
+
+https://github.com/Swordfish90/cool-retro-term
+
 

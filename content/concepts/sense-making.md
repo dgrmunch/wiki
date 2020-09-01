@@ -14,9 +14,9 @@ Initially, *sense-making* could be perceived as a process for knowledge acquisit
 
 I rather understand sense-making as a trial and error challenge by which cognitive agents **accommodate new inputs to previously existing knowledge models**. 
 
-In that regard, if the agent is empowered with cognitive tools such as **critical thinking**, probably its[*](../notebook/bilingualism/pronouns.md) model of the world could generally describe the actual material reality, although only under the circumstances of a given perception and a historical context.
+In that regard, if the agent is empowered with cognitive tools such as **critical thinking**, probably its[*](../notebook/pronouns.md) model of the world could generally describe the actual material reality, although only under the circumstances of a given perception and a historical context.
 
-If its[*](../notebook/bilingualism/pronouns.md) observations are matched against the scientific method, or any methodological paradigm endowed with verifiability and falsifiability, the correlation between reality and *sense-making* outcomes would be even more reliable.
+If its[*](../notebook/pronouns.md) observations are matched against the scientific method, or any methodological paradigm endowed with verifiability and falsifiability, the correlation between reality and *sense-making* outcomes would be even more reliable.
 
 However, even in those cases, social agents are just:
 

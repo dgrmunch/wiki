@@ -4,7 +4,7 @@
 
 ## Bibliography: Self-Organization and Cooperation in Social Systems
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) > [complexity](../content/notebook/captures/notes/complexity.md) >  [Bibliography: Self-Organization and Cooperation in Social Systems](../content/notebook/captures/notes/complexity/complex-science-note-5.md)
+ Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Bibliography: Self-Organization and Cooperation in Social Systems](../content/notebook/captures/notes/complex-science-note-5.md)
 
 
 
@@ -36,7 +36,7 @@
 
 ## Bacterial-Based Algorithm to Simulate Complex Adaptive Systems
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) > [complexity](../content/notebook/captures/notes/complexity.md) >  [Bacterial-Based Algorithm to Simulate Complex Adaptive Systems](../content/notebook/captures/notes/complexity/complex-science-note-1.md)
+ Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Bacterial-Based Algorithm to Simulate Complex Adaptive Systems](../content/notebook/captures/notes/complex-science-note-1.md)
 
 
 
@@ -59,7 +59,7 @@ I published this book chapter in the Springer *Lecture Notes in Computer Science
 
 ## Bibliography: Complex Systems and Genetic Algorithms
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) > [complexity](../content/notebook/captures/notes/complexity.md) >  [Bibliography: Complex Systems and Genetic Algorithms](../content/notebook/captures/notes/complexity/complex-science-note-4.md)
+ Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Bibliography: Complex Systems and Genetic Algorithms](../content/notebook/captures/notes/complex-science-note-4.md)
 
 
 
@@ -83,7 +83,7 @@ I published this book chapter in the Springer *Lecture Notes in Computer Science
 
 ## Complexity and cooperation
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) > [complexity](../content/notebook/captures/notes/complexity.md) >  [Complexity and cooperation](../content/notebook/captures/notes/complexity/complex-science-note-3.md)
+ Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Complexity and cooperation](../content/notebook/captures/notes/complex-science-note-3.md)
 
 
 
@@ -110,7 +110,7 @@ I published this book chapter in the Springer *Lecture Notes in Computer Science
 
 ## Lansing on Complex Adaptive Systems
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) > [complexity](../content/notebook/captures/notes/complexity.md) >  [Lansing on Complex Adaptive Systems](../content/notebook/captures/notes/complexity/complex-science-note-7.md)
+ Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Lansing on Complex Adaptive Systems](../content/notebook/captures/notes/complex-science-note-7.md)
 
 
 
@@ -138,7 +138,7 @@ About cooperation and the “tragedy of the commons”. Pointing out that game t
 
 ## Lansing on Emergence of Cooperation
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) > [complexity](../content/notebook/captures/notes/complexity.md) >  [Lansing on Emergence of Cooperation](../content/notebook/captures/notes/complexity/complex-science-note-6.md)
+ Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Lansing on Emergence of Cooperation](../content/notebook/captures/notes/complex-science-note-6.md)
 
 
 
@@ -171,7 +171,7 @@ And the biggest step, jumping to “social contract”:
 
 ## Genetics in computational terms
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) > [complexity](../content/notebook/captures/notes/complexity.md) >  [Genetics in computational terms](../content/notebook/captures/notes/complexity/complex-science-note-2.md)
+ Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Genetics in computational terms](../content/notebook/captures/notes/complex-science-note-2.md)
 
 
 

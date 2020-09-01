@@ -1,18 +1,18 @@
 
 # tag: scholars
 
- * **[UofT: Notes from meetings with collaborators](../content/notebook/captures/notes/bibliography/uoft-note-meetings.md)**
+ * **[UofT: Notes from meetings with collaborators](../content/notebook/captures/notes/uoft-note-meetings.md)**
 
   * Tags:  <a class="tag" href="#!tags/cognition.md">cognition</a>  <a class="tag" href="#!tags/p2p.md">p2p</a>  <a class="tag" href="#!tags/meetings.md">meetings</a>  <a class="tag" href="#!tags/phd.md">phd</a>  <a class="tag" href="#!tags/network theory.md">network theory</a>  <a class="tag" href="#!tags/sociology.md">sociology</a>  <a class="tag" href="#!tags/social complexity.md">social complexity</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/uoft-notes.md">uoft-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/authors.md">authors</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/scholars.md">scholars</a>
- * **[Authors](../content/notebook/captures/notes/bibliography/authors-notes.md)**
+ * **[Authors](../content/notebook/captures/notes/authors-notes.md)**
 
   * Tags:  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/authors.md">authors</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/scholars.md">scholars</a>
- * **[Situated Learning / Ethnography Bibliography](../content/notebook/captures/notes/bibliography/uoft-note-situated-bibliography.md)**
+ * **[Situated Learning / Ethnography Bibliography](../content/notebook/captures/notes/uoft-note-situated-bibliography.md)**
 
   * Tags:  <a class="tag" href="#!tags/methodology.md">methodology</a>  <a class="tag" href="#!tags/phd.md">phd</a>  <a class="tag" href="#!tags/situated.md">situated</a>  <a class="tag" href="#!tags/embodied.md">embodied</a>  <a class="tag" href="#!tags/ethnography.md">ethnography</a>  <a class="tag" href="#!tags/emergence.md">emergence</a>  <a class="tag" href="#!tags/authors.md">authors</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/scholars.md">scholars</a>  <a class="tag" href="#!tags/uoft-notes.md">uoft-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>
- * **[University of Toronto: Bibliography and Recommendations](../content/notebook/captures/notes/bibliography/uoft-note-bibliography.md)**
+ * **[University of Toronto: Bibliography and Recommendations](../content/notebook/captures/notes/uoft-note-bibliography.md)**
 
   * Tags:  <a class="tag" href="#!tags/cognition.md">cognition</a>  <a class="tag" href="#!tags/p2p.md">p2p</a>  <a class="tag" href="#!tags/phd.md">phd</a>  <a class="tag" href="#!tags/learning.md">learning</a>  <a class="tag" href="#!tags/epistemology.md">epistemology</a>  <a class="tag" href="#!tags/authors.md">authors</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/scholars.md">scholars</a>  <a class="tag" href="#!tags/uoft-notes.md">uoft-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>
- * **[Mark Poster bibliography](../content/notebook/captures/notes/bibliography/uoft-note-mark-bibliography.md)**
+ * **[Mark Poster bibliography](../content/notebook/captures/notes/uoft-note-mark-bibliography.md)**
 
   * Tags:  <a class="tag" href="#!tags/critical theory.md">critical theory</a>  <a class="tag" href="#!tags/phd.md">phd</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/poststructuralism.md">poststructuralism</a>  <a class="tag" href="#!tags/existencialsm.md">existencialsm</a>  <a class="tag" href="#!tags/postmodern.md">postmodern</a>  <a class="tag" href="#!tags/social implications of technology.md">social implications of technology</a>  <a class="tag" href="#!tags/hypertext.md">hypertext</a>  <a class="tag" href="#!tags/uoft-notes.md">uoft-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/authors.md">authors</a>  <a class="tag" href="#!tags/scholars.md">scholars</a>

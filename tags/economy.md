@@ -1,9 +1,9 @@
 
 # tag: economy
 
- * **[Bibliography: Self-Organization and Cooperation in Social Systems](../content/notebook/captures/notes/complexity/complex-science-note-5.md)**
+ * **[Bibliography: Self-Organization and Cooperation in Social Systems](../content/notebook/captures/notes/complex-science-note-5.md)**
 
   * Tags:  <a class="tag" href="#!tags/complexity-notes.md">complexity-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/complex science.md">complex science</a>  <a class="tag" href="#!tags/complex adaptive systems.md">complex adaptive systems</a>  <a class="tag" href="#!tags/evolution.md">evolution</a>  <a class="tag" href="#!tags/computation.md">computation</a>  <a class="tag" href="#!tags/biology.md">biology</a>  <a class="tag" href="#!tags/social complexity.md">social complexity</a>  <a class="tag" href="#!tags/economy.md">economy</a>  <a class="tag" href="#!tags/bio-inspired.md">bio-inspired</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>
- * **[Lansing on Complex Adaptive Systems](../content/notebook/captures/notes/complexity/complex-science-note-7.md)**
+ * **[Lansing on Complex Adaptive Systems](../content/notebook/captures/notes/complex-science-note-7.md)**
 
   * Tags:  <a class="tag" href="#!tags/complexity-notes.md">complexity-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/complex science.md">complex science</a>  <a class="tag" href="#!tags/complex adaptive systems.md">complex adaptive systems</a>  <a class="tag" href="#!tags/evolution.md">evolution</a>  <a class="tag" href="#!tags/cooperation.md">cooperation</a>  <a class="tag" href="#!tags/emergence.md">emergence</a>  <a class="tag" href="#!tags/social complexity.md">social complexity</a>  <a class="tag" href="#!tags/anthropology.md">anthropology</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/economy.md">economy</a>

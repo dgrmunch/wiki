@@ -25,16 +25,16 @@
  * **[Subjective ontology](../content/concepts/subjective_ontology.md)**
 
   * Tags:  <a class="tag" href="#!tags/academic.md">academic</a>  <a class="tag" href="#!tags/ontology.md">ontology</a>  <a class="tag" href="#!tags/philosophy.md">philosophy</a>  <a class="tag" href="#!tags/truth.md">truth</a>  <a class="tag" href="#!tags/cognitive science.md">cognitive science</a>  <a class="tag" href="#!tags/subjective.md">subjective</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/mind.md">mind</a>  <a class="tag" href="#!tags/concepts.md">concepts</a>
- * **[Single-subject design](../content/notebook/captures/notes/neuroscience/single-subject-design.md)**
-
-  * Tags:  <a class="tag" href="#!tags/single-subject research.md">single-subject research</a>  <a class="tag" href="#!tags/DIY neuroscience.md">DIY neuroscience</a>  <a class="tag" href="#!tags/DIY.md">DIY</a>  <a class="tag" href="#!tags/subjective.md">subjective</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/eeg.md">eeg</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>
- * **[Automatic writing](../content/notebook/captures/notes/thoughts/automatic-writing-identity.md)**
+ * **[Automatic writing](../content/notebook/captures/notes/automatic-writing-identity.md)**
 
   * Tags:  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/poetry.md">poetry</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/identity-notes.md">identity-notes</a>
- * **[Conflicts](../content/notebook/captures/notes/thoughts/conflicts-notes.md)**
+ * **[Single-subject design](../content/notebook/captures/notes/single-subject-design.md)**
+
+  * Tags:  <a class="tag" href="#!tags/single-subject research.md">single-subject research</a>  <a class="tag" href="#!tags/DIY neuroscience.md">DIY neuroscience</a>  <a class="tag" href="#!tags/DIY.md">DIY</a>  <a class="tag" href="#!tags/subjective.md">subjective</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/eeg.md">eeg</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>
+ * **[Conflicts](../content/notebook/captures/notes/conflicts-notes.md)**
 
   * Tags:  <a class="tag" href="#!tags/identity-notes.md">identity-notes</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/notes.md">notes</a>
- * **[Writing about Identity?](../content/notebook/captures/notes/thoughts/identity-notes.md)**
+ * **[Writing about Identity?](../content/notebook/captures/notes/identity-notes.md)**
 
   * Tags:  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/identity-notes.md">identity-notes</a>
  * **[About](../about.md)**

@@ -7,16 +7,13 @@ tags: identity, tech, phd, software engineer, research, curriculum, sciart
 
 * **Name**:
   * Diego González, PhD
-  <br>
-* **Current work status:**:
+* **Current work status:**
   * Founder of SciArt Lab
-  * Blockchain Expert / Sofware Engineer at Docuten
-  <br>
+  * Software Engineer & Blockchain Expert at Docuten
 * **General labels**:
-  * Software Engineer
-  * Part-time writer/researcher
+  * Software engineer
   * Full-time dad
-  * Maker / Photographer / Digital Artist
+  * Part-time writer/researcher
 * **Education:**
   * **Postdoctoral Researcher**, LIS Department, University of North Carolina (UNCG), 2016-2018
   * **Doctor of Philosophy (PhD)**, Information Science, Cum Laude, Universidad Carlos III de Madrid (UC3M), 2013-2015
@@ -25,7 +22,15 @@ tags: identity, tech, phd, software engineer, research, curriculum, sciart
   * **Master of Artificial Intelligence (MSc)**, Universidad Politécnica de Madrid (UPM), 2009-2011
   * **Graduate in Development Cooperation**, Universidad de Castilla la Mancha (UCLM), 2010-2011
   * **Computer Systems Engineering (BsC)**, Universidad de Castilla la Mancha (UCLM), 2005-2009.
-
+* **Interests:**
+  * Decentralization
+  * DIY Cognitive Neuroscience
+  * Phenomenology and Philosophy of Mind
+  * Complexity Sciences
+  * Photography and Digital Art
+  * Ethnography
+  * Software Development
+  * Self-organization
 
 ## Summary
 

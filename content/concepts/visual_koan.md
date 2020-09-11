@@ -45,5 +45,5 @@ We can assume *photography* as the *einklammerung* (*bracketing* or "judgment su
 
 My photos are open doors to my own personal reflection, but they can be used as dark windows to look through in order to explore your own narratives.
 
-Their real meaning, their real message, in encoded in the rhizome. There are so many ways to understand it but I recommend an open mindset. Replace your previous epistemologies and embrace a [rhizomatic epistemology](rhizomatic_epistemology.md).
+Their real meaning, their real message, is encoded in the rhizome. There are so many ways to understand it but I recommend an open mindset. Replace your previous epistemologies and embrace a [rhizomatic epistemology](rhizomatic_epistemology.md).
 

@@ -62,7 +62,7 @@ for(def file: list){
                         if(tag.trim().contains("-notes") && !file.toString().equals(tagFile.toString())){
                             tagFile << "\n\n#"                            
                             tagFile << fileTitle 
-                            tagFile << "\n\n Published at "+getSections(file)+" ["+getTitle(file)+"](../"+file.toString().replace("./","")+")\n\n"
+                            //tagFile << "\n\n Published at "+getSections(file)+" ["+getTitle(file)+"](../"+file.toString().replace("./","")+")\n\n"
                             tagFile << "\n\n"
                             for(def tag2 : tags){
                                 tagFile << '  <a class="tag" href="#!tags/'+tag2.trim()+'.md">'+tag2.trim()+'</a>'

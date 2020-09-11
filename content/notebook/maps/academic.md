@@ -45,7 +45,7 @@ The building blocks of life, individuals and societies were just **self-organize
 
 I did not have a straight pathway, but rather a rhizomatic exploration of knowledge. After finishing both degrees, I moved for some months to the United States and had a research placement in the Artificial Intelligence Lab of the University of North Carolina at Greensboro. I improved my English, my communication skills, my ideas about research and, above all, my worldview.
 
-When I came back to Spain, I prioritized looking for some funding and professional experience, so I started working as consultant and developer in IT. At the same time, I starting collaborating with the *Cognitive Neuroscience Center UCM-ISCIII for Human Evolution and Behavior* and kept volunteering in non-profit organizations. So I was partially focused in **[Cognitive Neuroscience](../../../tags/neuroscience.md)**, partially focused in Social Complexity, and partially focused in Computer Science and Software Engineering. 
+When I came back to Spain, I prioritized looking for some funding and professional experience, so I started working as consultant and developer in IT. At the same time, I started collaborating with the *Cognitive Neuroscience Center UCM-ISCIII for Human Evolution and Behavior* and kept volunteering in non-profit organizations. So I was partially focused in **[Cognitive Neuroscience](../../../tags/neuroscience.md)**, partially focused in Social Complexity, and partially focused in Computer Science and Software Engineering. 
 
 Some years later, I got a **PhD in Information Science** after doing some computational modeling of complex adaptive systems and writing several articles, book chapters and a dissertation about _peer-to-peer_ systems.
 
@@ -83,7 +83,7 @@ I continued working in IT while keeping my collaboration as a researcher in the 
 
 #### Discovering visual ethnography
 
-In 2016 moved back to the United States and started to develop the http://sciartlab.com[SciArt Lab] while in residence at the _LIS Department_ of the _University of North Carolina at Greensboro_.
+In 2016 moved back to the United States and started to develop the [SciArt Lab](http://sciartlab.com) while in residence at the _LIS Department_ of the _University of North Carolina at Greensboro_.
 
 Without the constraints of a doctoral program, I decided to go deeper in some of my old questions. It was time to move forward, beyond software, neurons and genes. Explore another layer of complex adaptive systems and social interactions. Jump to the real world.
 

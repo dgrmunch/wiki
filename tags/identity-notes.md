@@ -4,10 +4,6 @@
 
 ## Automatic writing
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Automatic writing](../content/notebook/captures/notes/automatic-writing-identity.md)
-
-
-
   <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/poetry.md">poetry</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/identity-notes.md">identity-notes</a>
 
   --- 
@@ -122,10 +118,6 @@
 
 ## Conflicts 
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Conflicts](../content/notebook/captures/notes/conflicts-notes.md)
-
-
-
   <a class="tag" href="#!tags/identity-notes.md">identity-notes</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/notes.md">notes</a>
 
   --- 
@@ -155,10 +147,6 @@
 
 
 ## Writing about Identity?
-
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Writing about Identity?](../content/notebook/captures/notes/identity-notes.md)
-
-
 
   <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/identity-notes.md">identity-notes</a>
 

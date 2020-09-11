@@ -4,10 +4,6 @@
 
 ## Phenomenology Notes in Spanish
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Phenomenology Notes in Spanish](../content/notebook/captures/notes/phenomenology-notes.md)
-
-
-
   <a class="tag" href="#!tags/spanish.md">spanish</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/phenomenology-notes.md">phenomenology-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>
 
   --- 
@@ -29,10 +25,6 @@ Existen otros métodos, como los [visual koans](visual_koan.md), que entienden l
 
 
 ## Phenomenology pending readings
-
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Phenomenology pending readings](../content/notebook/captures/notes/phenomenology-readings.md)
-
-
 
   <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/phenomenology-notes.md">phenomenology-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>
 

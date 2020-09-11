@@ -4,10 +4,6 @@
 
 ## Bibliography: Self-Organization and Cooperation in Social Systems
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Bibliography: Self-Organization and Cooperation in Social Systems](../content/notebook/captures/notes/complex-science-note-5.md)
-
-
-
   <a class="tag" href="#!tags/complexity-notes.md">complexity-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/complex science.md">complex science</a>  <a class="tag" href="#!tags/complex adaptive systems.md">complex adaptive systems</a>  <a class="tag" href="#!tags/evolution.md">evolution</a>  <a class="tag" href="#!tags/computation.md">computation</a>  <a class="tag" href="#!tags/biology.md">biology</a>  <a class="tag" href="#!tags/social complexity.md">social complexity</a>  <a class="tag" href="#!tags/economy.md">economy</a>  <a class="tag" href="#!tags/bio-inspired.md">bio-inspired</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>
 
   --- 
@@ -36,10 +32,6 @@
 
 ## Bacterial-Based Algorithm to Simulate Complex Adaptive Systems
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Bacterial-Based Algorithm to Simulate Complex Adaptive Systems](../content/notebook/captures/notes/complex-science-note-1.md)
-
-
-
   <a class="tag" href="#!tags/complexity-notes.md">complexity-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/complex science.md">complex science</a>  <a class="tag" href="#!tags/complex adaptive systems.md">complex adaptive systems</a>  <a class="tag" href="#!tags/evolution.md">evolution</a>  <a class="tag" href="#!tags/bio-inspired.md">bio-inspired</a>  <a class="tag" href="#!tags/artificial life.md">artificial life</a>  <a class="tag" href="#!tags/articles.md">articles</a>  <a class="tag" href="#!tags/decentralization.md">decentralization</a>
 
   --- 
@@ -58,10 +50,6 @@ I published this book chapter in the Springer *Lecture Notes in Computer Science
 
 
 ## Bibliography: Complex Systems and Genetic Algorithms
-
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Bibliography: Complex Systems and Genetic Algorithms](../content/notebook/captures/notes/complex-science-note-4.md)
-
-
 
   <a class="tag" href="#!tags/complexity-notes.md">complexity-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/complex science.md">complex science</a>  <a class="tag" href="#!tags/complex adaptive systems.md">complex adaptive systems</a>  <a class="tag" href="#!tags/evolution.md">evolution</a>  <a class="tag" href="#!tags/computation.md">computation</a>  <a class="tag" href="#!tags/biology.md">biology</a>  <a class="tag" href="#!tags/social complexity.md">social complexity</a>  <a class="tag" href="#!tags/bio-inspired.md">bio-inspired</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/genetic algorithms.md">genetic algorithms</a>
 
@@ -82,10 +70,6 @@ I published this book chapter in the Springer *Lecture Notes in Computer Science
 
 
 ## Complexity and cooperation
-
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Complexity and cooperation](../content/notebook/captures/notes/complex-science-note-3.md)
-
-
 
   <a class="tag" href="#!tags/complexity-notes.md">complexity-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/complex science.md">complex science</a>  <a class="tag" href="#!tags/complex adaptive systems.md">complex adaptive systems</a>  <a class="tag" href="#!tags/evolution.md">evolution</a>  <a class="tag" href="#!tags/computation.md">computation</a>  <a class="tag" href="#!tags/biology.md">biology</a>  <a class="tag" href="#!tags/social complexity.md">social complexity</a>  <a class="tag" href="#!tags/cooperation.md">cooperation</a>  <a class="tag" href="#!tags/quotes.md">quotes</a>  <a class="tag" href="#!tags/decentralization.md">decentralization</a>
 
@@ -110,10 +94,6 @@ I published this book chapter in the Springer *Lecture Notes in Computer Science
 
 ## Lansing on Complex Adaptive Systems
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Lansing on Complex Adaptive Systems](../content/notebook/captures/notes/complex-science-note-7.md)
-
-
-
   <a class="tag" href="#!tags/complexity-notes.md">complexity-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/complex science.md">complex science</a>  <a class="tag" href="#!tags/complex adaptive systems.md">complex adaptive systems</a>  <a class="tag" href="#!tags/evolution.md">evolution</a>  <a class="tag" href="#!tags/cooperation.md">cooperation</a>  <a class="tag" href="#!tags/emergence.md">emergence</a>  <a class="tag" href="#!tags/social complexity.md">social complexity</a>  <a class="tag" href="#!tags/anthropology.md">anthropology</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/economy.md">economy</a>
 
   --- 
@@ -137,10 +117,6 @@ About cooperation and the “tragedy of the commons”. Pointing out that game t
 
 
 ## Lansing on Emergence of Cooperation
-
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Lansing on Emergence of Cooperation](../content/notebook/captures/notes/complex-science-note-6.md)
-
-
 
   <a class="tag" href="#!tags/complexity-notes.md">complexity-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/complex science.md">complex science</a>  <a class="tag" href="#!tags/complex adaptive systems.md">complex adaptive systems</a>  <a class="tag" href="#!tags/evolution.md">evolution</a>  <a class="tag" href="#!tags/cooperation.md">cooperation</a>  <a class="tag" href="#!tags/emergence.md">emergence</a>  <a class="tag" href="#!tags/social complexity.md">social complexity</a>  <a class="tag" href="#!tags/anthropology.md">anthropology</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/artificial life.md">artificial life</a>
 
@@ -170,10 +146,6 @@ And the biggest step, jumping to “social contract”:
 
 
 ## Genetics in computational terms
-
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Genetics in computational terms](../content/notebook/captures/notes/complex-science-note-2.md)
-
-
 
   <a class="tag" href="#!tags/complexity-notes.md">complexity-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/complex science.md">complex science</a>  <a class="tag" href="#!tags/complex adaptive systems.md">complex adaptive systems</a>  <a class="tag" href="#!tags/evolution.md">evolution</a>  <a class="tag" href="#!tags/computation.md">computation</a>  <a class="tag" href="#!tags/biology.md">biology</a>  <a class="tag" href="#!tags/genetics.md">genetics</a>  <a class="tag" href="#!tags/quotes.md">quotes</a>
 

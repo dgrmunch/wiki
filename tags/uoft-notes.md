@@ -4,10 +4,6 @@
 
 ## UofT: Notes from meetings with collaborators
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [UofT: Notes from meetings with collaborators](../content/notebook/captures/notes/uoft-note-meetings.md)
-
-
-
   <a class="tag" href="#!tags/cognition.md">cognition</a>  <a class="tag" href="#!tags/p2p.md">p2p</a>  <a class="tag" href="#!tags/meetings.md">meetings</a>  <a class="tag" href="#!tags/phd.md">phd</a>  <a class="tag" href="#!tags/network theory.md">network theory</a>  <a class="tag" href="#!tags/sociology.md">sociology</a>  <a class="tag" href="#!tags/social complexity.md">social complexity</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/uoft-notes.md">uoft-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/authors.md">authors</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/scholars.md">scholars</a>
 
   --- 
@@ -88,10 +84,6 @@ analysis are used to collect relationship data using a social network analysis a
 
 ## Embodiment / Cybernetics Bibliography
 
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Embodiment / Cybernetics Bibliography](../content/notebook/captures/notes/uoft-note-cibernetics-bibliography.md)
-
-
-
   <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/phd.md">phd</a>  <a class="tag" href="#!tags/emergence.md">emergence</a>  <a class="tag" href="#!tags/cybernetics.md">cybernetics</a>  <a class="tag" href="#!tags/second-order systems theory.md">second-order systems theory</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/uoft-notes.md">uoft-notes</a>
 
   --- 
@@ -106,10 +98,6 @@ analysis are used to collect relationship data using a social network analysis a
 
 
 ## Situated Learning / Ethnography Bibliography
-
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Situated Learning / Ethnography Bibliography](../content/notebook/captures/notes/uoft-note-situated-bibliography.md)
-
-
 
   <a class="tag" href="#!tags/methodology.md">methodology</a>  <a class="tag" href="#!tags/phd.md">phd</a>  <a class="tag" href="#!tags/situated.md">situated</a>  <a class="tag" href="#!tags/embodied.md">embodied</a>  <a class="tag" href="#!tags/ethnography.md">ethnography</a>  <a class="tag" href="#!tags/emergence.md">emergence</a>  <a class="tag" href="#!tags/authors.md">authors</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/scholars.md">scholars</a>  <a class="tag" href="#!tags/uoft-notes.md">uoft-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>
 
@@ -126,10 +114,6 @@ analysis are used to collect relationship data using a social network analysis a
 
 
 ## University of Toronto: Bibliography and Recommendations
-
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [University of Toronto: Bibliography and Recommendations](../content/notebook/captures/notes/uoft-note-bibliography.md)
-
-
 
   <a class="tag" href="#!tags/cognition.md">cognition</a>  <a class="tag" href="#!tags/p2p.md">p2p</a>  <a class="tag" href="#!tags/phd.md">phd</a>  <a class="tag" href="#!tags/learning.md">learning</a>  <a class="tag" href="#!tags/epistemology.md">epistemology</a>  <a class="tag" href="#!tags/authors.md">authors</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/scholars.md">scholars</a>  <a class="tag" href="#!tags/uoft-notes.md">uoft-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>
 
@@ -168,10 +152,6 @@ analysis are used to collect relationship data using a social network analysis a
 
 
 ## Mark Poster bibliography
-
- Published at [notebook](../content/notebook.md) > [captures](../content/notebook/captures.md) > [notes](../content/notebook/captures/notes.md) >  [Mark Poster bibliography](../content/notebook/captures/notes/uoft-note-mark-bibliography.md)
-
-
 
   <a class="tag" href="#!tags/critical theory.md">critical theory</a>  <a class="tag" href="#!tags/phd.md">phd</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/poststructuralism.md">poststructuralism</a>  <a class="tag" href="#!tags/existencialsm.md">existencialsm</a>  <a class="tag" href="#!tags/postmodern.md">postmodern</a>  <a class="tag" href="#!tags/social implications of technology.md">social implications of technology</a>  <a class="tag" href="#!tags/hypertext.md">hypertext</a>  <a class="tag" href="#!tags/uoft-notes.md">uoft-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/authors.md">authors</a>  <a class="tag" href="#!tags/scholars.md">scholars</a>
 

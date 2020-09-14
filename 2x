@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>wiki.xmunch.com</title>
+</head>
 
 <script src="js/jquery.min.js"></script>
 <script>
@@ -63,5 +69,4 @@ pre { padding: 5px; margin: 5px; }
  
 </script>
 
-
-Boorramne: http://wiki.xmunch.com/viewer.html#!db/meta.json
+</html>

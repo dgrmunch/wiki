@@ -59,7 +59,17 @@ for(def file: list){
                             tagFile << "\n# tag: "+tag.trim()+"\n"
                         }
 
-                        if(tag.trim().contains("-notes") && !file.toString().equals(tagFile.toString())){
+                        if(tag.trim().contains("microblog") && !file.toString().equals(tagFile.toString())){
+                            tagFile << "\n<div class=\"micropost\">\n"
+                            tagFile << "<a href=\"../1x#@"+fileTitle.trim().replace("# 1x#@","")+"\">`"+fileTitle.replace("# ","")+"`</a><br>"
+                            tagFile << "<br>\n"+fileContent + "\n\n<br><br>"
+                            for(def tag2 : tags){
+                                if(tag2.trim() != 'microblog') tagFile << '<a class="tag" href="#!tags/'+tag2.trim()+'.md">'+tag2.trim()+'</a>'
+                            }
+                            tagFile << "\n</div>\n"
+                            
+                            
+                        } else if(tag.trim().contains("-notes") && !file.toString().equals(tagFile.toString())){
                             tagFile << "\n\n#"                            
                             tagFile << fileTitle 
                             //tagFile << "\n\n Published at "+getSections(file)+" ["+getTitle(file)+"](../"+file.toString().replace("./","")+")\n\n"

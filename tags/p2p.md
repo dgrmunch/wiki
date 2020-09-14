@@ -22,6 +22,9 @@
  * **[Distributed networks](../content/concepts/distributed_networks.md)**
 
   * Tags:  <a class="tag" href="#!tags/epistemology.md">epistemology</a>  <a class="tag" href="#!tags/topology.md">topology</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/knowledge.md">knowledge</a>  <a class="tag" href="#!tags/p2p.md">p2p</a>  <a class="tag" href="#!tags/networks.md">networks</a>  <a class="tag" href="#!tags/distributed.md">distributed</a>  <a class="tag" href="#!tags/concepts.md">concepts</a>  <a class="tag" href="#!tags/decentralization.md">decentralization</a>
+ * **[Random ideas for Dat/Hyperdrive Markdown blog feed](../content/notebook/captures/notes/dat-blog-notes.md)**
+
+  * Tags:  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/hyperdrive.md">hyperdrive</a>  <a class="tag" href="#!tags/p2p.md">p2p</a>  <a class="tag" href="#!tags/blog.md">blog</a>  <a class="tag" href="#!tags/dat.md">dat</a>  <a class="tag" href="#!tags/decentralization.md">decentralization</a>
  * **[UofT: Notes from meetings with collaborators](../content/notebook/captures/notes/uoft-note-meetings.md)**
 
   * Tags:  <a class="tag" href="#!tags/cognition.md">cognition</a>  <a class="tag" href="#!tags/p2p.md">p2p</a>  <a class="tag" href="#!tags/meetings.md">meetings</a>  <a class="tag" href="#!tags/phd.md">phd</a>  <a class="tag" href="#!tags/network theory.md">network theory</a>  <a class="tag" href="#!tags/sociology.md">sociology</a>  <a class="tag" href="#!tags/social complexity.md">social complexity</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/uoft-notes.md">uoft-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/authors.md">authors</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/scholars.md">scholars</a>

@@ -19,6 +19,12 @@
  * **[Distributed networks](../content/concepts/distributed_networks.md)**
 
   * Tags:  <a class="tag" href="#!tags/epistemology.md">epistemology</a>  <a class="tag" href="#!tags/topology.md">topology</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/knowledge.md">knowledge</a>  <a class="tag" href="#!tags/p2p.md">p2p</a>  <a class="tag" href="#!tags/networks.md">networks</a>  <a class="tag" href="#!tags/distributed.md">distributed</a>  <a class="tag" href="#!tags/concepts.md">concepts</a>  <a class="tag" href="#!tags/decentralization.md">decentralization</a>
+ * **[1x@20200913113356](../content/notebook/captures/logs/20200913113356.md)**
+
+  * Tags:  <a class="tag" href="#!tags/microblog.md">microblog</a>  <a class="tag" href="#!tags/decentralization.md">decentralization</a>
+ * **[Random ideas for Dat/Hyperdrive Markdown blog feed](../content/notebook/captures/notes/dat-blog-notes.md)**
+
+  * Tags:  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/hyperdrive.md">hyperdrive</a>  <a class="tag" href="#!tags/p2p.md">p2p</a>  <a class="tag" href="#!tags/blog.md">blog</a>  <a class="tag" href="#!tags/dat.md">dat</a>  <a class="tag" href="#!tags/decentralization.md">decentralization</a>
  * **[Bacterial-Based Algorithm to Simulate Complex Adaptive Systems](../content/notebook/captures/notes/complex-science-note-1.md)**
 
   * Tags:  <a class="tag" href="#!tags/complexity-notes.md">complexity-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/complex science.md">complex science</a>  <a class="tag" href="#!tags/complex adaptive systems.md">complex adaptive systems</a>  <a class="tag" href="#!tags/evolution.md">evolution</a>  <a class="tag" href="#!tags/bio-inspired.md">bio-inspired</a>  <a class="tag" href="#!tags/artificial life.md">artificial life</a>  <a class="tag" href="#!tags/articles.md">articles</a>  <a class="tag" href="#!tags/decentralization.md">decentralization</a>

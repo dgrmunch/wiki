@@ -9,6 +9,14 @@
           position: static;
   }
 
+
+.micropost{
+    padding: 10px;
+    border: 1px solid #474f45;
+    margin-top: 10px;
+    font-size: 90%;
+}
+
   .node rect, .node circle, .node ellipse, .node polygon {
     fill: black !important;
 }

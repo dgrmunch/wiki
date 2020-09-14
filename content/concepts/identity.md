@@ -1,6 +1,6 @@
 # Identity
 
-tags: self, intentionality, being, cognitive science, identity, mind, dualism, narrative, epistemology, ontology, philosophy of mind, concepts, single-subject research
+tags: self, intentionality, being, cognitive science, identity, mind, dualism, narrative, epistemology, ontology, philosophy of mind, concepts, single-subject research, nothingness
 
 ## Description
 

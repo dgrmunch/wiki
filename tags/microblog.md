@@ -5,7 +5,7 @@
 <a href="../1x#@20200914071700">`1x#@20200914071700`</a><br><br>
 
 
-Home Daily routines as an homeostatic process. Keep it organized. Keep it minimal. Keep it uncluttered. **Keep it in balance.**
+Home Daily routines as a homeostatic process. Keep it organized. Keep it minimal. Keep it uncluttered. **Keep it in balance.**
 
 
 <br><br><a class="tag" href="#!tags/routines.md">routines</a><a class="tag" href="#!tags/intentional living.md">intentional living</a><a class="tag" href="#!tags/minimalism.md">minimalism</a>

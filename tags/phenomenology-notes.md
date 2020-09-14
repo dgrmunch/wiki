@@ -2,6 +2,22 @@
 # tag: phenomenology-notes
 
 
+## Phenomenology pending readings
+
+  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/phenomenology-notes.md">phenomenology-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>
+
+  --- 
+
+
+
+* Pace Giannotta, Andrea. (2018). The Concept of Experience in Husserl's Phenomenology and James' Radical Empiricism (in Pragmatism Today 9 (2), 2018, pp. 33-42).. 9. 33-42. 
+
+* Phenomenological Complexity Classes: https://mapandterritory.org/phenomenological-complexity-classes-8b41836437b9
+
+
+ --- 
+
+
 ## Phenomenology Notes in Spanish
 
   <a class="tag" href="#!tags/spanish.md">spanish</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/phenomenology-notes.md">phenomenology-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>
@@ -19,22 +35,6 @@ En cierta medida, la mera asunción de que la fenomenología puede ser un vehíc
 Sin embargo, la actitud fenomenológica puede entrenarse mediante técnicas filosóficas u operaciones cognitivas como la [*epojé situada*](../articles/situated.md).
 
 Existen otros métodos, como los [visual koans](visual_koan.md), que entienden la  fotografía como una herramienta para bloquear el torrente de pensamientos y abstraernos en el fenómeno instantáneo.
-
-
- --- 
-
-
-## Phenomenology pending readings
-
-  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/phenomenology-notes.md">phenomenology-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>
-
-  --- 
-
-
-
-* Pace Giannotta, Andrea. (2018). The Concept of Experience in Husserl's Phenomenology and James' Radical Empiricism (in Pragmatism Today 9 (2), 2018, pp. 33-42).. 9. 33-42. 
-
-* Phenomenological Complexity Classes: https://mapandterritory.org/phenomenological-complexity-classes-8b41836437b9
 
 
  --- 

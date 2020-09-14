@@ -2,6 +2,54 @@
 # tag: uoft-notes
 
 
+## Mark Poster bibliography
+
+  <a class="tag" href="#!tags/critical theory.md">critical theory</a>  <a class="tag" href="#!tags/phd.md">phd</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/poststructuralism.md">poststructuralism</a>  <a class="tag" href="#!tags/existencialsm.md">existencialsm</a>  <a class="tag" href="#!tags/postmodern.md">postmodern</a>  <a class="tag" href="#!tags/social implications of technology.md">social implications of technology</a>  <a class="tag" href="#!tags/hypertext.md">hypertext</a>  <a class="tag" href="#!tags/uoft-notes.md">uoft-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/authors.md">authors</a>  <a class="tag" href="#!tags/scholars.md">scholars</a>
+
+  --- 
+
+
+
+### Articles
+
+* Article about "Postmodern Virtualities": http://www.humanities.uci.edu/mposter/writings/internet.html
+
+### Books
+
+* The Mode of Information: Poststructuralism and Social Context
+* The Utopian Thought of Restif de la Bretonne (1971)
+* Existential Marxism in Postwar France: From Sartre to Althusser (1975)
+* Critical Theory of the Family (1978)
+* Sartre's Marxism (1982)
+* Foucault, Marxism, and History: Mode of Production Versus Mode of Information (1985)
+* Critical Theory and Poststructuralism: In Search of a Context (1989)
+* The Mode of Information: Post-structuralism and Social Contexts (1990)
+* The Second Media Age (1995). Chapter 2 available as Postmodern Virtualities
+* What's the Matter with the Internet? (Electronic Mediations series) (2001)
+* The Information Subject (2001)
+* Information Please: Culture and Politics in the Age of Digital Machines (2006)
+* Deleuze and New Technology (2009)
+
+
+ --- 
+
+
+## Situated Learning / Ethnography Bibliography
+
+  <a class="tag" href="#!tags/methodology.md">methodology</a>  <a class="tag" href="#!tags/phd.md">phd</a>  <a class="tag" href="#!tags/situated.md">situated</a>  <a class="tag" href="#!tags/embodied.md">embodied</a>  <a class="tag" href="#!tags/ethnography.md">ethnography</a>  <a class="tag" href="#!tags/emergence.md">emergence</a>  <a class="tag" href="#!tags/authors.md">authors</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/scholars.md">scholars</a>  <a class="tag" href="#!tags/uoft-notes.md">uoft-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>
+
+  --- 
+
+
+* Situated cognition / ethnography
+ * **Apprenticeship in Critical Ethnographic Practice**, Paperback (Apr 30 2011) by Jean Lave
+ * **Situated Learning: Legitimate Peripheral Participation**, by Jean Lave and Etienne Wenger 
+ * See also: http://hlwiki.slais.ubc.ca/index.php/Situated_learning_theory
+
+
+ --- 
+
+
 ## UofT: Notes from meetings with collaborators
 
   <a class="tag" href="#!tags/cognition.md">cognition</a>  <a class="tag" href="#!tags/p2p.md">p2p</a>  <a class="tag" href="#!tags/meetings.md">meetings</a>  <a class="tag" href="#!tags/phd.md">phd</a>  <a class="tag" href="#!tags/network theory.md">network theory</a>  <a class="tag" href="#!tags/sociology.md">sociology</a>  <a class="tag" href="#!tags/social complexity.md">social complexity</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/uoft-notes.md">uoft-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/authors.md">authors</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/scholars.md">scholars</a>
@@ -97,22 +145,6 @@ analysis are used to collect relationship data using a social network analysis a
  --- 
 
 
-## Situated Learning / Ethnography Bibliography
-
-  <a class="tag" href="#!tags/methodology.md">methodology</a>  <a class="tag" href="#!tags/phd.md">phd</a>  <a class="tag" href="#!tags/situated.md">situated</a>  <a class="tag" href="#!tags/embodied.md">embodied</a>  <a class="tag" href="#!tags/ethnography.md">ethnography</a>  <a class="tag" href="#!tags/emergence.md">emergence</a>  <a class="tag" href="#!tags/authors.md">authors</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/scholars.md">scholars</a>  <a class="tag" href="#!tags/uoft-notes.md">uoft-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>
-
-  --- 
-
-
-* Situated cognition / ethnography
- * **Apprenticeship in Critical Ethnographic Practice**, Paperback (Apr 30 2011) by Jean Lave
- * **Situated Learning: Legitimate Peripheral Participation**, by Jean Lave and Etienne Wenger 
- * See also: http://hlwiki.slais.ubc.ca/index.php/Situated_learning_theory
-
-
- --- 
-
-
 ## University of Toronto: Bibliography and Recommendations
 
   <a class="tag" href="#!tags/cognition.md">cognition</a>  <a class="tag" href="#!tags/p2p.md">p2p</a>  <a class="tag" href="#!tags/phd.md">phd</a>  <a class="tag" href="#!tags/learning.md">learning</a>  <a class="tag" href="#!tags/epistemology.md">epistemology</a>  <a class="tag" href="#!tags/authors.md">authors</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/scholars.md">scholars</a>  <a class="tag" href="#!tags/uoft-notes.md">uoft-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>
@@ -146,38 +178,6 @@ analysis are used to collect relationship data using a social network analysis a
       * "Jonathan Tudge is Professor in the Department of Human Development and Family Studies at The University of North Carolina at Greensboro. Most of his research focuses on the interrelations between the social world and children’s social, moral, and cognitive development. In much of his research, he uses cultural-ecological theory, a contextualist theory that draws on the ideas of Lev Vygotsky and Urie Bronfenbrenner. The major line of research is longitudinal and cross-cultural in design, dealing with the ways in which young children become part of the cultural group in which they live. This work involves extensive observations of the everyday activities of children when they are three years of age as well as interviews and questionnaires with their parents regarding their child-rearing values and beliefs. The children are followed through their first years of school, when data on parents’ and teachers’ perceptions of the children’s social and academic competence are also gathered. This research is cross-cultural (US, Russia, Estonia, Finland, Korea, Kenya, and Brazil) and examines within-societal variations as a function of ethnicity and social class. A book was published that is based on this research: Tudge, J. R. H. (2008). The everyday lives of young children: Culture, class, and child rearing in diverse societies. New York: Cambridge University Press." Ref: http://scholar.google.ca/citations?user=IKkaf2kAAAAJ&hl=en
 * Epistemology
       * Information, Knowledge and Learning. Lankshear, C., Peters, M., & Knobel, M. (2000). Information, Knowledge and Learning: Some Issues Facing Epistemology and Education in a Digital Age. Journal of the Philosophy of Education, 34(1), 17–39. doi:10.1111/1467-9752.00153
-
-
- --- 
-
-
-## Mark Poster bibliography
-
-  <a class="tag" href="#!tags/critical theory.md">critical theory</a>  <a class="tag" href="#!tags/phd.md">phd</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/poststructuralism.md">poststructuralism</a>  <a class="tag" href="#!tags/existencialsm.md">existencialsm</a>  <a class="tag" href="#!tags/postmodern.md">postmodern</a>  <a class="tag" href="#!tags/social implications of technology.md">social implications of technology</a>  <a class="tag" href="#!tags/hypertext.md">hypertext</a>  <a class="tag" href="#!tags/uoft-notes.md">uoft-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/authors.md">authors</a>  <a class="tag" href="#!tags/scholars.md">scholars</a>
-
-  --- 
-
-
-
-### Articles
-
-* Article about "Postmodern Virtualities": http://www.humanities.uci.edu/mposter/writings/internet.html
-
-### Books
-
-* The Mode of Information: Poststructuralism and Social Context
-* The Utopian Thought of Restif de la Bretonne (1971)
-* Existential Marxism in Postwar France: From Sartre to Althusser (1975)
-* Critical Theory of the Family (1978)
-* Sartre's Marxism (1982)
-* Foucault, Marxism, and History: Mode of Production Versus Mode of Information (1985)
-* Critical Theory and Poststructuralism: In Search of a Context (1989)
-* The Mode of Information: Post-structuralism and Social Contexts (1990)
-* The Second Media Age (1995). Chapter 2 available as Postmodern Virtualities
-* What's the Matter with the Internet? (Electronic Mediations series) (2001)
-* The Information Subject (2001)
-* Information Please: Culture and Politics in the Age of Digital Machines (2006)
-* Deleuze and New Technology (2009)
 
 
  --- 

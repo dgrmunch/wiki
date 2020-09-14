@@ -24,8 +24,7 @@ dir.eachFileRecurse (FileType.FILES) { file ->
   list << file
 }
 
-
-for(def file: list){
+for(def file: list.sort{it.lastModified()}.reverse()){
    if(file.toString().contains('.md') && !file.toString().contains('tags.md')) {
      
         def line;

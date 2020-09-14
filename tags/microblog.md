@@ -5,9 +5,9 @@
 <a href="../1x#@20200914115202">`1x#@20200914115202`</a><br><br>
 
 
-I am thinking about publishing hashed microposts.
+There is something beautiful about publishing simple hashed microposts.
 
-<br><br><hash>e1916c619666e2dbb17b7d67d1e568943fb8814dc2ed327fa92c51716b8b9d6c.sha256<hash>
+<br><br><hash>16c33e91b4c6073f90089a61b60489b07271244672b069150d3e36d1a475aacd.sha256</hash>
 
 
 <br><br><a class="tag" href="#!tags/hash.md">hash</a><a class="tag" href="#!tags/crypto.md">crypto</a><a class="tag" href="#!tags/writing.md">writing</a>
@@ -19,7 +19,7 @@ I am thinking about publishing hashed microposts.
 
 Home Daily routines as a homeostatic process. Keep it organized. Keep it minimal. Keep it uncluttered. **Keep it in balance.**
 
-<br><br><hash>ff5a613188663b86fca5572702caf883bd0e3605aa3678d911fc5ac5668c31f7.sha256<hash>
+<br><br><hash>ff5a613188663b86fca5572702caf883bd0e3605aa3678d911fc5ac5668c31f7.sha256</hash>
 
 
 <br><br><a class="tag" href="#!tags/routines.md">routines</a><a class="tag" href="#!tags/intentional living.md">intentional living</a><a class="tag" href="#!tags/minimalism.md">minimalism</a>
@@ -31,22 +31,10 @@ Home Daily routines as a homeostatic process. Keep it organized. Keep it minimal
 
 Time to close my eyes. Time to not-be. Nothingness. Breath. Bedtime.
 
-<br><br><hash>0f452b4c455865cedd6a9148b4d575d9d47b7791b00b216778561c08812dfdc1.sha256<hash>
+<br><br><hash>0f452b4c455865cedd6a9148b4d575d9d47b7791b00b216778561c08812dfdc1.sha256</hash>
 
 
 <br><br><a class="tag" href="#!tags/zen.md">zen</a><a class="tag" href="#!tags/nothingness.md">nothingness</a>
-</div>
-
-<div class="micropost">
-<a href="../1x#@20200913113356">`1x#@20200913113356`</a><br><br>
-
-
-The more I read about decentralization technology the farther I see massive adoption. Surveillance and manipulation are so embedded in the digital habitat of so many people that they don't actually care about freedom. Sad reality.
-
-<br><br><hash>45ced26920039502b97f4b313f3b8c3fd06c81ff0685b739ea6c118a0669ca64.sha256<hash>
-
-
-<br><br><a class="tag" href="#!tags/decentralization.md">decentralization</a>
 </div>
 
 <div class="micropost">
@@ -55,10 +43,22 @@ The more I read about decentralization technology the farther I see massive adop
 
 Bilingual non-native life is a cognitive challenge. It pushes you to live a life with a reduced linguistic toolkit. Sometimes it seems *Tokipona-ish*. A limited English vocabulary/grammar. A lack of phrasal verbs. A broken pronunciation. A non-judgemental understanding of language as a flexible vehicle for communication and experimentation, not for an academic test.
 
-<br><br><hash>8f6da4dd4389fc8d91a43d44b78806f07aed71428577270f9c890e0d9427665d.sha256<hash>
+<br><br><hash>8f6da4dd4389fc8d91a43d44b78806f07aed71428577270f9c890e0d9427665d.sha256</hash>
 
 
 <br><br><a class="tag" href="#!tags/bilingualism.md">bilingualism</a><a class="tag" href="#!tags/language.md">language</a><a class="tag" href="#!tags/perception.md">perception</a>
+</div>
+
+<div class="micropost">
+<a href="../1x#@20200913113356">`1x#@20200913113356`</a><br><br>
+
+
+The more I read about decentralization technology the farther I see massive adoption. Surveillance and manipulation are so embedded in the digital habitat of so many people that they don't actually care about freedom. Sad reality.
+
+<br><br><hash>45ced26920039502b97f4b313f3b8c3fd06c81ff0685b739ea6c118a0669ca64.sha256</hash>
+
+
+<br><br><a class="tag" href="#!tags/decentralization.md">decentralization</a>
 </div>
 
 <div class="micropost">
@@ -71,7 +71,7 @@ Changing my *default mode* just by stopping, bracketing the perceived phenomena 
 
 Breathing. 3 in/6 out. Breathing.  
 
-<br><br><hash>fa93aacee47945a1f7e40940cb69cbccc7f08c962d643f714923c8c1c58f77d5.sha256<hash>
+<br><br><hash>fa93aacee47945a1f7e40940cb69cbccc7f08c962d643f714923c8c1c58f77d5.sha256</hash>
 
 
 <br><br><a class="tag" href="#!tags/phenomenology.md">phenomenology</a><a class="tag" href="#!tags/cognitive neuroscience.md">cognitive neuroscience</a>

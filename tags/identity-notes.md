@@ -2,6 +2,54 @@
 # tag: identity-notes
 
 
+## Writing about Identity?
+
+  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/identity-notes.md">identity-notes</a>
+
+  --- 
+
+
+
+
+ > Identity is an ontological problem which sometimes may be better addressed *allowing the reader to infer*, scaping from the accuracy of academic writing (facts-based jail) and plain sociological data. I actually found that artistic expressions such as [visual koans](visual_koan.md) and poetry can be the best ways for ”stepping outside the academic discipline into a more subjective experience".
+ > A combination of different communication styles can be interesting, specially if mixed with visual arts like photography as complementary philosophical tools. Because different levels of analysis require different toolboxes. 
+
+
+
+
+ --- 
+
+
+## Conflicts 
+
+  <a class="tag" href="#!tags/identity-notes.md">identity-notes</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/notes.md">notes</a>
+
+  --- 
+
+
+
+ > What if we are simply misguided by a false overlap and identification of the instrument and the music? What if we can play endless melodies in an open-ended creative exploration?
+
+---
+
+ > Similarly to the conflict described by Hesse in *Der Steppenwolf*, this poem reflects about the dichotomy between the man and the wolf, between the bourgeois moral (imposed by society and social standards) and our wild nature (imposed by our genes and instincts).
+
+ ---
+
+ > The further I am from "my standard character" (exploring what it feels to be "another character") the more aware I am of the common elements, of my non-self. Identity is more clear on the road, on the plane, on the way. Oppositely, the closer I am to my "standard character" (i.a. the more redundant is the environment and the expected behavior) the cloudy is my sense of pure being.
+
+ ---
+
+ > Sometimes your identity is more clear when you play the "other character" who is not allowed in your standard environment. The balance is in the frontier between worlds, in the portal, in the dressing room. Between sets you find the actor, during the play you find the character.
+
+ ---
+
+ > The permeability of the different characters/environments is complicated, because each character is adapted to a different environment. To me the hardest issue is to realize that the community which accepted one character will reject the other, perceived as a threat. The community will kill the individual Identity to impose the standard, the norm, the accepted forms.
+
+
+ --- 
+
+
 ## Automatic writing
 
   <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/poetry.md">poetry</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/identity-notes.md">identity-notes</a>
@@ -111,54 +159,6 @@
 > equals
 
 > self / non-self
-
-
- --- 
-
-
-## Conflicts 
-
-  <a class="tag" href="#!tags/identity-notes.md">identity-notes</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/notes.md">notes</a>
-
-  --- 
-
-
-
- > What if we are simply misguided by a false overlap and identification of the instrument and the music? What if we can play endless melodies in an open-ended creative exploration?
-
----
-
- > Similarly to the conflict described by Hesse in *Der Steppenwolf*, this poem reflects about the dichotomy between the man and the wolf, between the bourgeois moral (imposed by society and social standards) and our wild nature (imposed by our genes and instincts).
-
- ---
-
- > The further I am from "my standard character" (exploring what it feels to be "another character") the more aware I am of the common elements, of my non-self. Identity is more clear on the road, on the plane, on the way. Oppositely, the closer I am to my "standard character" (i.a. the more redundant is the environment and the expected behavior) the cloudy is my sense of pure being.
-
- ---
-
- > Sometimes your identity is more clear when you play the "other character" who is not allowed in your standard environment. The balance is in the frontier between worlds, in the portal, in the dressing room. Between sets you find the actor, during the play you find the character.
-
- ---
-
- > The permeability of the different characters/environments is complicated, because each character is adapted to a different environment. To me the hardest issue is to realize that the community which accepted one character will reject the other, perceived as a threat. The community will kill the individual Identity to impose the standard, the norm, the accepted forms.
-
-
- --- 
-
-
-## Writing about Identity?
-
-  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/identity-notes.md">identity-notes</a>
-
-  --- 
-
-
-
-
- > Identity is an ontological problem which sometimes may be better addressed *allowing the reader to infer*, scaping from the accuracy of academic writing (facts-based jail) and plain sociological data. I actually found that artistic expressions such as [visual koans](visual_koan.md) and poetry can be the best ways for ”stepping outside the academic discipline into a more subjective experience".
- > A combination of different communication styles can be interesting, specially if mixed with visual arts like photography as complementary philosophical tools. Because different levels of analysis require different toolboxes. 
-
-
 
 
  --- 

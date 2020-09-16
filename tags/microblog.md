@@ -2,6 +2,18 @@
 # tag: microblog
 
 <div class="micropost">
+<a href="../1x#@20200915105308">`1x#@20200915105308`</a><br><br>
+
+
+White wall. Grey floor. Silence. Impermanence. Life. Breath. Phenomenon. 
+
+<br><br> <hash>bab6fe0e64eda2462d87d9758485ce679adbceda43f618eb6b57a92e0cf4c8a6.sha256</hash>
+
+
+<br><br><a class="tag" href="#!tags/zen.md">zen</a><a class="tag" href="#!tags/phenomenology.md">phenomenology</a><a class="tag" href="#!tags/identity.md">identity</a><a class="tag" href="#!tags/routines.md">routines</a>
+</div>
+
+<div class="micropost">
 <a href="../1x#@20200914115202">`1x#@20200914115202`</a><br><br>
 
 

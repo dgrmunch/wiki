@@ -1,6 +1,9 @@
 
 # tag: zen
 
+ * **[1x@20200915105308](../content/notebook/captures/logs/20200915105308.md)**
+
+  * Tags:  <a class="tag" href="#!tags/microblog.md">microblog</a>  <a class="tag" href="#!tags/zen.md">zen</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/routines.md">routines</a>
  * **[1x@20200913113943](../content/notebook/captures/logs/20200913113943.md)**
 
   * Tags:  <a class="tag" href="#!tags/microblog.md">microblog</a>  <a class="tag" href="#!tags/zen.md">zen</a>  <a class="tag" href="#!tags/nothingness.md">nothingness</a>

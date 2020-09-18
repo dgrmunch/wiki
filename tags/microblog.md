@@ -14,30 +14,6 @@ My photography is usually a non-representational form of exploration. I wish I c
 </div>
 
 <div class="micropost">
-<a href="../1x#@20200913113943">`1x#@20200913113943`</a><br><br>
-
-
-Time to close my eyes. Time to not-be. Nothingness. Breath. Bedtime.
-
-<br><br><hash>0f452b4c455865cedd6a9148b4d575d9d47b7791b00b216778561c08812dfdc1.sha256</hash>
-
-
-<br><br><a class="tag" href="#!tags/zen.md">zen</a><a class="tag" href="#!tags/nothingness.md">nothingness</a>
-</div>
-
-<div class="micropost">
-<a href="../1x#@20200914071700">`1x#@20200914071700`</a><br><br>
-
-
-Home Daily routines as a homeostatic process. Keep it organized. Keep it minimal. Keep it uncluttered. **Keep it in balance.**
-
-<br><br><hash>ff5a613188663b86fca5572702caf883bd0e3605aa3678d911fc5ac5668c31f7.sha256</hash>
-
-
-<br><br><a class="tag" href="#!tags/routines.md">routines</a><a class="tag" href="#!tags/intentional living.md">intentional living</a><a class="tag" href="#!tags/minimalism.md">minimalism</a>
-</div>
-
-<div class="micropost">
 <a href="../1x#@20200915105308">`1x#@20200915105308`</a><br><br>
 
 
@@ -59,6 +35,30 @@ There is something beautiful about publishing simple hashed microposts.
 
 
 <br><br><a class="tag" href="#!tags/hash.md">hash</a><a class="tag" href="#!tags/crypto.md">crypto</a><a class="tag" href="#!tags/writing.md">writing</a>
+</div>
+
+<div class="micropost">
+<a href="../1x#@20200914071700">`1x#@20200914071700`</a><br><br>
+
+
+Home Daily routines as a homeostatic process. Keep it organized. Keep it minimal. Keep it uncluttered. **Keep it in balance.**
+
+<br><br><hash>ff5a613188663b86fca5572702caf883bd0e3605aa3678d911fc5ac5668c31f7.sha256</hash>
+
+
+<br><br><a class="tag" href="#!tags/routines.md">routines</a><a class="tag" href="#!tags/intentional living.md">intentional living</a><a class="tag" href="#!tags/minimalism.md">minimalism</a>
+</div>
+
+<div class="micropost">
+<a href="../1x#@20200913113943">`1x#@20200913113943`</a><br><br>
+
+
+Time to close my eyes. Time to not-be. Nothingness. Breath. Bedtime.
+
+<br><br><hash>0f452b4c455865cedd6a9148b4d575d9d47b7791b00b216778561c08812dfdc1.sha256</hash>
+
+
+<br><br><a class="tag" href="#!tags/zen.md">zen</a><a class="tag" href="#!tags/nothingness.md">nothingness</a>
 </div>
 
 <div class="micropost">
@@ -99,4 +99,40 @@ Breathing. 3 in/6 out. Breathing.
 
 
 <br><br><a class="tag" href="#!tags/phenomenology.md">phenomenology</a><a class="tag" href="#!tags/cognitive neuroscience.md">cognitive neuroscience</a>
+</div>
+
+<div class="micropost">
+<a href="../1x#@20191117000000">`1x#@20191117000000`</a><br><br>
+
+
+In 2019 I came back to the U.S. with more nostalgia and familiarity than in my previous stays. The fascination of the newbie, and the over-saturation of my previous digital experiments, was replaced by pure black and white film photography. This time, rather than shooting with my Canon DSLR, I used a 1976 Pentax k1000 to capture my thoughts in film, as a reflection about the lack of temporality in conjunction with the materiality of inhabited spaces. Old film to capture the permanence of Greensboro, our home long time ago.
+
+<hash>a1153633da331918b5b49159b1d1e73b3e3a1084c2b469cfe068695458d49848.sha256</hash>
+
+
+<br><br><a class="tag" href="#!tags/phenomenology.md">phenomenology</a><a class="tag" href="#!tags/photography.md">photography</a><a class="tag" href="#!tags/art.md">art</a><a class="tag" href="#!tags/travel.md">travel</a>
+</div>
+
+<div class="micropost">
+<a href="../1x#@20191116000000">`1x#@20191116000000`</a><br><br>
+
+
+From 2016 to 2018 my photographic style was influenced by the cinematic atmosphere of Gregory Crewdson’s work and the colors of William Magnum’s paintings. My portraits of the American society, from coast to coast, were characterized by highly edited and oversaturated shots. A comic-like visual exploration which combined sociological and ethnographic studies with extremely pushed-to-the-boundary digital editing. Capturing raw reality was less important that capturing my interpretation of that reality, an interpretation full of fascination, color and light. In that sense, my artwork was a mixture of street photography with Lightroom-intense experimentation. Using photography as a tool for drawing with pixels the diversity and complexity of American society.
+
+<hash>bccf8fa0d8c4a94f036e55f9627128ff7dae618da2449a6859c40ccda07c19db.sha256</hash>
+
+
+<br><br><a class="tag" href="#!tags/phenomenology.md">phenomenology</a><a class="tag" href="#!tags/photography.md">photography</a><a class="tag" href="#!tags/art.md">art</a><a class="tag" href="#!tags/travel.md">travel</a>
+</div>
+
+<div class="micropost">
+<a href="../1x#@20191115000000">`1x#@20191115000000`</a><br><br>
+
+
+Yesterday we came back to North Carolina after two years living in Spain. Greensboro, the city which was twice our home, is welcoming us back for the third time. Walking around. Breathing under a rainbow of autumn leaves. Friends and relatives. Smells. Sounds. Hugs. Everything seems like it was when we left. Continuity. Sense of permanence. I literally feel that time did not pass by. Our life is still here. A life which ended with tears in our eyes. A life which disappeared when we took that plane with a set of promises and a suitcase full of memories. A goodbye which lead to a cultural reverse shock and several months of re-adaptation to the Spanish culture. Rhizome. Lack of temporality. Loop. Here we are. Breathing. Alive.
+
+<hash>db90463c70096d30a72ec403922bee815244e6679f97d8abe68cb2babd2014ce.sha256</hash>
+
+
+<br><br><a class="tag" href="#!tags/phenomenology.md">phenomenology</a><a class="tag" href="#!tags/photography.md">photography</a><a class="tag" href="#!tags/art.md">art</a><a class="tag" href="#!tags/travel.md">travel</a>
 </div>

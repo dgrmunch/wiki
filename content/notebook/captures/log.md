@@ -6,28 +6,6 @@ This is a list of notes taken from my phone.
 
 It is structured as an append-only log, with the latest notes in the bottom of the list.
 
-
-
-## Greensboro - Nov 15th 2019
-
- > **Thought:** Yesterday we came back to North Carolina after two years living in Spain. Greensboro, the city which was twice our home, is welcoming us back for the third time. Walking around. Breathing under a rainbow of autumn leaves. Friends and relatives. Smells. Sounds. Hugs. Everything seems like it was when we left. Continuity. Sense of permanence. I literally feel that time did not pass by. Our life is still here. A life which ended with tears in our eyes. A life which disappeared when we took that plane with a set of promises and a suitcase full of memories. A goodbye which lead to a cultural reverse shock and several months of re-adaptation to the Spanish culture. Rhizome. Lack of temporality. Loop. Here we are. Breathing. Alive.
-
-
-## America through photography I
-
- > **Thought:** From 2016 to 2018 my photographic style was influenced by the cinematic atmosphere of Gregory Crewdson’s work and the colors of William Magnum’s paintings. My portraits of the American society, from coast to coast, were characterized by highly edited and oversaturated shots. A comic-like visual exploration which combined sociological and ethnographic studies with extremely pushed-to-the-boundary digital editing. Capturing raw reality was less important that capturing my interpretation of that reality, an interpretation full of fascination, color and light. In that sense, my artwork was a mixture of street photography with Lightroom-intense experimentation. Using photography as a tool for drawing with pixels the diversity and complexity of American society. 
-
-
-## America Through Photography II
-
- > **Thought:** In 2019 I came back to the U.S. with more nostalgia and familiarity than in my previous stays. The fascination of the newbie, and the over-saturation of my previous digital experiments, was replaced by pure black and white film photography. This time, rather than shooting with my Canon DSLR, I used a 1976 Pentax k1000 to capture my thoughts in film, as a reflection about the lack of temporality in conjunction with the materiality of inhabited spaces. Old film to capture the permanence of Greensboro, our home long time ago.
-
-
-## Improving note-taking flow
-
-In order to improve my note-taking flow, and automatically append thoughts, tasks, ideas, quotes or resources to the *Notebook* section of my **Commonplace book / personal wiki**, I decided to implement an easy-to-manage system based on already existing software. I have been doing some testing of my Automation Flow through *iOS Shortcuts* + *Dropbox sync* + a Unix Cron + my pCloud public folder and it works pretty well.
-
-
 ## 22 Apr 2020 at 21:09
 
 > Type: **Concept**
@@ -355,4 +333,21 @@ http://www.markwk.com/meditation-effect-on-cognition-experiment.html
 
 https://github.com/Swordfish90/cool-retro-term
 
+
+
+## 3 Sep 2020 at 10:31
+
+> Type: **Idea**
+
+Home Daily routines as an homeostatic process. Keep it organized. Keep it minimal. Keep it decluttered. Keep it in balance.
+
+## 3 Sep 2020 at 23:16
+
+> Type: **Quote**
+
+> "Human experience is complex; what shapes our lives changes from moment to moment with our perception. From the Yogacara, or consciousness-only, perspective, our subtle momentary mental states, or factors, determine the quality and experience of our lives. We are habituated to behave and perceive in patterned ways. If we want to change, we must transform the patterns of our mental life. One of the primary reasons we struggle with this is that we don’t know what’s present in our minds [...] When we lack awareness of the workings of our minds, we misinterpret our experiences, creating all sorts of problems for ourselves."
+
+> "Yogacara teachings show us how, in the fluctuating stream of our experiences, we persistently and irrationally imagine two constants against which and through which we interpret and evaluate life: self and others. In traditional Buddhist language, these are atman and dharmas, “self” and “things."
+
+https://www.google.es/amp/s/www.lionsroar.com/integrating-yogacara-in-your-practice/amp/
 

@@ -22,31 +22,20 @@ Consider this wiki a philosophical book with a rhizomatic structure.
 
 You can read it following your own intuition rather than any predefined chronological or index-based order.  There is not a static navigation map, but rather as many pathways as you consider necessary to understand and decipher its content. 
 
-You can directly check the [tags page](tags.md) to explore the [rhizome](content/concepts/rhizome.md) guided by your interests. If you feel more comfortable with a structured sitemap, the [content](content.md) is also organized under four different type-nodes:
-
-| Node        | Description |
-| ------------- |:-------------:|
-|  [Concepts](content/concepts.md)    | General ideas and philosophical statements.  Remember to navigate these concepts in any order, following the links you feel more attracted to. |
-|  [Articles](content/articles.md)    | In this node you can find links to my research papers and academic articles. Posts from my blogs can also be found here. Most of the content is in English, but some articles in Spanish are provided too. |
-|  [Projects](content/projects.md)    | A summary of Research & Development Projects, Open Source repositories and Artwork. This section is a common place to share my R&D projects, but also my experiments as a digital artist, my photographic work and both musical and visual arts projects.
-|  [Notebook](content/notebook.md)  | Quotes, personal notes, recommended readings, text comments, drafts and raw ideas |
-|  [Recipes](content/recipes.md)    | Technical recipes / IT Miscellanea / HOW TOs |
-
-
-You can also see a summarized [visual map](content/notebook/maps/philosophy.md) about the general philosophical ideas this wiki is about.
+You can directly check the [tags page](tags.md) to explore the [rhizome](content/concepts/rhizome.md) guided by your interests. If you feel more comfortable with a structured sitemap, the content is also organized under four different type-nodes (see menu on top of the page).
 
 I invite you to navigate this digital archive guided by your intuition. Some tips are important to take into account though:
 
-* When focusing in reading the  [concepts](content/concepts.md) and philosophical statements, consider *revisiting* your axioms (according to what I described as [rhizomatic epistemology](content/concepts/rhizomatic_epistemology.md)).
+* When focusing in reading the  [concepts](content/concepts.md) and philosophical statements, consider *revisiting* your axioms (according to a [rhizomatic epistemology](content/concepts/rhizomatic_epistemology.md)).
 
-* When observing the  [photographs](content/projects/photography.md) exposed in this site  (also called [visual koans](content/concepts/visual_koan.md)), try to assume a [phenomenological attitude](content/concepts/phenomenology.md).
+* When observing the [photographs](content/projects/photography.md) exposed in this site  (also called [visual koans](content/concepts/visual_koan.md)), try to assume a [phenomenological attitude](content/concepts/phenomenology.md).
+
+You can also see a summarized [visual map](content/notebook/maps/philosophy.md) about the general philosophical ideas this wiki is about.
 
 ## Random entry points
 
 [![](0x/e26660086bc52f3cd71ae17c52d16b78)](content/concepts/identity.md)
 [![](0x/e048750c1f6552b2b9e0433e53ee3275)](content/concepts/visual_koan.md)
 [![](0x/f05e64d9d1a5c04ebf8439a3aa0aed56)](content/concepts/phenomenology.md)
-
-
 
 

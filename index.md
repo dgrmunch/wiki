@@ -2,13 +2,13 @@
 
 ## Context for new visitors
 
-This site is a open-ended philosophical project, a dynamic digital book about diverse topics such as [decentralization](content/concepts/decentralization.md), [cognitive science](tags/cognitive science.md), [phenomenology](content/concepts/phenomenology.md), [DIY neuroscience](tags/neuroscience.md), [complex systems](tags/complexity.md) or [photography](content/projects/photography.md). 
+This is a personal wiki with random content about different topics. Beyond conceptual [consensus](content/concepts/consensus.md), this continuously-evolving knowledge repository serves as a backup of a [subjective philosophical viewpoint](content/concepts/subjective_ontology.md). It contains my own definitions for specific [concepts](content/concepts.md) and my philosophical reflections. 
 
-It is also a personal wiki with random notes about different topics. Beyond conceptual [consensus](content/concepts/consensus.md), this continuously-evolving knowledge repository serves as a backup of a [subjective philosophical viewpoint](content/concepts/subjective_ontology.md). 
+Additionally, it enables a click-based navigation tool for my artistic [photography](content/projects/photography.md), personal [notes](tags/notes.md), [articles](content/articles.md) and [projects](content/projects.md).
 
-Additionally, it enables a click-based navigation tool for my own personal [notes](tags/notes.md), [concepts](content/concepts.md), [articles](content/articles.md) and [projects](content/projects.md).
+In that sense, this site is a open-ended philosophical project, a dynamic digital book about diverse topics such as [decentralization](content/concepts/decentralization.md), [cognitive science](tags/cognitive science.md), [phenomenology](content/concepts/phenomenology.md) and [complex systems](tags/complexity.md). 
 
-All the content of this site, except quotes and references, has been published by [Diego González Rodríguez](http://www.xmunch.com), somebody who identifies as a heterodox researcher, a hobbyist [photographer](content/projects/photography.md), a [rhizomatic](content/concepts/rhizome.md) writer, a [software engineer](about.md), a nerd of of [philosophy of mind](content/notebook/maps/philosophy.md) and a [phenomenological](content/concepts/phenomenology.md) explorer.
+All the content of this site, except quotes and references, has been published by somebody who identifies as a heterodox researcher, a hobbyist [photographer](content/projects/photography.md), a [rhizomatic](content/concepts/rhizome.md) writer, a [software engineer](about.md), a nerd of of [philosophy of mind](content/notebook/maps/philosophy.md) and a [phenomenological](content/concepts/phenomenology.md) explorer.
 
 You can know more [about me](about.md) if you want. I am just a **social agent** sharing its internal thoughts, philosophical notes and visual explorations. You can also check my [academic path](content/notebook/maps/academic.md).
 

@@ -8,7 +8,7 @@ It is also a personal wiki with random notes about different topics. Beyond conc
 
 Additionally, it enables a click-based navigation tool for my own personal [notes](tags/notes.md), [concepts](content/concepts.md), [articles](content/articles.md) and [projects](content/projects.md).
 
-All the content of this site, except quotes and references, has been published by [Diego González Rodríguez](http://www.xmunch.com), somebody who identifies as a [heterodox researcher](http://sciartlab.com), a [rhizomatic](content/concepts/rhizome.md) writer, a [phenomenological](content/concepts/phenomenology.md) photographer, a [software engineer](about.md) and a nerd of [philosophy of mind](content/notebook/maps/philosophy.md).
+All the content of this site, except quotes and references, has been published by [Diego González Rodríguez](http://www.xmunch.com), somebody who identifies as a heterodox researcher, a hobbyist [photographer](content/projects/photography.md), a [rhizomatic](content/concepts/rhizome.md) writer, a [software engineer](about.md), a nerd of of [philosophy of mind](content/notebook/maps/philosophy.md) and a [phenomenological](content/concepts/phenomenology.md) explorer.
 
 You can know more [about me](about.md) if you want. I am just a **social agent** sharing its internal thoughts, philosophical notes and visual explorations. You can also check my [academic path](content/notebook/maps/academic.md).
 

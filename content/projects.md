@@ -1,29 +1,37 @@
 # My projects
 
-tags: projects, tech, software engineer, art, photography
+tags: projects
 
-## SciArt Lab
+## IT / Software Engineering
 
-Most of my Research & Development and Open Source coding projects can be found in the [projects section](http://wiki.sciartlab.com/#!projects.md) of the [SciArt Lab](http://sciartlab.com) website.
-
-[![](../images/sciartlogo.png)](http://www.sciartlab.com)
+To see my professional projects in **IT** as **Software Engineer** (under different brands, companies, universities and organizations) you can check my [LinkedIn account](http://es.linkedin.com/in/xmunch/en). 
 
 
-## Research and Development / Software Engineering
+## Research and Development 
 
-To see my professional projects as **Software Engineer** under different brands and companies you can check my [LinkedIn account](http://es.linkedin.com/in/xmunch/en). 
+Most of my recent research, as well as my Open Source coding projects, can be found in the [projects section](http://wiki.sciartlab.com/#!projects.md) of the [SciArt Lab](http://sciartlab.com) website.
 
-## Personal projects
+In addition to the SciArt Lab, to check my experience as a **Researcher** in different universities or labs, visit also my [LinkedIn account](http://es.linkedin.com/in/xmunch/en). 
 
-### Photography
 
-Photography is my main artistic tool. Considering the growing amount of artistic projects I have been working on during the last years, I've created a [specific page](projects/photography.md) for a selection of them.
+## Photography
 
-### Video / Documentary
+Photography is my main artistic tool. 
 
-#### Latest
+Considering the growing amount of artistic projects I have been working on during the last years, I've created a [specific page](projects/photography.md) for a selection of them.
 
-##### - [Looking for Identity](https://youtu.be/1rUHNIJ7rn0) (English)
+## Video
+
+In the past I wanted to explore the potential of movie-making to share stories about causes I worried about. I have never been a professional film maker neither tried to be a good hobbyist either. 
+
+I just wanted to do interviews and some visual ethnography during my time in places like Senegal, USA or Bolivia. 
+
+The quality of the final products is not very good, considering that the resources that I had at that time were very limited. The most recent video was filmed with a DSLR and a tripod i borrowed from the University of North Carolina's library. For the other ones, older, I just used small digital camera (before I had smartphone). No microphone, no tripod, no plan. 
+
+Just a hand-held camera, a laptop for post-production, and some stories to tell.
+
+
+### [Looking for Identity](https://youtu.be/1rUHNIJ7rn0) (English)
 
 > Visual ethnography with a film-making approach to explore multiculturalism and individual/social identity in the context of the U.S.A.
 
@@ -33,16 +41,11 @@ Some controversial issues are exposed, presenting a nation with a heterogeneous 
 
 In the moment of historic change in which this has been filmed (2016-2017), the U.S.A. faces a moment of transformation and tensions between a national identity and a large number of racial, ethnic, religious or linguistic identities, between assimilation and intercultural engagement.
 
-#### Older
 
-My former hand-held camera documentaries are both in Spanish.
+### [Japikuna](https://www.dailymotion.com/video/xavsje) (Spanish) 
 
-The quality of the final products is not very good, considering that the resources that I had at that time were so much limited. No DSLR, no lenses, no microphone, no tripod, no plan. Just a hand-held HD camera, a laptop for post-production and a hard story.  But I consider both of them two unique visual ethnographies to understand better two very different realities.
+> Documentary about the impact of Cooperation of Development in indigenous communities and marginalized children in Bolivia.
 
-##### - [Japikuna](https://www.dailymotion.com/video/xavsje) (Spanish) 
+### [Éxodo](https://www.youtube.com/watch?v=K5TywvMddog) (Spanish)
 
-Documentary about the impact of Cooperation of Development in indigenous communities and marginalized children in Bolivia.
-
-##### - [Éxodo](https://www.youtube.com/watch?v=K5TywvMddog) (Spanish)
-
-Documentary about the risks of illegal immigration in Africa. Filmed in Senegal.
+> Documentary about the risks of illegal immigration in Africa. Filmed in Senegal.

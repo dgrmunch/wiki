@@ -20,7 +20,7 @@ The photography projects listed below summarize part of my artistic work of the 
 
 Probably, in order to understand better my work, a quick look into the [pathways](../concepts/pathways.md) concept can be useful. Other [concepts](../concepts.md) can serve as inspirational entry points too. So feel free to go through the [rhizome](../concepts/rhizome.md) by opening new tabs in your browser while navigating the photography projects listed below.
 
-I have also several notes about photography, as well as posts in my [by tag](../tags/microblog.md). You can find them [by tag](../tags/photography.md).
+I have also several notes about photography, as well as posts in my [microblog](../tags/microblog.md). You can find them [by tag](../tags/photography.md).
 
 
 ## Project: Autopoiesis

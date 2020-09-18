@@ -5,7 +5,7 @@
 <a href="../1x#@202009171121120">`1x#@202009171121120`</a><br><br>
 
 
-My photography is usually a non-representational form of exploration. I wish I could grasp the same non-representational nature in written expression. That statement seems an oximoron though. We can not deny that natural language has a representational nature by default. So maybe conlangs are the only way to overcome linguistic dualism and intrinsic semantic content. Looking for a syntax without meaning. Looking for a picture in words.
+My photography is usually a non-representational form of exploration. I wish I could grasp the same non-representational nature in written expression. That statement seems an oxymoron though. We can not deny that natural language has a representational nature by default. So maybe conlangs are the only way to overcome linguistic dualism and intrinsic semantic content. Looking for a syntax without meaning. Looking for a picture in words.
 
 <br><br> <hash>c26912f51f204ba7527b9242a4df28d683e4f2a4ee79ac4b58dc01eac2a11cb3.sha256</hash>
 

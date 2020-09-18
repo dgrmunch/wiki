@@ -2,6 +2,42 @@
 # tag: microblog
 
 <div class="micropost">
+<a href="../1x#@202009171121120">`1x#@202009171121120`</a><br><br>
+
+
+My photography is usually a non-representational form of exploration. I wish I could grasp the same non-representational nature in written expression. That statement seems an oximoron though. We can not deny that natural language has a representational nature by default. So maybe conlangs are the only way to overcome linguistic dualism and intrinsic semantic content. Looking for a syntax without meaning. Looking for a picture in words.
+
+<br><br> <hash>c26912f51f204ba7527b9242a4df28d683e4f2a4ee79ac4b58dc01eac2a11cb3.sha256</hash>
+
+
+<br><br><a class="tag" href="#!tags/art.md">art</a><a class="tag" href="#!tags/photography.md">photography</a><a class="tag" href="#!tags/visual koan.md">visual koan</a><a class="tag" href="#!tags/non-representational.md">non-representational</a><a class="tag" href="#!tags/phenomenology.md">phenomenology</a><a class="tag" href="#!tags/philosophy.md">philosophy</a>
+</div>
+
+<div class="micropost">
+<a href="../1x#@20200913113943">`1x#@20200913113943`</a><br><br>
+
+
+Time to close my eyes. Time to not-be. Nothingness. Breath. Bedtime.
+
+<br><br><hash>0f452b4c455865cedd6a9148b4d575d9d47b7791b00b216778561c08812dfdc1.sha256</hash>
+
+
+<br><br><a class="tag" href="#!tags/zen.md">zen</a><a class="tag" href="#!tags/nothingness.md">nothingness</a>
+</div>
+
+<div class="micropost">
+<a href="../1x#@20200914071700">`1x#@20200914071700`</a><br><br>
+
+
+Home Daily routines as a homeostatic process. Keep it organized. Keep it minimal. Keep it uncluttered. **Keep it in balance.**
+
+<br><br><hash>ff5a613188663b86fca5572702caf883bd0e3605aa3678d911fc5ac5668c31f7.sha256</hash>
+
+
+<br><br><a class="tag" href="#!tags/routines.md">routines</a><a class="tag" href="#!tags/intentional living.md">intentional living</a><a class="tag" href="#!tags/minimalism.md">minimalism</a>
+</div>
+
+<div class="micropost">
 <a href="../1x#@20200915105308">`1x#@20200915105308`</a><br><br>
 
 
@@ -23,30 +59,6 @@ There is something beautiful about publishing simple hashed microposts.
 
 
 <br><br><a class="tag" href="#!tags/hash.md">hash</a><a class="tag" href="#!tags/crypto.md">crypto</a><a class="tag" href="#!tags/writing.md">writing</a>
-</div>
-
-<div class="micropost">
-<a href="../1x#@20200914071700">`1x#@20200914071700`</a><br><br>
-
-
-Home Daily routines as a homeostatic process. Keep it organized. Keep it minimal. Keep it uncluttered. **Keep it in balance.**
-
-<br><br><hash>ff5a613188663b86fca5572702caf883bd0e3605aa3678d911fc5ac5668c31f7.sha256</hash>
-
-
-<br><br><a class="tag" href="#!tags/routines.md">routines</a><a class="tag" href="#!tags/intentional living.md">intentional living</a><a class="tag" href="#!tags/minimalism.md">minimalism</a>
-</div>
-
-<div class="micropost">
-<a href="../1x#@20200913113943">`1x#@20200913113943`</a><br><br>
-
-
-Time to close my eyes. Time to not-be. Nothingness. Breath. Bedtime.
-
-<br><br><hash>0f452b4c455865cedd6a9148b4d575d9d47b7791b00b216778561c08812dfdc1.sha256</hash>
-
-
-<br><br><a class="tag" href="#!tags/zen.md">zen</a><a class="tag" href="#!tags/nothingness.md">nothingness</a>
 </div>
 
 <div class="micropost">

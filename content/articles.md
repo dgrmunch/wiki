@@ -32,16 +32,9 @@ tags: articles
 
 * **Simulador de bacterias sintéticas: la conjugación como protocolo de comunicación entre células**, I Jornadas Doctorales de Castilla-La Mancha, ISBN 978-84-693-9605-6, p. 183, 2011. [[Read in Dialnet](https://dialnet.unirioja.es/servlet/articulo?codigo=3616021)]
 
-## Wiki archive
-
-* **[Rhizome Ethnographies](articles/RhizomeEthnographies.md)**
-
-* **[Distributed networks and pandemics](articles/pandemics.md)**
-
 ## Blog Posts
 
 ### English
-
 
 * **Building a Lab in a Distributed Metaverse**: http://blog.xmunch.com/blog/2017/building-a-distributed-metaverse.html
 
@@ -52,8 +45,24 @@ tags: articles
 * **Blockchain Technologies and the P2P Paradigm**: http://blog.xmunch.com/blog/2017/blockchain.html
 
 
-### Spanish / Español
+### Spanish
 
-* [La epojé situada: hacía una fenomenología de la identidad](articles/situated.md)
-* [Abrazando la condición postmoderna](http://blog.xmunch.com/blog/2017/la-llamada.html)
-* [Descentralizando la blogosfera](http://blog.xmunch.com/blog/2017/descentralizando.html)
+* **[Abrazando la condición postmoderna](http://blog.xmunch.com/blog/2017/la-llamada.html)**
+* **[Descentralizando la blogosfera](http://blog.xmunch.com/blog/2017/descentralizando.html)**
+
+
+## Wiki archive
+
+### English articles
+
+* **[Rhizome Ethnographies](articles/RhizomeEthnographies.md)**
+* **[Distributed networks and pandemics](articles/pandemics.md)**
+
+### English tagged content
+
+* **[See tags](../tags.md)**
+
+
+### Spanish
+
+* **[La epojé situada: hacía una fenomenología de la identidad](articles/situated.md)**

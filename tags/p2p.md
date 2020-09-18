@@ -1,6 +1,9 @@
 
 # tag: p2p
 
+ * **[Distributed networks](../content/concepts/distributed_networks.md)**
+
+  * Tags:  <a class="tag" href="#!tags/epistemology.md">epistemology</a>  <a class="tag" href="#!tags/topology.md">topology</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/knowledge.md">knowledge</a>  <a class="tag" href="#!tags/p2p.md">p2p</a>  <a class="tag" href="#!tags/networks.md">networks</a>  <a class="tag" href="#!tags/distributed.md">distributed</a>  <a class="tag" href="#!tags/concepts.md">concepts</a>  <a class="tag" href="#!tags/decentralization.md">decentralization</a>
  * **[Random ideas for Dat/Hyperdrive Markdown blog feed](../content/notebook/captures/notes/dat-blog-notes.md)**
 
   * Tags:  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/hyperdrive.md">hyperdrive</a>  <a class="tag" href="#!tags/p2p.md">p2p</a>  <a class="tag" href="#!tags/blog.md">blog</a>  <a class="tag" href="#!tags/dat.md">dat</a>  <a class="tag" href="#!tags/decentralization.md">decentralization</a>
@@ -22,9 +25,6 @@
  * **[Consensus](../content/concepts/consensus.md)**
 
   * Tags:  <a class="tag" href="#!tags/consensus.md">consensus</a>  <a class="tag" href="#!tags/politics.md">politics</a>  <a class="tag" href="#!tags/social.md">social</a>  <a class="tag" href="#!tags/narrative.md">narrative</a>  <a class="tag" href="#!tags/epistemology.md">epistemology</a>  <a class="tag" href="#!tags/ontology.md">ontology</a>  <a class="tag" href="#!tags/p2p.md">p2p</a>  <a class="tag" href="#!tags/truth.md">truth</a>  <a class="tag" href="#!tags/distributed.md">distributed</a>  <a class="tag" href="#!tags/concepts.md">concepts</a>  <a class="tag" href="#!tags/decentralization.md">decentralization</a>  <a class="tag" href="#!tags/blockchain.md">blockchain</a>
- * **[Distributed networks](../content/concepts/distributed_networks.md)**
-
-  * Tags:  <a class="tag" href="#!tags/epistemology.md">epistemology</a>  <a class="tag" href="#!tags/topology.md">topology</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/knowledge.md">knowledge</a>  <a class="tag" href="#!tags/p2p.md">p2p</a>  <a class="tag" href="#!tags/networks.md">networks</a>  <a class="tag" href="#!tags/distributed.md">distributed</a>  <a class="tag" href="#!tags/concepts.md">concepts</a>  <a class="tag" href="#!tags/decentralization.md">decentralization</a>
  * **[Dat](../content/recipes/dat.md)**
 
   * Tags:  <a class="tag" href="#!tags/recipes.md">recipes</a>  <a class="tag" href="#!tags/technology.md">technology</a>  <a class="tag" href="#!tags/p2p.md">p2p</a>  <a class="tag" href="#!tags/dat.md">dat</a>  <a class="tag" href="#!tags/decentralization.md">decentralization</a>  <a class="tag" href="#!tags/hypercore.md">hypercore</a>  <a class="tag" href="#!tags/hyperdrive.md">hyperdrive</a>

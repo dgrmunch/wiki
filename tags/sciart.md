@@ -1,6 +1,9 @@
 
 # tag: sciart
 
+ * **[Photography](../content/projects/photography.md)**
+
+  * Tags:  <a class="tag" href="#!tags/photography.md">photography</a>  <a class="tag" href="#!tags/art.md">art</a>  <a class="tag" href="#!tags/projects.md">projects</a>  <a class="tag" href="#!tags/sciart.md">sciart</a>
  * **[Academic path](../content/notebook/maps/academic.md)**
 
   * Tags:  <a class="tag" href="#!tags/academic.md">academic</a>  <a class="tag" href="#!tags/history.md">history</a>  <a class="tag" href="#!tags/path.md">path</a>  <a class="tag" href="#!tags/visual.md">visual</a>  <a class="tag" href="#!tags/map.md">map</a>  <a class="tag" href="#!tags/artificial intelligence.md">artificial intelligence</a>  <a class="tag" href="#!tags/systems biology.md">systems biology</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/research.md">research</a>  <a class="tag" href="#!tags/curriculum.md">curriculum</a>  <a class="tag" href="#!tags/ethnography.md">ethnography</a>  <a class="tag" href="#!tags/sciart.md">sciart</a>
@@ -16,6 +19,3 @@
  * **[Brain Waves](../content/notebook/captures/notes/brain-waves-notes.md)**
 
   * Tags:  <a class="tag" href="#!tags/neuroscience.md">neuroscience</a>  <a class="tag" href="#!tags/cognitive science.md">cognitive science</a>  <a class="tag" href="#!tags/eeg-notes.md">eeg-notes</a>  <a class="tag" href="#!tags/embodied cognition.md">embodied cognition</a>  <a class="tag" href="#!tags/eeg.md">eeg</a>  <a class="tag" href="#!tags/research.md">research</a>  <a class="tag" href="#!tags/neurophenomenology.md">neurophenomenology</a>  <a class="tag" href="#!tags/philosophy of mind.md">philosophy of mind</a>  <a class="tag" href="#!tags/experiments.md">experiments</a>  <a class="tag" href="#!tags/brain.md">brain</a>  <a class="tag" href="#!tags/situated.md">situated</a>  <a class="tag" href="#!tags/sciart.md">sciart</a>  <a class="tag" href="#!tags/brain waves.md">brain waves</a>  <a class="tag" href="#!tags/notes.md">notes</a>
- * **[Photography](../content/projects/photography.md)**
-
-  * Tags:  <a class="tag" href="#!tags/photography.md">photography</a>  <a class="tag" href="#!tags/art.md">art</a>  <a class="tag" href="#!tags/projects.md">projects</a>  <a class="tag" href="#!tags/sciart.md">sciart</a>

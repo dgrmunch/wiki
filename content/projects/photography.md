@@ -4,11 +4,6 @@ tags: photography, art, projects, sciart
 
 ## Introduction
 
-
-![](../../0x/d323d5952af08f18e80037b473c96742)
-![](../../0x/6bafad4ea365e61dd883035802f184a5)
-![](../../0x/0ac6c94976f75e4654998f1dd65f8507)
-
 As it has been written in the definition of the [visual koan](../concepts/visual_koan.md):
 
 > Visual arts can be considered a valid cognitive gate to stop logical reasoning and activate in our brains a different kind of experience. An experience that enables judgments-free thought and an open-ended subjective exploration. 
@@ -17,14 +12,16 @@ As it has been written in the definition of the [visual koan](../concepts/visual
 
 > [...] my photos are open doors to my own personal reflection, but they can be used as dark windows to look through in order to explore your own narratives.
 
+![](../../0x/d323d5952af08f18e80037b473c96742)
+![](../../0x/6bafad4ea365e61dd883035802f184a5)
+![](../../0x/0ac6c94976f75e4654998f1dd65f8507)
+
 The photography projects listed below summarize part of my artistic work of the last years. If you have any question regarding my photography, you can start a conversation from the [about me](../../about.md) section. To see some of my pictures on *Instagram* you can also check my [public portfolio](https://www.instagram.com/xmunch/).
 
 Probably, in order to understand better my work, a quick look into the [pathways](../concepts/pathways.md) concept can be useful. Other [concepts](../concepts.md) can serve as inspirational entry points too. So feel free to go through the [rhizome](../concepts/rhizome.md) by opening new tabs in your browser while navigating the photography projects listed below.
 
 
-## List of photography projects
-
-### Autopoiesis
+## Project: Autopoiesis
 
 Visual exploration about the nature of the self and the emergence of personal [identity](../concepts/identity.md).
 
@@ -35,7 +32,7 @@ Visual exploration about the nature of the self and the emergence of personal [i
 ![](../../0x/6b2eba195da684014d91651895bb924f)
 ![](../../0x/3dc4387f5fa2bd2ed6cabd1ecd808af3)
 
-### Darkness
+## Project: Darkness
 
 There is something mysterious in darkness. There is a hidden potential in the black film, in the black sensor. Pixels waiting to be painted. Stories waiting to be said.
 
@@ -47,7 +44,7 @@ There is something mysterious in darkness. There is a hidden potential in the bl
 ![](../../0x/9b4d32a4686df2da745df9510304bf46)
 
 
-### Diversity and Beauty
+## Miscellanea: previous work
 
 This album is a mixture of ‘shots’, an artistic projection about the diversity I have found through my personal trip, traveling, discovering different cultures and just living.
 

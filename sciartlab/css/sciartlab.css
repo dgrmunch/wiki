@@ -144,8 +144,8 @@ audio, video{
 }
 
 .navbar {
-  background-color: #000;
-  opacity: 0.9;
+  background-color: black;
+  opacity: 1;
   font-size: 90%;
   font-family: monospace;
 }

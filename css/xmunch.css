@@ -353,19 +353,20 @@ g .edgePath{
     padding: 5px !important;
     font-size: 75% !important;
     font-weight: 1;
-    line-height: 2.3;
+    line-height: 3;
     text-align: center;
-    white-space: nowrap;
+    /*! white-space: nowrap; */
     vertical-align: baseline;
     border-radius: 0.25em;
-    color: black;
-    border: 1px solid #c9c9c9;
+    color: black !important;
+    border: 1px solid #4c4c4c;
     margin-right: 0px;
-    font-family: arial !important;
+    font-family: arial;
     text-decoration: none !important;
     margin-top: 20px !important;
-    color: #4a4a4a !important;
-    /*! letter-spacing: 0px; */
+    color: #4c4c4c !important;
+    font-size: 12px !important;
+    border-bottom: 0.5px solid #4c4c4c !important;
 }
 
 
@@ -373,11 +374,11 @@ g .edgePath{
     width:100px; margin-top: 4px !important;
 }
 .md-text a {
-    color: black !important;
+    color: black;
     font-size: 90%;
     text-decoration: none;
     border-bottom: 1px solid #d6d6d6;
     font-weight: lighter;
     letter-spacing: 2px;
-    /*! background-color: #fffbec; */
+    background-color: #fffbec;
 }

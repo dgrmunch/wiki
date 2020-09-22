@@ -92,6 +92,7 @@
   text-justify: inter-word;
   font-size: 18px;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
+  margin-bottom: 25px;
 }
 
 .concepts {
@@ -322,6 +323,10 @@ body{
     font-size: 18px;
 }
 
+img {
+  filter: grayscale(100%);
+}
+
 .node rect, .node circle, .node ellipse, .node polygon {
     fill: black;
     stroke: black;
@@ -372,7 +377,7 @@ g .edgePath{
     font-size: 90%;
     text-decoration: none;
     border-bottom: 1px solid #d6d6d6;
-    font-weight: 1;
+    font-weight: lighter;
     letter-spacing: 2px;
     /*! background-color: #fffbec; */
 }

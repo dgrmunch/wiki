@@ -10,4 +10,4 @@
 
 * Meet our [founders, advisors and collaborators](team.md).
 
-![](http://wiki.xmunch.com/images/sciartlogo.png)
+![](https://wiki.xmunch.com/images/sciartlogo.png)

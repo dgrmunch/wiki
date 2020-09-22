@@ -2,6 +2,8 @@
 
 ## Context for new visitors
 
+
+
 * Learn more about our organization in the [about](about.md) section.
 
 * Check some pictures from our [DIY Science events](media.md) to understand our focus on STEAM education and do-it-yourself advocacy.  

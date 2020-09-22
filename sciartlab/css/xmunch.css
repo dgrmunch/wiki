@@ -88,7 +88,7 @@
     background-color:#a29898;
     padding: 10px;
     border-radius: 10px;
-    font-family: arial;
+    font-family: monospace;
 }
 
 .concepts:hover {
@@ -172,17 +172,17 @@ code {
 
 .navbar-default .navbar-brand {
     color: white;
-    font-family: arial;
+    font-family: monospace;
 }
 
 h1, .h1 {
     font-size: 36px;
-    font-family: arial;
+    font-family: monospace;
 }
 
 h2, .h2 {
     font-size: 30px;
-    font-family: arial;
+    font-family: monospace;
     border-bottom: 1px dashed black;
 }
 
@@ -295,7 +295,7 @@ g .edgePath{
     color: black;
     border: 1px solid gray;
     margin-right: 0px;
-    font-family: arial !important;
+    font-family: monospace !important;
     text-decoration: none !important;
     margin-top: 20px !important;
     color: black !important;

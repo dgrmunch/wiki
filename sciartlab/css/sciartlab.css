@@ -143,9 +143,11 @@ audio, video{
   padding-bottom: 0px;
 }
 
-.navbar{
-  background-color: #3B5C6C;
+.navbar {
+  background-color: #000;
   opacity: 0.9;
+  font-size: 90%;
+  font-family: monospace;
 }
 
 .navbar-nav{
@@ -341,7 +343,7 @@ audio, video{
     background-color: white;
     color: black;
     font-size: 100%;
-    font-family: arial;
+    font-family: monospace;
     text-decoration: underline;
     border: 0px;
     border-radius: 2px;
@@ -354,4 +356,9 @@ audio, video{
 
 #md-body-container {
   margin-top: 50px;
+}
+
+body{
+  font-size: 18px;
+  font-family: monospace !important;
 }

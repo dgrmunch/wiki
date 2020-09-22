@@ -130,8 +130,12 @@ a{
 }
 
 cite {
-    background-color: darkseagreen;
-    color: black !important;
+    background-color: #171717;
+    color: white;
+    font-size: 90%;
+    border: 1px dashed white;
+    padding: 5px;
+    padding-left: 10px;
 }
 
 .table-bordered a {

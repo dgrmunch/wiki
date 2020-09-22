@@ -10,7 +10,7 @@ $(document).ready(function() {
         fills: {
           defaultFill: '#f2f2f2',
           highlightFillColor: 'lightgray',
-          visited: 'black'
+          visited: 'rgb(65, 65, 65)'
         },
         responsive: true,
         geographyConfig: {
@@ -97,7 +97,7 @@ $(document).ready(function() {
               fills: {
                 defaultFill: '#f2f2f2',
                 highlightFillColor: 'lightgray',
-                visited: 'black'
+                visited: 'rgb(65, 65, 65)'
               },
               responsive: true,
               geographyConfig: {

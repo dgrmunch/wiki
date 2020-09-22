@@ -325,6 +325,10 @@ body{
     font-size: 18px;
 }
 
+#md-content > ul li {
+    margin-top: 10px;
+}
+
 img {
   filter: grayscale(100%);
 }
@@ -370,7 +374,6 @@ g .edgePath{
     font-size: 12px !important;
     border-bottom: 0.5px solid #4c4c4c !important;
 }
-
 
 .qr{
     width:100px; margin-top: 4px !important;

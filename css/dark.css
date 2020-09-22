@@ -129,6 +129,12 @@ a{
     /*! text-decoration: underline; */
 }
 
+.node rect, .node circle, .node ellipse, .node polygon {
+    fill: rgb(236, 236, 255);
+    stroke: rgb(213, 213, 218);
+    stroke-width: 1px;
+}
+
 cite {
     background-color: darkseagreen;
     color: black !important;

@@ -11,9 +11,11 @@ tags: identity, tech, phd, software engineer, research, curriculum, sciart
   * Founder of SciArt Lab
   * Software Engineer & Blockchain Expert at Docuten
 * **General labels**:
-  * Software engineer
   * Full-time dad
-  * Part-time writer/researcher
+  * Software engineer
+  * Part-time researcher/writer
+  * Experimental photographer
+  * Decentralization advocate
 * **Education:**
   * **Postdoctoral Researcher**, LIS Department, University of North Carolina (UNCG), 2016-2018
   * **Doctor of Philosophy (PhD)**, Information Science, Cum Laude, Universidad Carlos III de Madrid (UC3M), 2013-2015
@@ -24,17 +26,18 @@ tags: identity, tech, phd, software engineer, research, curriculum, sciart
   * **Computer Systems Engineering (BsC)**, Universidad de Castilla la Mancha (UCLM), 2005-2009.
 * **Interests:**
   * Decentralization
-  * DIY Cognitive Neuroscience
+  * Cognitive Science
+  * Photography
+  * Digital Art
+  * Software Development
   * Phenomenology and Philosophy of Mind
   * Complexity Sciences
-  * Photography and Digital Art
   * Ethnography
-  * Software Development
   * Self-organization
 
 ## Summary
 
-I consider myself a multidisciplinary researcher, a mind hacker, a visual ethnographer and a nomad.
+I consider myself a multidisciplinary researcher, a mind hacker, a visual explorer and a nomad.
 
 I have been living for some years in Greensboro (North Carolina, USA), leading the **SciArt Lab** while working remotely as Software Engineer at *Docuten*, developing software such as cryptographic solutions with digital signatures. I currently hold the position of *Blockchain Expert* at **Docuten**.
 
@@ -44,20 +47,21 @@ I have also worked and collaborated with different universities in Spain (*URJC,
 
 I am the founder and coordinator of **Bitmind**, a commons-oriented startup to explore the potential of DAOs/OVNs and the evolution of social complexity in agent-based models and production communities. Bitmind had an international impact in the context of Applied Research & Open Source development around OVNs/DAOs. Since 2017 it will be a project of the P2P Foundation.
 
-I am also co-founder of the **SciArt Lab**, a digital R&D laboratory for the open exploration of Science, Art and Technology. We consider that a multidisciplinary approach is crucial to hack seemingly unrelated topics such as DIY neuroscience, artificial intelligence, generative art, complex adaptive systems or digital photography.
+I am also co-founder of the **SciArt Lab**, a digital R&D laboratory for the open exploration of Science, Art and Technology. We consider that a multidisciplinary approach is crucial to hack seemingly unrelated topics such as photography, generative art, complex adaptive systems,  DIY neuroscience or artificial intelligence.
 
 Additionally, I am a hobbyist photographer, a self-guided researcher/writer and a digital artist. I have other side projects and conduct some self-directed research initiatives.
 
-For years I have been exploring the evolution of social complexity in agent-based models. I have also studied diverse topics such as neuroscience, genetic algorithms or decentralized technologies.
+For years I have been exploring the evolution of social complexity in agent-based models. I have also studied diverse topics such as decentralized technologies, neuroscience, genetic algorithms, systems biology, self-organization and distributed knowledge production.
 
-I enjoy self-guided research, applying qualitative approaches such as visual ethnography to study diversity of identity/identities in real social agents, open source coding to bootstrap the potential of mankind, and DIY Neuroscience and a [phenomenology-based](content/concepts/phenomenology.md) approach to philosophy to dig into the nature of human experience. My current research interests are cognitive science, self-organization, philosophy of mind, phenomenology and complex systems. 
+I enjoy self-guided research, applying qualitative approaches such as visual ethnography to study diversity of identity/identities in real social agents, open source coding to bootstrap the potential of mankind, and DIY Neuroscience and a [phenomenology-based](content/concepts/phenomenology.md) approach to philosophy to dig into the nature of human experience. My current main research interests are analog photography, cognitive science, philosophy of mind, phenomenology and complex systems. 
 
 ## Pathways
 
 In this section you can find some maps which can be helpful to understand in detail both my resume, my personal evolution and my academic/professional profile.
-Every map is followed by a link to a section in which I deeply describe the corresponding pathway.
 
-For example, below the *Academic Map* there is a link to a textual description of my [Academic Path](content/notebook/maps/academic.md).
+Every map highlights in dark gray the locations I have explored during specific pathways, both academic/professional and personal. Each map is followed by a brief text and link to a section in which I deeply describe the corresponding pathway.
+
+For example, if you are interested in my academic and professional resume, below the *Academic Map* there is a link to a page with a detailed textual description of my [Academic Path](content/notebook/maps/academic.md).
 
 You can also read about the importance and meaning of social agent's [pathways](content/concepts/pathways.md) in the [concepts](content/concepts.md) section.
 
@@ -75,11 +79,11 @@ Read about my [Academic Path](content/notebook/maps/academic.md), a page which e
 
 This representation of my personal path is just a bi-dimensional visualization of several years of trips around the globe. Obviously, it only represents a bird-view projection of countries and states which I had the chance to explore. 
 
-It does not go deep in specific coordinates. It ignores cities, national parks, small towns, trails, lakes or mountains. It does not track any experiences in the ocean. Neither events, nor people or weather conditions are mentioned. Temporal details are not captured anyway. 
+It does not go deep in specific coordinates. It ignores cities, national parks, small towns, trails, lakes, streets, coffee shops, planes, trains, forests or mountains. It does not track any experiences in the ocean. Neither events, nor people or weather conditions are mentioned. Temporal details are not captured anyway. 
 
-However, it summarizes how traveling constituted a very important part of my individual exploration. How moving freely has been as basic to me as breathing<!---; and even how a period of [*self-isolation*](content/articles/self-isolation.md) had important implications for my self-reflection regarding [identity](content/concepts/identity.md)-->.
+However, it summarizes how traveling constituted a very important part of my individual exploration. How moving freely has been as basic to me as breathing.
 
-Some time ago I wrote a post about how traveling helped me to [embrace the postmodern condition](http://blog.xmunch.com/blog/2017/la-llamada.html) but the radical importance of traveling in my philosophical quest is better addressed in this article about the [situated epoché](content/articles/situated.md).
+Some time ago I wrote a post about how traveling helped me to [embrace the postmodern condition](http://blog.xmunch.com/blog/2017/la-llamada.html) and overcome my own prejudices but the radical importance of traveling in my philosophical quest is better addressed in this article about the [situated epoché](content/articles/situated.md).
 
 ## Social Links
 

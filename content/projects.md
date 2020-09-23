@@ -26,9 +26,9 @@ In the past I wanted to explore the potential of movie-making to share stories a
 
 I just wanted to do interviews and some visual ethnography during my time in places like Senegal, USA or Bolivia. 
 
-The quality of the final products is not very good, considering that the resources that I had at that time were very limited. The most recent video was filmed with a DSLR and a tripod i borrowed from the University of North Carolina's library. For the other ones, older, I just used small digital camera (before I had smartphone). No microphone, no tripod, no plan. 
+The quality of the final products is not very good, considering that the resources that I had at that time were very limited. The most recent video was filmed with a DSLR and a tripod i borrowed from the University of North Carolina's library. For the other ones, older, I just used a small digital camera (before I even had a smartphone). No microphone, no tripod, no plan. 
 
-Just a hand-held camera, a laptop for post-production, and some stories to tell.
+Just a hand-held camera, a laptop for post-production, and some stories to tell. Amateur documentaries with message.
 
 
 ### [Looking for Identity](https://youtu.be/1rUHNIJ7rn0) (English)

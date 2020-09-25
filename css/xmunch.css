@@ -252,6 +252,7 @@ h3:before, h1:before, h2:before {content: "▼  ";}
 .img-thumbnail {
     margin-top: 20px;
     margin-bottom: 20px;
+    width: 100% !important;
 }
 
 pre code {
@@ -390,3 +391,4 @@ g .edgePath{
     letter-spacing: 2px;
     background-color: #fffbec;
 }
+

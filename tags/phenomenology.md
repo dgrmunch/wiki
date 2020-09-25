@@ -1,6 +1,21 @@
 
 # tag: phenomenology
 
+ * **[Walking awake](../content/projects/photography/walking-awake.md)**
+
+  * Tags:  <a class="tag" href="#!tags/photography.md">photography</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/koans.md">koans</a>  <a class="tag" href="#!tags/projects.md">projects</a>  <a class="tag" href="#!tags/art.md">art</a>
+ * **[The process](../content/projects/photography/the-process.md)**
+
+  * Tags:  <a class="tag" href="#!tags/photography.md">photography</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/philosophy.md">philosophy</a>  <a class="tag" href="#!tags/koans.md">koans</a>  <a class="tag" href="#!tags/projects.md">projects</a>  <a class="tag" href="#!tags/art.md">art</a>
+ * **[Wormhole](../content/projects/photography/wormhole.md)**
+
+  * Tags:  <a class="tag" href="#!tags/photography.md">photography</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/philosophy.md">philosophy</a>  <a class="tag" href="#!tags/rhizome.md">rhizome</a>  <a class="tag" href="#!tags/koans.md">koans</a>  <a class="tag" href="#!tags/projects.md">projects</a>  <a class="tag" href="#!tags/art.md">art</a>
+ * **[Darkness](../content/projects/photography/darkness.md)**
+
+  * Tags:  <a class="tag" href="#!tags/photography.md">photography</a>  <a class="tag" href="#!tags/darkness.md">darkness</a>  <a class="tag" href="#!tags/self.md">self</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/philosophy.md">philosophy</a>  <a class="tag" href="#!tags/koans.md">koans</a>  <a class="tag" href="#!tags/zen.md">zen</a>  <a class="tag" href="#!tags/projects.md">projects</a>
+ * **[Autopoiesis](../content/projects/photography/autopoiesis.md)**
+
+  * Tags:  <a class="tag" href="#!tags/photography.md">photography</a>  <a class="tag" href="#!tags/autopoiesis.md">autopoiesis</a>  <a class="tag" href="#!tags/complex adaptive systems.md">complex adaptive systems</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/philosophy.md">philosophy</a>  <a class="tag" href="#!tags/koans.md">koans</a>  <a class="tag" href="#!tags/zen.md">zen</a>  <a class="tag" href="#!tags/projects.md">projects</a>
  * **[1x@202009171121120](../content/notebook/captures/logs/202009171121120.md)**
 
   * Tags:  <a class="tag" href="#!tags/microblog.md">microblog</a>  <a class="tag" href="#!tags/art.md">art</a>  <a class="tag" href="#!tags/photography.md">photography</a>  <a class="tag" href="#!tags/visual koan.md">visual koan</a>  <a class="tag" href="#!tags/non-representational.md">non-representational</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/philosophy.md">philosophy</a>
@@ -46,12 +61,6 @@
  * **[Phenomenology](../content/concepts/phenomenology.md)**
 
   * Tags:  <a class="tag" href="#!tags/academic.md">academic</a>  <a class="tag" href="#!tags/mind.md">mind</a>  <a class="tag" href="#!tags/epistemology.md">epistemology</a>  <a class="tag" href="#!tags/philosophy of mind.md">philosophy of mind</a>  <a class="tag" href="#!tags/cognitive science.md">cognitive science</a>  <a class="tag" href="#!tags/subjective.md">subjective</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/concepts.md">concepts</a>
- * **[Darkness](../content/projects/photography/darkness.md)**
-
-  * Tags:  <a class="tag" href="#!tags/photography.md">photography</a>  <a class="tag" href="#!tags/darkness.md">darkness</a>  <a class="tag" href="#!tags/self.md">self</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/philosophy.md">philosophy</a>  <a class="tag" href="#!tags/koans.md">koans</a>  <a class="tag" href="#!tags/zen.md">zen</a>  <a class="tag" href="#!tags/projects.md">projects</a>
- * **[Autopoiesis](../content/projects/photography/autopoiesis.md)**
-
-  * Tags:  <a class="tag" href="#!tags/photography.md">photography</a>  <a class="tag" href="#!tags/autopoiesis.md">autopoiesis</a>  <a class="tag" href="#!tags/complex adaptive systems.md">complex adaptive systems</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/philosophy.md">philosophy</a>  <a class="tag" href="#!tags/koans.md">koans</a>  <a class="tag" href="#!tags/zen.md">zen</a>  <a class="tag" href="#!tags/projects.md">projects</a>
  * **[Situated Epoché: towards a phenomenology of identity](../content/articles/situated.md)**
 
   * Tags:  <a class="tag" href="#!tags/mind.md">mind</a>  <a class="tag" href="#!tags/self.md">self</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/philosophy of mind.md">philosophy of mind</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/articles.md">articles</a>  <a class="tag" href="#!tags/spanish.md">spanish</a>

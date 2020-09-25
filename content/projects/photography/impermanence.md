@@ -1,5 +1,17 @@
 # Impermanence
 
+tags: photography, search, time, philosophy, koans, projects, art
+
+## Description 
+
+> I am an instant.
+
+> And now
+
+> I am another instant
+
+## Pictures
+
 
 ![](../../../0x/8a8265f36c0a7596c1620815018b20ee)
 

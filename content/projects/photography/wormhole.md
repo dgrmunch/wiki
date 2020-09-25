@@ -1,5 +1,22 @@
 # Wormhole
 
+tags: photography, phenomenology, philosophy, rhizome, koans, projects, art
+
+## Description 
+
+> random points in spacetime
+
+> a photon jumping through the rabbit hole
+
+> discovering the rhizome
+
+> wormhole
+
+> connecting worlds and shapes
+
+> phenomenon and intentionality
+
+## Pictures
 
 ![](../../../0x/7bfff671dcaec9980ac1f4346f9569dd)
 

@@ -1,6 +1,9 @@
 
 # tag: complex adaptive systems
 
+ * **[Autopoiesis](../content/projects/photography/autopoiesis.md)**
+
+  * Tags:  <a class="tag" href="#!tags/photography.md">photography</a>  <a class="tag" href="#!tags/autopoiesis.md">autopoiesis</a>  <a class="tag" href="#!tags/complex adaptive systems.md">complex adaptive systems</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/philosophy.md">philosophy</a>  <a class="tag" href="#!tags/koans.md">koans</a>  <a class="tag" href="#!tags/zen.md">zen</a>  <a class="tag" href="#!tags/projects.md">projects</a>
  * **[Lansing on Emergence of Cooperation](../content/notebook/captures/notes/complex-science-note-6.md)**
 
   * Tags:  <a class="tag" href="#!tags/complexity-notes.md">complexity-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/complex science.md">complex science</a>  <a class="tag" href="#!tags/complex adaptive systems.md">complex adaptive systems</a>  <a class="tag" href="#!tags/evolution.md">evolution</a>  <a class="tag" href="#!tags/cooperation.md">cooperation</a>  <a class="tag" href="#!tags/emergence.md">emergence</a>  <a class="tag" href="#!tags/social complexity.md">social complexity</a>  <a class="tag" href="#!tags/anthropology.md">anthropology</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/artificial life.md">artificial life</a>
@@ -22,6 +25,3 @@
  * **[Bacterial-Based Algorithm to Simulate Complex Adaptive Systems](../content/notebook/captures/notes/complex-science-note-1.md)**
 
   * Tags:  <a class="tag" href="#!tags/complexity-notes.md">complexity-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/complex science.md">complex science</a>  <a class="tag" href="#!tags/complex adaptive systems.md">complex adaptive systems</a>  <a class="tag" href="#!tags/evolution.md">evolution</a>  <a class="tag" href="#!tags/bio-inspired.md">bio-inspired</a>  <a class="tag" href="#!tags/artificial life.md">artificial life</a>  <a class="tag" href="#!tags/articles.md">articles</a>  <a class="tag" href="#!tags/decentralization.md">decentralization</a>
- * **[Autopoiesis](../content/projects/photography/autopoiesis.md)**
-
-  * Tags:  <a class="tag" href="#!tags/photography.md">photography</a>  <a class="tag" href="#!tags/autopoiesis.md">autopoiesis</a>  <a class="tag" href="#!tags/complex adaptive systems.md">complex adaptive systems</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/philosophy.md">philosophy</a>  <a class="tag" href="#!tags/koans.md">koans</a>  <a class="tag" href="#!tags/zen.md">zen</a>  <a class="tag" href="#!tags/projects.md">projects</a>

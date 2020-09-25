@@ -1,4 +1,18 @@
 
+# Characters
+
+tags: photography, search, pathways, maps, identity, philosophy, characters, koans, projects, art
+
+## Description 
+
+> Quest. Question. Question Mark.
+
+> Who are those characters? 
+
+> Where is the [real me](../../concepts/identity.md)?  
+
+## Pictures
+
 
 ![](../../../0x/1530cf6ae28c21e4e87f8e3634e9443e)
 

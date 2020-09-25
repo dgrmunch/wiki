@@ -1,5 +1,15 @@
 
-# Street photography
+# Walking awake
+
+tags: photography, phenomenology, koans, projects, art
+
+## Description 
+
+> out there
+
+> there are things to see
+
+## Pictures
 
 ![](../../../0x/8342f95862fc67633b73231562bae971)
 
@@ -10,8 +20,6 @@
 ![](../../../0x/272789dd12f55f8b32295caf60059c56)
 
 ![](../../../0x/64fdeabb993009e9ff5b9e84bfc9dde2)
-
-![](../../../0x/074c923be02712ea3adf4847351393f9)
 
 ![](../../../0x/78f9e3a75fe2aa098be10b03668223d1)
 
@@ -38,8 +46,6 @@
 ![](../../../0x/3531f07a9837beb9ce0ce883b5283889)
 
 ![](../../../0x/77dd3a0e1e36d0b81f52e4fe9c1d5b39)
-
-![](../../../0x/0d57e32fd7e8bd4f7e1aea85f39c4c27)
 
 ![](../../../0x/0d8364ce41f0ee072bf9774351a1b4df)
 

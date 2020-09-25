@@ -49,8 +49,6 @@ Characters disappear while the pure [self](../../concepts/identity.md) (or non-s
 
 ![](../../../0x/0c32bb715116225f1be68e0a8479643d)
 
-![](../../../0x/79635f72e5d59c7f692ca7d5c7cb2fca)
-
 ![](../../../0x/6bafad4ea365e61dd883035802f184a5)
 
 ![](../../../0x/1bb786ac65f282ebce0a5fb0d2e0c9c7)

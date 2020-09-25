@@ -1,5 +1,17 @@
 # Silence
 
+tags: photography, identity, zen, philosophy, koans, projects, art
+
+## Description 
+
+> Breathing
+
+> in silence
+
+> breathing
+
+## Pictures
+
 ![](../../../0x/3363a71da663f77acf4797802e7378d5)
 
 ![](../../../0x/30e9d59011f92874eadfa9fb0d9be6b5)

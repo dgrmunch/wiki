@@ -23,28 +23,41 @@ Probably, in order to understand better my work, a quick look into the [pathways
 I have also several notes about photography, as well as posts in my [microblog](../../tags/microblog.md). You can find them [by tag](../../tags/photography.md).
 
 
-## Project: Autopoiesis
-
-Visual exploration about the nature of the self and the emergence of personal [identity](../concepts/identity.md).
-
-* Go to visual project: [Autopoiesis](photography/autopoiesis.md)
-
-* Some sample thumbnails are displayed below:
-
-![](../../0x/6b2eba195da684014d91651895bb924f)
-![](../../0x/3dc4387f5fa2bd2ed6cabd1ecd808af3)
-
 ## Project: Darkness
 
-There is something mysterious in darkness. There is a hidden potential in the black film, in the black sensor. Pixels waiting to be painted. Stories waiting to be said.
+* [Go to visual project](photography/darkness.md)
 
-* Go to visual project: [Darkness](photography/darkness.md)
+## Project: Autopoiesis
 
-* Some sample thumbnails are displayed below:
+* [Go to visual project](photography/autopoiesis.md)
 
-![](../../0x/7e0a0592484f8e2aad28d4d22356d117)
-![](../../0x/9b4d32a4686df2da745df9510304bf46)
+## Project: Silence
 
+* [Go to visual project](photography/silence.md)
+
+## Project: Characters
+
+* [Go to visual project](photography/characters.md)
+
+## Project: Impermanence
+
+* [Go to visual project](photography/impermanence.md)
+
+## Project: The process
+
+* [Go to visual project](photography/the-process.md)
+
+## Project: Wormhole
+
+* [Go to visual project](photography/wormhole.md)
+
+## Project: Death
+
+* [Go to visual project](photography/death.md)
+
+## Project: Waking awake
+
+* [Go to visual project](photography/walking-awake.md)
 
 ## Miscellanea: previous work
 

@@ -1,8 +1,27 @@
 # The process
 
+tags: photography, phenomenology, philosophy, koans, projects, art
+
+## Description 
+
+> Photography is more than a set of techniques. 
+
+> Photography is more than a convergence of photons and film, more than a combination of time and matter.
+
+> It is a pathway, a connection, a process.
+
+
+There is a bridge between the mental phenomenon and the materiality of the physical world. A backdoor to scape the dualistic cognitive jail of language.
+
+The picture, ontologically speaking, is a transcendental entity that exists both in the mind, the scene, the camera, the film/sensor, the print. And back to the mind.
+
+## Pictures
+
 ![](../../../0x/28927d2226cf5a877014b9a79285460b)
 
 ![](../../../0x/55329733f9d4d31a309d6189fd9a9655)
+
+![](../../../0x/074c923be02712ea3adf4847351393f9)
 
 ![](../../../0x/1c05c3d987a4321bdeea2c56f6a5dc72)
 

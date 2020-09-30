@@ -7,6 +7,8 @@ tags: identity, tech, phd, software engineer, research, curriculum, sciart
 
 * **Name**:
   * Diego González, PhD
+* **Contact**:
+  * [![](https://www.xmunch.com/email.png)](https://www.xmunch.com)
 * **Current work status:**
   * Founder of SciArt Lab
   * Software Engineer & Blockchain Expert at Docuten

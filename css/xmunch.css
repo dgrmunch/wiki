@@ -138,7 +138,6 @@ a {
 
 #md-content a[href$=".md"], #children-list a[href$=".md"] {
         color: black;
-        font-size: 90%;
         /*! border-bottom: 1px solid black; */
 }
 
@@ -390,8 +389,8 @@ g .edgePath{
     font-size: 90%;
     text-decoration: none;
     border-bottom: 1px solid #d6d6d6;
-    font-weight: lighter;
-    letter-spacing: 2px;
+    /*! font-weight: lighter; */
+    /*! letter-spacing: 2px; */
     background-color: #fffbec;
 }
 

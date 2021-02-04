@@ -34,6 +34,44 @@
  --- 
 
 
+## University of Toronto: Bibliography and Recommendations
+
+  <a class="tag" href="#!tags/cognition.md">cognition</a>  <a class="tag" href="#!tags/p2p.md">p2p</a>  <a class="tag" href="#!tags/phd.md">phd</a>  <a class="tag" href="#!tags/learning.md">learning</a>  <a class="tag" href="#!tags/epistemology.md">epistemology</a>  <a class="tag" href="#!tags/authors.md">authors</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/scholars.md">scholars</a>  <a class="tag" href="#!tags/uoft-notes.md">uoft-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>
+
+  --- 
+
+
+ Here I have some of bibliography and notes of my research stay at University of Toronto. Most of them during conversations, meetings and meals with Gabby Resch and Matt Ratto.
+
+  * Recommendations
+    * Loet Leydesdorff
+      * http://scholar.google.com/citations?user=ych9gNYAAAAJ&hl=en&oi=ao
+      * http://arxiv.org/ftp/arxiv/papers/1406/1406.5688.pdf
+      * http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2285487
+      * http://www.leydesdorff.net/montreal.htm
+  * Information theoretical approaches
+    * Author: Jenna Hartel
+    * Author: Bernd Frohmann 
+  * Cognition
+    * Situated learning theory
+      * http://hlwiki.slais.ubc.ca/index.php/Situated_learning_theory
+      * Maturana & Varela's Theory of Cognition
+        * Some Differences between Maturana and Varela's Theory of Cognition and Constructivism
+  * Communities of practice
+    * http://en.wikipedia.org/wiki/Community_of_practice#CITEREFe.g._Dub.C3.A9_et_al.2005
+  * Computer Supported Collaborative Learning
+    * http://www.comlab.hut.fi/opetus/205/etatehtava1.pdf
+  * Peer Learning
+    * Vygotsky
+    * Jonathan Tudge (UNCG)
+      * "Jonathan Tudge is Professor in the Department of Human Development and Family Studies at The University of North Carolina at Greensboro. Most of his research focuses on the interrelations between the social world and children’s social, moral, and cognitive development. In much of his research, he uses cultural-ecological theory, a contextualist theory that draws on the ideas of Lev Vygotsky and Urie Bronfenbrenner. The major line of research is longitudinal and cross-cultural in design, dealing with the ways in which young children become part of the cultural group in which they live. This work involves extensive observations of the everyday activities of children when they are three years of age as well as interviews and questionnaires with their parents regarding their child-rearing values and beliefs. The children are followed through their first years of school, when data on parents’ and teachers’ perceptions of the children’s social and academic competence are also gathered. This research is cross-cultural (US, Russia, Estonia, Finland, Korea, Kenya, and Brazil) and examines within-societal variations as a function of ethnicity and social class. A book was published that is based on this research: Tudge, J. R. H. (2008). The everyday lives of young children: Culture, class, and child rearing in diverse societies. New York: Cambridge University Press." Ref: http://scholar.google.ca/citations?user=IKkaf2kAAAAJ&hl=en
+* Epistemology
+      * Information, Knowledge and Learning. Lankshear, C., Peters, M., & Knobel, M. (2000). Information, Knowledge and Learning: Some Issues Facing Epistemology and Education in a Digital Age. Journal of the Philosophy of Education, 34(1), 17–39. doi:10.1111/1467-9752.00153
+
+
+ --- 
+
+
 ## Situated Learning / Ethnography Bibliography
 
   <a class="tag" href="#!tags/methodology.md">methodology</a>  <a class="tag" href="#!tags/phd.md">phd</a>  <a class="tag" href="#!tags/situated.md">situated</a>  <a class="tag" href="#!tags/embodied.md">embodied</a>  <a class="tag" href="#!tags/ethnography.md">ethnography</a>  <a class="tag" href="#!tags/emergence.md">emergence</a>  <a class="tag" href="#!tags/authors.md">authors</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/scholars.md">scholars</a>  <a class="tag" href="#!tags/uoft-notes.md">uoft-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>
@@ -45,6 +83,21 @@
  * **Apprenticeship in Critical Ethnographic Practice**, Paperback (Apr 30 2011) by Jean Lave
  * **Situated Learning: Legitimate Peripheral Participation**, by Jean Lave and Etienne Wenger 
  * See also: http://hlwiki.slais.ubc.ca/index.php/Situated_learning_theory
+
+
+ --- 
+
+
+## Embodiment / Cybernetics Bibliography
+
+  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/phd.md">phd</a>  <a class="tag" href="#!tags/emergence.md">emergence</a>  <a class="tag" href="#!tags/cybernetics.md">cybernetics</a>  <a class="tag" href="#!tags/second-order systems theory.md">second-order systems theory</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/uoft-notes.md">uoft-notes</a>
+
+  --- 
+
+
+* **Emergence and Embodiment: New Essays on Second-Order Systems Theory**, 2009. Editor(s): Bruce Clarke, Mark B. N. Hansen. Contributor(s): Bruce Clarke, Francisco J. Varela, Evan Thompson, John Protevi, Niklas Luhmann, Michael Schiltz, Edgar Landgraf, Linda Brigham, Ira Livingstone, Mark B. N. Hansen, Cary Wolfe
+
+> Emerging in the 1940s, the first cybernetics—the study of communication and control systems—was mainstreamed under the names artificial intelligence and computer science and taken up by the social sciences, the humanities, and the creative arts. In Emergence and Embodiment, Bruce Clarke and Mark B. N. Hansen focus on cybernetic developments that stem from the second-order turn in the 1970s, when the cyberneticist Heinz von Foerster catalyzed new thinking about the cognitive implications of self-referential systems. The crucial shift he inspired was from first-order cybernetics’ attention to homeostasis as a mode of autonomous self-regulation in mechanical and informatic systems, to second-order concepts of self-organization and autopoiesis in embodied and metabiotic systems. The collection opens with an interview with von Foerster and then traces the lines of neocybernetic thought that have followed from his work. In response to the apparent dissolution of boundaries at work in the contemporary technosciences of emergence, neocybernetics observes that cognitive systems are operationally bounded, semi-autonomous entities coupled with their environments and other systems. Second-order systems theory stresses the recursive complexities of observation, mediation, and communication. Focused on the neocybernetic contributions of von Foerster, Francisco Varela, and Niklas Luhmann, this collection advances theoretical debates about the cultural, philosophical, and literary uses of their ideas. In addition to the interview with von Foerster, Emergence and Embodiment includes essays by Varela and Luhmann. It engages with Humberto Maturana’s and Varela’s creation of the concept of autopoiesis, Varela’s later work on neurophenomenology, and Luhmann’s adaptations of autopoiesis to social systems theory. Taken together, these essays illuminate the shared commitments uniting the broader discourse of neocybernetics.
 
 
  --- 
@@ -125,59 +178,6 @@ analysis are used to collect relationship data using a social network analysis a
 * "Sociomaterial Practices: Exploring Technology at Work," Organization Studies , 28, 2007: 1435-1448. 
 *  Knowing in Practice: Enacting a Collective Capability in Distributed Organizing," Organization Science, 13, 4, 2002: 249-273.
 * “Desperately Seeking the ‘IT’ in IT Research: A Call to Theorizing the IT Artifact,” [with C. Suzanne Iacono].Â  Information Systems Research, 12, 2, 2001: 121-134.
-
-
- --- 
-
-
-## Embodiment / Cybernetics Bibliography
-
-  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/phd.md">phd</a>  <a class="tag" href="#!tags/emergence.md">emergence</a>  <a class="tag" href="#!tags/cybernetics.md">cybernetics</a>  <a class="tag" href="#!tags/second-order systems theory.md">second-order systems theory</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/uoft-notes.md">uoft-notes</a>
-
-  --- 
-
-
-* **Emergence and Embodiment: New Essays on Second-Order Systems Theory**, 2009. Editor(s): Bruce Clarke, Mark B. N. Hansen. Contributor(s): Bruce Clarke, Francisco J. Varela, Evan Thompson, John Protevi, Niklas Luhmann, Michael Schiltz, Edgar Landgraf, Linda Brigham, Ira Livingstone, Mark B. N. Hansen, Cary Wolfe
-
-> Emerging in the 1940s, the first cybernetics—the study of communication and control systems—was mainstreamed under the names artificial intelligence and computer science and taken up by the social sciences, the humanities, and the creative arts. In Emergence and Embodiment, Bruce Clarke and Mark B. N. Hansen focus on cybernetic developments that stem from the second-order turn in the 1970s, when the cyberneticist Heinz von Foerster catalyzed new thinking about the cognitive implications of self-referential systems. The crucial shift he inspired was from first-order cybernetics’ attention to homeostasis as a mode of autonomous self-regulation in mechanical and informatic systems, to second-order concepts of self-organization and autopoiesis in embodied and metabiotic systems. The collection opens with an interview with von Foerster and then traces the lines of neocybernetic thought that have followed from his work. In response to the apparent dissolution of boundaries at work in the contemporary technosciences of emergence, neocybernetics observes that cognitive systems are operationally bounded, semi-autonomous entities coupled with their environments and other systems. Second-order systems theory stresses the recursive complexities of observation, mediation, and communication. Focused on the neocybernetic contributions of von Foerster, Francisco Varela, and Niklas Luhmann, this collection advances theoretical debates about the cultural, philosophical, and literary uses of their ideas. In addition to the interview with von Foerster, Emergence and Embodiment includes essays by Varela and Luhmann. It engages with Humberto Maturana’s and Varela’s creation of the concept of autopoiesis, Varela’s later work on neurophenomenology, and Luhmann’s adaptations of autopoiesis to social systems theory. Taken together, these essays illuminate the shared commitments uniting the broader discourse of neocybernetics.
-
-
- --- 
-
-
-## University of Toronto: Bibliography and Recommendations
-
-  <a class="tag" href="#!tags/cognition.md">cognition</a>  <a class="tag" href="#!tags/p2p.md">p2p</a>  <a class="tag" href="#!tags/phd.md">phd</a>  <a class="tag" href="#!tags/learning.md">learning</a>  <a class="tag" href="#!tags/epistemology.md">epistemology</a>  <a class="tag" href="#!tags/authors.md">authors</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/scholars.md">scholars</a>  <a class="tag" href="#!tags/uoft-notes.md">uoft-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>
-
-  --- 
-
-
- Here I have some of bibliography and notes of my research stay at University of Toronto. Most of them during conversations, meetings and meals with Gabby Resch and Matt Ratto.
-
-  * Recommendations
-    * Loet Leydesdorff
-      * http://scholar.google.com/citations?user=ych9gNYAAAAJ&hl=en&oi=ao
-      * http://arxiv.org/ftp/arxiv/papers/1406/1406.5688.pdf
-      * http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2285487
-      * http://www.leydesdorff.net/montreal.htm
-  * Information theoretical approaches
-    * Author: Jenna Hartel
-    * Author: Bernd Frohmann 
-  * Cognition
-    * Situated learning theory
-      * http://hlwiki.slais.ubc.ca/index.php/Situated_learning_theory
-      * Maturana & Varela's Theory of Cognition
-        * Some Differences between Maturana and Varela's Theory of Cognition and Constructivism
-  * Communities of practice
-    * http://en.wikipedia.org/wiki/Community_of_practice#CITEREFe.g._Dub.C3.A9_et_al.2005
-  * Computer Supported Collaborative Learning
-    * http://www.comlab.hut.fi/opetus/205/etatehtava1.pdf
-  * Peer Learning
-    * Vygotsky
-    * Jonathan Tudge (UNCG)
-      * "Jonathan Tudge is Professor in the Department of Human Development and Family Studies at The University of North Carolina at Greensboro. Most of his research focuses on the interrelations between the social world and children’s social, moral, and cognitive development. In much of his research, he uses cultural-ecological theory, a contextualist theory that draws on the ideas of Lev Vygotsky and Urie Bronfenbrenner. The major line of research is longitudinal and cross-cultural in design, dealing with the ways in which young children become part of the cultural group in which they live. This work involves extensive observations of the everyday activities of children when they are three years of age as well as interviews and questionnaires with their parents regarding their child-rearing values and beliefs. The children are followed through their first years of school, when data on parents’ and teachers’ perceptions of the children’s social and academic competence are also gathered. This research is cross-cultural (US, Russia, Estonia, Finland, Korea, Kenya, and Brazil) and examines within-societal variations as a function of ethnicity and social class. A book was published that is based on this research: Tudge, J. R. H. (2008). The everyday lives of young children: Culture, class, and child rearing in diverse societies. New York: Cambridge University Press." Ref: http://scholar.google.ca/citations?user=IKkaf2kAAAAJ&hl=en
-* Epistemology
-      * Information, Knowledge and Learning. Lankshear, C., Peters, M., & Knobel, M. (2000). Information, Knowledge and Learning: Some Issues Facing Epistemology and Education in a Digital Age. Journal of the Philosophy of Education, 34(1), 17–39. doi:10.1111/1467-9752.00153
 
 
  --- 

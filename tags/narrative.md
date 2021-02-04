@@ -1,6 +1,9 @@
 
 # tag: narrative
 
+ * **[Maps](../content/notebook/maps.md)**
+
+  * Tags:  <a class="tag" href="#!tags/map.md">map</a>  <a class="tag" href="#!tags/topology.md">topology</a>  <a class="tag" href="#!tags/path.md">path</a>  <a class="tag" href="#!tags/visual.md">visual</a>  <a class="tag" href="#!tags/history.md">history</a>  <a class="tag" href="#!tags/ontology.md">ontology</a>  <a class="tag" href="#!tags/epistemology.md">epistemology</a>  <a class="tag" href="#!tags/philosophy.md">philosophy</a>  <a class="tag" href="#!tags/mind.md">mind</a>  <a class="tag" href="#!tags/narrative.md">narrative</a>
  * **[Identity](../content/concepts/identity.md)**
 
   * Tags:  <a class="tag" href="#!tags/self.md">self</a>  <a class="tag" href="#!tags/intentionality.md">intentionality</a>  <a class="tag" href="#!tags/being.md">being</a>  <a class="tag" href="#!tags/cognitive science.md">cognitive science</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/mind.md">mind</a>  <a class="tag" href="#!tags/dualism.md">dualism</a>  <a class="tag" href="#!tags/narrative.md">narrative</a>  <a class="tag" href="#!tags/epistemology.md">epistemology</a>  <a class="tag" href="#!tags/ontology.md">ontology</a>  <a class="tag" href="#!tags/philosophy of mind.md">philosophy of mind</a>  <a class="tag" href="#!tags/concepts.md">concepts</a>  <a class="tag" href="#!tags/single-subject research.md">single-subject research</a>  <a class="tag" href="#!tags/nothingness.md">nothingness</a>
@@ -10,6 +13,3 @@
  * **[Rhizome Ethnographies](../content/articles/RhizomeEthnographies.md)**
 
   * Tags:  <a class="tag" href="#!tags/ethnography.md">ethnography</a>  <a class="tag" href="#!tags/politics.md">politics</a>  <a class="tag" href="#!tags/social.md">social</a>  <a class="tag" href="#!tags/narrative.md">narrative</a>  <a class="tag" href="#!tags/ontology.md">ontology</a>  <a class="tag" href="#!tags/p2p.md">p2p</a>  <a class="tag" href="#!tags/diversity.md">diversity</a>  <a class="tag" href="#!tags/heterogeneity.md">heterogeneity</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/self.md">self</a>  <a class="tag" href="#!tags/articles.md">articles</a>
- * **[Maps](../content/notebook/maps.md)**
-
-  * Tags:  <a class="tag" href="#!tags/map.md">map</a>  <a class="tag" href="#!tags/topology.md">topology</a>  <a class="tag" href="#!tags/path.md">path</a>  <a class="tag" href="#!tags/visual.md">visual</a>  <a class="tag" href="#!tags/history.md">history</a>  <a class="tag" href="#!tags/ontology.md">ontology</a>  <a class="tag" href="#!tags/epistemology.md">epistemology</a>  <a class="tag" href="#!tags/philosophy.md">philosophy</a>  <a class="tag" href="#!tags/mind.md">mind</a>  <a class="tag" href="#!tags/narrative.md">narrative</a>

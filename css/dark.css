@@ -55,6 +55,57 @@ table {
 
 
 
+.md-image-group .col-sm-2{
+    background-color: black;
+    margin: 0px !important;
+    padding: 0px !important;
+    display:inline-block !important;
+    width:100px;
+    
+    /*! background-repeat: no-repeat; */
+}
+
+#cboxTopLeft, #cboxTopRight, #cboxBottomLeft, #cboxBottomRight, #cboxMiddleLeft, #cboxMiddleRight, #cboxContent, #cboxPrevious, #cboxNext, #cboxClose, #cboxSlideshow {
+    background-image: none i !important;
+}
+
+
+#cboxBottomCenter, #cboxTopCenter {
+    background-image: none !important;
+}
+
+#cboxTopLeft, #cboxTopRight, #cboxBottomLeft, #cboxBottomRight, #cboxMiddleLeft, #cboxMiddleRight, #cboxContent, #cboxPrevious, #cboxNext, #cboxClose, #cboxSlideshow {
+    background-image: none;
+}
+
+#cboxCurrent {
+       display: none !important;
+}
+
+#cboxContent {
+    background: none !important;
+}
+
+#cboxLoadedContent {
+    margin-bottom: 0px !important;
+    border: 1px dotted gray;
+}
+
+.col-sm-2 img {
+  object-fit: contain; /* Do not scale the image */
+  object-position: center; /* Center the image within the element */
+  height: 100px;
+    background-color: black;
+  min-width: 100px;
+  /* IE 8 */
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  /* IE 5-7 */
+  filter: alpha(opacity=0);
+  /* modern browsers */
+  opacity: 10;
+}
+}
+
 body{
     background-color: black;
     color: white;

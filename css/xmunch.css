@@ -225,6 +225,10 @@ hash{
     border-bottom: 1px dotted #2c2c2c;
 }
 
+.md-content{
+    padding-right: 50px !important;
+}
+
 .panel{
     border: 0px solid black;
     background-color: black !important;
@@ -347,7 +351,7 @@ body{
 }
 
 img {
-  filter: grayscale(100%);
+  /*! filter: grayscale(100%); */
 }
 
 .node rect, .node circle, .node ellipse, .node polygon {

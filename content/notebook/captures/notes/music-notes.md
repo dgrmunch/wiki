@@ -7,14 +7,14 @@ Rag Bhimpalasi
 
 > C-Eb-F-G-Bb-C (descending)
 
-```
+``` 
 o3 c e- f g b- c
 ```
 
 > C-Bb-A-G-F-Eb-D-C (ascending) 
 
 
-```
+``` 
 o5 c b- a g f e- d c
 ```
 

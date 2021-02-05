@@ -25,6 +25,7 @@ body{
 
 .navbar-default .navbar-brand {
     color: white !important;
+    font-size: 12px;
 }
 
 .navbar-default .navbar-nav > li > a {
@@ -107,12 +108,13 @@ body{
 #md-page-menu .list-group-item {
     background-color: black !important;
     color: white !important;
-    border-color: white;
+    border-color: black;
+    border-left: 1px solid white;
 }
 
 #md-page-menu .list-group-item a {
     color: white;
-    font-size: 90%;
+    font-size: 13px;
 }
 
 .tag {

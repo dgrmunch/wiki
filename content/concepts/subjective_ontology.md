@@ -4,7 +4,7 @@ tags: academic, ontology, philosophy, truth, cognitive science, subjective, iden
 
 ## Description
 
-A **subjective ontology** constitutes the set of mental entities of an individual mind. A subjective ontology causally emerges from its neurophysiological brain correlates, which could be studied by [cognitive neuroscience](../../tags/neuroscience.md). However, it represents the domain of what is real from an individual perspective and it is directly linked to its[*](../notebook/pronouns.md) personal[identity](identity.md). 
+A **subjective ontology** constitutes the set of mental entities of an individual mind. A subjective ontology causally emerges from its neurophysiological brain correlates, which could be studied by [cognitive neuroscience](../../tags/neuroscience.md). However, it represents the domain of what is real from an individual perspective and it is directly linked to its[*](../notebook/pronouns.md) personal [identity](identity.md). 
 
 When combined with other subjective ontologies through communication, social dynamics and consensus mechanisms, it leads to **collective ontologies** and social configurations (and what we generally define as culture).
 

@@ -10,10 +10,10 @@ body{
     color: white;
     background-color: #434942;
     border-bottom: 0px;
-    padding-left: 5px;
-    padding-right: 5px;
-    margin-left: 1px;
-    margin-right: 1px;
+    /*! padding-left: 5px; */
+    /*! padding-right: 5px; */
+    /*! margin-left: 1px; */
+    /*! margin-right: 1px; */
 }
 
 
@@ -65,10 +65,6 @@ body{
     color: white;
     background-color: black;
     /*! border: 1.5px dotted black; */
-    padding-left: 5px;
-    padding-right: 5px;
-    margin-left: 1px;
-    margin-right: 1px;
     text-decoration: underline;
     font-size: 100%;
 }

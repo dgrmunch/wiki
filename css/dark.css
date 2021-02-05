@@ -60,6 +60,9 @@ body{
     color: white;
 }
 
+.page-header {
+   border-bottom: 0px solid white !important;
+}
 
 .md-text a {
     color: white;

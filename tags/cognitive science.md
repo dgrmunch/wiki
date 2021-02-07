@@ -1,6 +1,9 @@
 
 # tag: cognitive science
 
+ * **[Subjective ontology](../content/concepts/subjective_ontology.md)**
+
+  * Tags:  <a class="tag" href="#!tags/academic.md">academic</a>  <a class="tag" href="#!tags/ontology.md">ontology</a>  <a class="tag" href="#!tags/philosophy.md">philosophy</a>  <a class="tag" href="#!tags/truth.md">truth</a>  <a class="tag" href="#!tags/cognitive science.md">cognitive science</a>  <a class="tag" href="#!tags/subjective.md">subjective</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/mind.md">mind</a>  <a class="tag" href="#!tags/concepts.md">concepts</a>  <a class="tag" href="#!tags/map.md">map</a>
  * **[Synthetic Cognitive Development](../content/notebook/captures/notes/agi-notes.md)**
 
   * Tags:  <a class="tag" href="#!tags/cognitive science.md">cognitive science</a>  <a class="tag" href="#!tags/embodied cognition.md">embodied cognition</a>  <a class="tag" href="#!tags/dynamical systems.md">dynamical systems</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/autopoiesis.md">autopoiesis</a>  <a class="tag" href="#!tags/artificial intelligence.md">artificial intelligence</a>  <a class="tag" href="#!tags/open ended intelligence.md">open ended intelligence</a>  <a class="tag" href="#!tags/philosophy of mind.md">philosophy of mind</a>  <a class="tag" href="#!tags/dynamical systems theory.md">dynamical systems theory</a>  <a class="tag" href="#!tags/self-organization.md">self-organization</a>  <a class="tag" href="#!tags/p2p.md">p2p</a>  <a class="tag" href="#!tags/distributed.md">distributed</a>  <a class="tag" href="#!tags/individuation.md">individuation</a>  <a class="tag" href="#!tags/decentralization.md">decentralization</a>
@@ -25,9 +28,6 @@
  * **[Sense-making](../content/concepts/sense-making.md)**
 
   * Tags:  <a class="tag" href="#!tags/academic.md">academic</a>  <a class="tag" href="#!tags/epistemology.md">epistemology</a>  <a class="tag" href="#!tags/truth.md">truth</a>  <a class="tag" href="#!tags/mind.md">mind</a>  <a class="tag" href="#!tags/cognitive science.md">cognitive science</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/subjective.md">subjective</a>  <a class="tag" href="#!tags/knowledge.md">knowledge</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/concepts.md">concepts</a>
- * **[Subjective ontology](../content/concepts/subjective_ontology.md)**
-
-  * Tags:  <a class="tag" href="#!tags/academic.md">academic</a>  <a class="tag" href="#!tags/ontology.md">ontology</a>  <a class="tag" href="#!tags/philosophy.md">philosophy</a>  <a class="tag" href="#!tags/truth.md">truth</a>  <a class="tag" href="#!tags/cognitive science.md">cognitive science</a>  <a class="tag" href="#!tags/subjective.md">subjective</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/mind.md">mind</a>  <a class="tag" href="#!tags/concepts.md">concepts</a>  <a class="tag" href="#!tags/map.md">map</a>
  * **[Identity](../content/concepts/identity.md)**
 
   * Tags:  <a class="tag" href="#!tags/self.md">self</a>  <a class="tag" href="#!tags/intentionality.md">intentionality</a>  <a class="tag" href="#!tags/being.md">being</a>  <a class="tag" href="#!tags/cognitive science.md">cognitive science</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/mind.md">mind</a>  <a class="tag" href="#!tags/dualism.md">dualism</a>  <a class="tag" href="#!tags/narrative.md">narrative</a>  <a class="tag" href="#!tags/epistemology.md">epistemology</a>  <a class="tag" href="#!tags/ontology.md">ontology</a>  <a class="tag" href="#!tags/philosophy of mind.md">philosophy of mind</a>  <a class="tag" href="#!tags/concepts.md">concepts</a>  <a class="tag" href="#!tags/single-subject research.md">single-subject research</a>  <a class="tag" href="#!tags/nothingness.md">nothingness</a>

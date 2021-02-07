@@ -91,6 +91,27 @@ table {
     border: 1px dotted gray;
 }
 
+hr {
+    border: 1px;
+    border-top: 1px solid #1e1e1e;
+}
+
+world .node rect, world .node circle, world .node ellipse, world .node polygon {
+    fill: rgb(236, 236, 255);
+    stroke: rgb(204, 204, 255);
+    stroke-width: 5px;
+    stroke: #212121;
+}
+
+world .edgePaths{
+    stroke-width: 5px;
+}
+
+world .label{
+    color: white;
+    font-family: monospace;
+}
+
 .col-sm-2 img {
   object-fit: contain; /* Do not scale the image */
   object-position: center; /* Center the image within the element */

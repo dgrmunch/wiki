@@ -1,6 +1,12 @@
 
 # tag: complexity
 
+ * **[Darkness](../content/projects/photography/darkness.md)**
+
+  * Tags:  <a class="tag" href="#!tags/photography.md">photography</a>  <a class="tag" href="#!tags/darkness.md">darkness</a>  <a class="tag" href="#!tags/self.md">self</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/philosophy.md">philosophy</a>  <a class="tag" href="#!tags/koans.md">koans</a>  <a class="tag" href="#!tags/zen.md">zen</a>  <a class="tag" href="#!tags/projects.md">projects</a>
+ * **[Autopoiesis](../content/projects/photography/autopoiesis.md)**
+
+  * Tags:  <a class="tag" href="#!tags/photography.md">photography</a>  <a class="tag" href="#!tags/autopoiesis.md">autopoiesis</a>  <a class="tag" href="#!tags/complex adaptive systems.md">complex adaptive systems</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/philosophy.md">philosophy</a>  <a class="tag" href="#!tags/koans.md">koans</a>  <a class="tag" href="#!tags/zen.md">zen</a>  <a class="tag" href="#!tags/projects.md">projects</a>
  * **[Philosophy Visual Map](../content/notebook/maps/philosophy.md)**
 
   * Tags:  <a class="tag" href="#!tags/philosophy.md">philosophy</a>  <a class="tag" href="#!tags/epistemology.md">epistemology</a>  <a class="tag" href="#!tags/visual.md">visual</a>  <a class="tag" href="#!tags/map.md">map</a>  <a class="tag" href="#!tags/philosophy of mind.md">philosophy of mind</a>  <a class="tag" href="#!tags/enactivism.md">enactivism</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>
@@ -10,12 +16,6 @@
  * **[Embodiment / Cybernetics Bibliography](../content/notebook/captures/notes/uoft-note-cibernetics-bibliography.md)**
 
   * Tags:  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/phd.md">phd</a>  <a class="tag" href="#!tags/emergence.md">emergence</a>  <a class="tag" href="#!tags/cybernetics.md">cybernetics</a>  <a class="tag" href="#!tags/second-order systems theory.md">second-order systems theory</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/uoft-notes.md">uoft-notes</a>
- * **[Autopoiesis](../content/projects/photography/autopoiesis.md)**
-
-  * Tags:  <a class="tag" href="#!tags/photography.md">photography</a>  <a class="tag" href="#!tags/autopoiesis.md">autopoiesis</a>  <a class="tag" href="#!tags/complex adaptive systems.md">complex adaptive systems</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/philosophy.md">philosophy</a>  <a class="tag" href="#!tags/koans.md">koans</a>  <a class="tag" href="#!tags/zen.md">zen</a>  <a class="tag" href="#!tags/projects.md">projects</a>
- * **[Darkness](../content/projects/photography/darkness.md)**
-
-  * Tags:  <a class="tag" href="#!tags/photography.md">photography</a>  <a class="tag" href="#!tags/darkness.md">darkness</a>  <a class="tag" href="#!tags/self.md">self</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/philosophy.md">philosophy</a>  <a class="tag" href="#!tags/koans.md">koans</a>  <a class="tag" href="#!tags/zen.md">zen</a>  <a class="tag" href="#!tags/projects.md">projects</a>
  * **[Synthetic Cognitive Development](../content/notebook/captures/notes/agi-notes.md)**
 
   * Tags:  <a class="tag" href="#!tags/cognitive science.md">cognitive science</a>  <a class="tag" href="#!tags/embodied cognition.md">embodied cognition</a>  <a class="tag" href="#!tags/dynamical systems.md">dynamical systems</a>  <a class="tag" href="#!tags/complexity.md">complexity</a>  <a class="tag" href="#!tags/autopoiesis.md">autopoiesis</a>  <a class="tag" href="#!tags/artificial intelligence.md">artificial intelligence</a>  <a class="tag" href="#!tags/open ended intelligence.md">open ended intelligence</a>  <a class="tag" href="#!tags/philosophy of mind.md">philosophy of mind</a>  <a class="tag" href="#!tags/dynamical systems theory.md">dynamical systems theory</a>  <a class="tag" href="#!tags/self-organization.md">self-organization</a>  <a class="tag" href="#!tags/p2p.md">p2p</a>  <a class="tag" href="#!tags/distributed.md">distributed</a>  <a class="tag" href="#!tags/individuation.md">individuation</a>  <a class="tag" href="#!tags/decentralization.md">decentralization</a>

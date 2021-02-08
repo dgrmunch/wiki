@@ -5,6 +5,9 @@ body{
     color: white;
 }
 
+midi-player .controls {
+    background: #262626 !important;
+}
 
 .md-text a {
     color: white;
@@ -99,8 +102,8 @@ hr {
 world .node rect, world .node circle, world .node ellipse, world .node polygon {
     fill: rgb(236, 236, 255);
     stroke: rgb(204, 204, 255);
-    stroke-width: 5px;
-    stroke: #212121;
+    stroke-width: 2px;
+    stroke: #acc18d;
 }
 
 world .edgePaths{

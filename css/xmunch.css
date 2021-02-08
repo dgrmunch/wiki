@@ -258,10 +258,15 @@ h2, .h2 {
     font-family: 'Lato', sans-serif;
     margin-bottom: 30px;
     font-weight: 5;
-    margin-top: 80px;
+    margin-top: 50px;
 }
 
 h3:before, h1:before, h2:before {content: "▼  ";}
+
+.symbols{
+    border: 1px solid white !important;
+    max-width: 300px !important;
+}
 
 .img-thumbnail {
     margin-top: 20px;

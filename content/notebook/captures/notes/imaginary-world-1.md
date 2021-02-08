@@ -20,13 +20,15 @@ tags: imaginary-world, fiction, philosophy, mind
 
 ## Context 
 
+<img src="imaginary-worlds/symbols.png" alt="" class="img-responsive img-thumbnail symbols">
+
 > Imaginary worlds are cognitive gates towards our true phenomenological potential. They let us explore the nature of subjective ontologies in a virtual universe without the need of any correspondence with our objective reality. They truly become actual worlds in the experience of the thinker, the observer, the reader, the creator. 
 
 > These narrative experiments constitute the starting point of a variety of unfolding ontologies, of distinct and parallel universes full of creative and philosophical possibilities.
 
-> My synthetic multiverse is mainly text-based but it is inevitably interwoven with visual artwork, music, coding, and constructed language explorations. 
+> This fictional narrative is mainly text-based but it is inevitably interwoven with visual artwork, music, coding, and constructed language explorations. It is transversal to other artistic and philosophical projects.
 
-## Introduction 
+## Axioms 
 
 
 ![](imaginary-worlds/vrajs-outers.png)
@@ -34,49 +36,42 @@ tags: imaginary-world, fiction, philosophy, mind
 ![](imaginary-worlds/unified.png)
 
 
+* The living creatures of this ontology are called `seins`. They can have `atention` tokens or `noise` tokens (see **figure 1** ). `seins` are biological entities that use `atention` to survive. They also struggle in situations in which `attention` is scarce and `noise` levels are high.
 
-###  Axioms
+* `outers` are `attention` predators. They can be biological entities, objects, processes o artificial systems. They extract energy from `seins`, by using entertainment or manipulation techniques to distract them, transforming their `attention` tokens into `noise` tokens. 
 
-* There are two species: `vrajs` and `outers` (see **figure 1** ).
+* There are three overlapped worlds (see **figure 2** ). `Phej` is a theory and praxis that can enable `seins` to navigate these worlds.
 
-* There are three worlds (see **figure 2** ).
-
-* `vrajs` are biological entities. They use `atention` to survive and struggle in situations in which `attention` is scarce or wasted on distractions.
-
-* `outers` are `attention` predators. They extract energy from `vrajs`, by using manipulation techniques to steal their `attention`. 
-
-* Only `vrajs`, using their `attention` token, can travel between worlds (see **figure 3** ). However, `outers` are constrained to `{ World-001 }`. 
-
-* `outers` can mutate in `vrajs` if they start using their `attention` rather than taking others'.
-
-* `vrajs` can mutate in `outers` if they forget to use their `attention` and start stealing others' `attention`.
-
-### Subject
-
-This narrative is about `Vraj`, an entity which belongs to the animal realm of the `vrajs`.
+* If `seins` get enough `attention` tokens and practice `Phej`, they can travel between worlds (see **figure 3** ). However, most `seins` are saturated by `noise` or controlled by the `outers`. Therefore, most `seins` are constrained to an existence in `{ World-000 }`. 
 
 
-## A three-layers multiverse
+## Narrative
 
 ### { World-000 }
 
-`Vraj` is a biological entity, an inhabitant of `{ World-000 }`. 
+`{ World-000 }` is a physical reality governed by the rules of physics.
+
+`Vraj` is a biological entity, a `sein`, an inhabitant of `{ World-000 }`. 
 
 In this world, `Vraj` manifests itself through a bipedal morphology with a performative nature, characterized by a set of physiological and psychological needs and different layers of self-organized molecular, cellular and neural aggregates. 
 
 `Vraj` is embodied in `{ World-000 }` through an organic character, through a viscous, tangible and dynamic avatar.  As a biological and social entity, `Vraj`'s organic substrate is projected in the social playground through context-based behavior.
 
-`Vraj`learns about the `{ World-000 }` through a sequential and vivid stream of sensory stimuli, nociception, emotions and episodic memories.
+`Vraj` learns about the `{ World-000 }` like any other `sein`, through a sequential and vivid stream of sensory stimuli, nociception, emotions and episodic memories.
 
-`Vraj` adapts to a given environment through interactions with objects and other beings, playing social roles and using natural languages for communication, enjoying the motor, cognitive and perceptual advantages of its species; but also misguided by cognitive biases and evolutionary vestiges that are encoded in its genome and neural networks. 
+`Vraj` adapts to a given environment through interactions with objects and other beings, experiencing feelings, playing social roles and using natural languages for communication. It takes advantage of the motor, cognitive and perceptual advantages of its species; but as any other `sein` it can be misguided by cognitive biases and evolutionary vestiges, encoded by evolution and education in its genome and neural networks.  
 
-In this world, nobody knows the whole individuality that `Vraj` embodies, but just the visual side of this organic character, this projection, this performative avatar. `Vraj` should take care of others `vrajs`, but only if its own needs and temporary preferences are satisfied. Otherwise `Vraj` would fail and would be captured by the `Outers`, their biggest enemies, which predate `vraj`'s attention.
+Long time ago, `Vraj` decided to become a traveler between worlds. After a series of lucky events, as a consequence of its perseverance and a long training process, `Vraj` increased its `attention` tokens and discovered `Phej`, the science behind the understanding of `{ World-001 }` and `{ World-002 }`.
 
-However, `Vraj` knows how to navigate different worlds and how to open the portals between them. 
+In `{ World-000 }` nobody knows the whole individuality that `Vraj` embodies, but just the visual side of this organic character, the projection, the performative avatar. However, `Vraj` represents the pure cognitive potential of any `sein` with proper training and intention.
 
-`Vraj` applies all the knowledge from `{ World-001 }` and `{ World-002 }` in its interactions with others and tries to transform the physical environment of  `{ World-000 }` according to its inner values.
+`Vraj` takes care of others `seins` and invest its life like any other `sein`, surviving, performing, working, interacting. 
 
-This schematic description describes some of the cognitive triggers that encode the portals between worlds that `Vraj` knows.
+However, `Vraj` also invests time in keeping its powers safe, preserving its `attention` tokens, practicing and studying the nature of `Phej`. As any `sein`, it requires its own needs and temporary preferences to be satisfied. However, `Vraj` should also skip cognitive biases, substituting fake narratives by alternative thoughts when exaggerated emotions are detected. `Vraj` analyzes perceptual inputs and redirects synaptic signals based on a complex process based on phenomenological training and self-awareness. Otherwise `Vraj` would fail and would be captured by the `outers`, its only enemies, which predate `seins`'s `attention` tokens and hinder the practice of `Phej`.
+
+`Vraj` applies all the knowledge from `{ World-001 }` and `{ World-002 }` in its interactions with others. It also tries to transform the physical and social environment of  `{ World-000 }` according to its inner values and the experience of `Phej`.
+
+This schematic description describes some of the cognitive triggers that encode the portals between worlds, worlds that `Vraj`, as a practitioner of `Phej`, can easily navigate:
 
 <world><treeview></treview></world>
 
@@ -84,23 +79,36 @@ This schematic description describes some of the cognitive triggers that encode 
 ### { World-001 }
 
 
-`Vraj` is the only perceptor in `{ World-001 }`, and its mainly task is to keep the balance of the perceptual reality, trying to compensate the natural emergence of chaos and the dominance of `Noise` over `Music`.
+`{ World-001 }` is a phenomenological reality. Every object is just an experienced phenomenon and every action only takes place in the mind of the `sein` that experiences the world. 
 
-It is also in charge of keeping the `Outers` out of `{ World-001 }`, focusing on controlling its awareness, keeping safe its `attention` token .
+Therefore, `Vraj` is the only perceptor in `{ World-001 }`, and its mainly task is to explore the world while keeping the balance of the perceptual reality, trying to compensate the natural emergence of chaos and the dominance of `noise` over `attention`.
 
-Its main skill is to skip cognitive biases, substituting fake narratives by alternative thoughts when exaggerated emotions are detected. `Vraj` analyzes perceptual inputs and redirects synaptic signals based on a complex process based on phenomenological training and self-awareness. 
+In `{ World-001 }`, `Vraj` is a pseudo-monk with specific monastic-like vows, a devoted practitioner of `Phej`.
 
-Since it embraced monastic life, `Vraj` performs a continuous process of rearrangement, keeping things in order day after day. It keeps  `{ World-001 }` in equilibrium, like a postmodern Sisyphus, but surrounded by minimal techno, post-rock and the possibility of traveling to `{ World-002 }` when the `Circle` is open.
+`Vraj` is in charge of keeping the `outers` out of `{ World-001 }`, focusing on controlling its awareness, keeping safe its `attention` token.
 
-It lives a minimal life dedicated to preserve its `atention` token, controlling `{ World-001 }` and studying `tze`.
+Through the practice of `Phej`, `{ World-001 }` unfolds and `Vraj` browses an open-ended perceptual realm.
+
+Since it embraced monastic life, `Vraj` performs a continuous process of rearrangement, keeping things in order day after day, while discovering new colors, shapes, possibilities. 
+
+It keeps `{ World-001 }` in equilibrium, like a postmodern Sisyphus surrounded by minimal techno.
+
+It lives a minimal life dedicated to preserve its `atention` tokens, controlling `{ World-001 }` and studying `Phej`.
 
 ### { World-002 } 
 
-* There is nothingness (`tze`)
-* `Vraj` is perceiving that nothingness
-* ` {World-001} `  and ` {World-002} ` interferences take place, like green clouds on a black sky.
-* `Vraj` ignores the green clouds.
-* Timeless perception of `tze`.
-* Darkness. Nothingness.
+`{ World-002 }` is an empty reality.
+
+`Vraj`, through the practice of `Phej`, also has the possibility of traveling to `{ World-002 }`.
+However, once in `{ World-002 }`,  `Vraj` dilutes and becomes a subtle presence.
+
+In `{ World-002 }` there are neither physical neither phenomenological objects. There is only nothingness (`tze`).
+
+At the beginning of any trip to `{ World-002 }`, `Vraj` starts perceiving `tze` in a very subtle way, while ` {World-001} `  and ` {World-002} ` interferences take place, like green clouds on a black sky.
+
+Through practice and preserving, `Vraj` ignores the green clouds and then, eventually, the timeless perception of `tze` takes place.
+
+Darkness. Nothingness. Not being.
+
 
 

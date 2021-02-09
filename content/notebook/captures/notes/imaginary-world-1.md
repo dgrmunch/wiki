@@ -1,7 +1,7 @@
 
 # Imaginary worlds
 
-tags: imaginary-world, fiction, philosophy, mind
+tags: imaginary-world, fiction, art, philosophy, mind
 
 <tree>
 
@@ -89,11 +89,9 @@ In `{ World-001 }`, `Vraj` is a pseudo-monk with specific monastic-like vows, a 
 
 Through the practice of `Phej`, `{ World-001 }` unfolds and `Vraj` browses an open-ended perceptual realm.
 
-Since it embraced monastic life, `Vraj` performs a continuous process of rearrangement, keeping things in order day after day, while discovering new colors, shapes, possibilities. 
+Since it embraced this pseudo-monastic life, `Vraj` performs a continuous process of rearrangement, keeping things in order day after day, while discovering new colors, shapes, possibilities. 
 
-It keeps `{ World-001 }` in equilibrium, like a postmodern Sisyphus surrounded by minimal techno.
-
-It lives a minimal life dedicated to preserve its `atention` tokens, controlling `{ World-001 }` and studying `Phej`.
+In `{ World-001 }`, `Vraj` lives a minimal life dedicated to preserve its `attention` tokens, controlling `{ World-001 }` and studying `Phej`. Keeping the world in equilibrium, like a postmodern Sisyphus surrounded by minimal techno.
 
 ### { World-002 } 
 

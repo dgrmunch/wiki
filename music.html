@@ -16,6 +16,32 @@
                 width: 50px;
             }
 
+            #playstop {
+                margin-bottom: 40px;
+                text-align: center;
+                font-size: 60px;
+                cursor: pointer;
+            }
+            
+            .sequencer {
+                background-color: black;
+                margin-left: 40px;
+                margin-bottom: 0px;
+            }
+
+            span {
+                    background-color: black;
+                    position: relative;
+                    float: left;
+                    padding: 2px;
+                    width: 1px;
+                    height: 1px;
+                    border: 1px solid gray;
+                    margin: 5px;
+                    margin-top: 0px;
+                    margin-bottom: 40px;    
+            }
+
             textarea{
                 background-color: black;
                 color: white;
@@ -31,10 +57,17 @@
                 margin-bottom:0px;
             }
 
-            .synth{
+            .synth {
                 padding-top: 20px;
                 display: inline-block;
-                border: 1px dotted white;
+                position: absolute;
+                margin: auto;
+                top: 0;
+                right: 0;
+                bottom: 0;
+                left: 0;
+                width: 400px;
+                padding-right: 15px;
             }
 
         </style>
@@ -44,27 +77,25 @@
 
         <script>
 
+            var reverb = 0.9;
             var tempo = "2n";
             var currentColumn = 0;
             var numCharacters = 400;
             var maxColumns = 20;
             var loopUpdate = false;
+            var defaultSong = "················································································································································································································································································································································································································";
 
-            function sequencer(notes){
-                var now = Tone.now();
-                var synth = new Tone.PolySynth(Tone.Synth).toTransport();
-                for(i = 0; i < notes.length; i++){
-                    note = notes[i].split("_");
-                    pitch = note[0];
-                    duration = parseFloat(note[1]);
-                    console.log("note: "+pitch+ " duration:"+duration);
-                    synth.triggerAttack(pitch, now);
-                    synth.triggerRelease(notes[i], now + duration)
-                    now += duration;
-                }
-            }
-
+        
             $('document').ready(function(){
+
+                document.getElementById('playstop')?.addEventListener('click', async () => {
+                await Tone.start()
+                console.log('audio is ready')
+                playStop();
+            })
+
+                $('#q').val(defaultSong);
+                
                 var input = document.getElementById('q');
 
                 input.onkeydown = function() {
@@ -75,13 +106,16 @@
                         
                 }
                     var s = this.selectionStart;
-                    console.log(s);
                 if(s >= numCharacters) {
                     console.log('error');
                     return false;
                 }
 
                 };
+
+                $('#reverb').on('change', function(event){
+                    reverb = $('#reverb').val();
+                });
 
 
                 input.addEventListener('keypress', function(event){
@@ -91,7 +125,7 @@
                 
                 this.value = this.value.substr(0, s) + this.value.substr(s + 1);
                     
-                
+                this.value = this.value.replaceAll('.','·');
                     this.selectionEnd = s;
 
                     loopUpdate = true;
@@ -101,14 +135,17 @@
 
             });
 
-                    // Membrane Synth https://tonejs.github.io/docs/r12/MembraneSynth
-                    const synth = new Tone.MembraneSynth().toMaster();
+                    //var chorus = new Tone.Chorus(4, 2.5, 0.5);
+                    var freeverb = new Tone.Freeverb().toMaster();
+                    freeverb.roomSize.value= reverb; 
+                    const synth = new Tone.PolySynth(Tone.Synth).connect(freeverb);
 
                     const loop = new Tone.Loop(function(time) {
                            
+                        
                           var notes = getCurrentNotes();
                           for (const note of notes) {
-                                synth.triggerAttackRelease(note, tempo);
+                                synth.triggerAttackRelease(note, "2n");
                           }
                         
                         
@@ -144,19 +181,24 @@
                         var rows = string_chop($('textarea').val(),20);
                         var currentNotes = [];
                         for(var i = 0; i < rows.length; i++){
-                            if(rows[i][currentColumn] != '.'){
+                            if(rows[i][currentColumn] != '·'){
                                 console.log(rows[i][currentColumn]);
                                 currentNotes.push((i*40)+"");
                             }
 
                         }
                         console.log(currentNotes);
+                        previousColumn = currentColumn;
                         currentColumn = (currentColumn + 1) % maxColumns;
-                        //console.log(currentColumn);
+                        
+                        if(previousColumn != null){
+                            $('#col'+previousColumn).attr('style','background-color:black');
+                        }
+                        $('#col'+currentColumn).attr('style','background-color:white');
+
                         return currentNotes;
                     }
 
-                    playStop();
                     
 
             
@@ -165,10 +207,11 @@
     </head>
     <body>
         <div class="synth">
-            <p><input placeholder="synth" /><input placeholder="volume" /><input placeholder="reverb" /><input placeholder="tempo" /></p>
+            <div id="playstop">▼</div>
+            <p><input placeholder="synth" /><input placeholder="volume" /><input id="reverb" value="0.9" placeholder="reverb" /><input placeholder="tempo" /></p>
             <p><input placeholder="minHz" /><input placeholder="maxHz" /><input placeholder="discrete" /></p>
-            <p><textarea maxlength="400" cols="20" rows="20" id="q">....................1....................1....................1.......1............1.....1.1......11....1...1...1............1.1.....1...1........1.......1.1..................1....................................................................................4...4...4..4...4...4............................................................22222222222222222222........................................</textarea>
-            <p><span id="col0"></span><span id="col1"></span><span id="col2"></span><span id="col3"></span><span id="col4"></span><span id="col5"></span><span id="col6"></span><span id="col7"></span><span id="col8"></span><span id="col9"></span><span id="col10"></span><span id="col11"></span><span id="col12"></span><span id="col13"></span><span id="col14"></span><span id="col1"></span><span id="col15"></span><span id="col16"></span><span id="col17"></span><span id="col18"></span><span id="col19"></span></p>
+            <p><textarea maxlength="400" cols="20" rows="20" id="q"></textarea>
+            <div class="sequencer"><p><span id="col0"></span><span id="col1"></span><span id="col2"></span><span id="col3"></span><span id="col4"></span><span id="col5"></span><span id="col6"></span><span id="col7"></span><span id="col8"></span><span id="col9"></span><span id="col10"></span><span id="col11"></span><span id="col12"></span><span id="col13"></span><span id="col14"></span><span id="col1"></span><span id="col15"></span><span id="col16"></span><span id="col17"></span><span id="col18"></span><span id="col19"></span></p></div>
         </div>
         </body>
 </html>

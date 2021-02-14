@@ -12,14 +12,14 @@
 
             input{
 
-                font-family: 'Hacker Argot';
-                margin-left: 20px;
-                background-color: black;
-                color: white;
-                border: 0px;
-                padding-left: 25px;
-                width: 50px;
-            }
+    font-family: 'Hacker Argot';
+    margin-left: 40px;
+    background-color: black;
+    color: white;
+    border: 0px;
+    padding-left: 0px;
+    width: 40px;
+}
 
             #playstop {
                 margin-bottom: 40px;
@@ -30,21 +30,25 @@
             
             .sequencer {
                 background-color: black;
-                margin-left: 73px;
+                margin-left: 38px;
                 margin-bottom: 0px;
+                position: absolute;
+                float: right;
+                width: 387px;
+                margin-right: 100px;
             }
 
             span {
-                    background-color: black;
-                    position: relative;
-                    float: left;
-                    padding: 2px;
-                    width: 1px;
-                    height: 1px;
-                    border: 1px solid gray;
-                    margin: 5px;
-                    margin-top: 0px;
-                    margin-bottom: 40px;    
+                background-color: black;
+    position: relative;
+    float: left;
+    padding: 2px;
+    width: 1px;
+    height: 1px;
+    border: 1px solid gray;
+    margin: 5.7px;
+    margin-top: 0px;
+    margin-bottom: 40px;
             }
 
             textarea{
@@ -85,6 +89,7 @@ margin-bottom: 0px;
             var reverb = 0.9;
             var tempo = "2n";
             var currentColumn = 0;
+            var previousColumn = null;
             var numCharacters = 400;
             var maxColumns = 20;
             var loopUpdate = false;
@@ -148,11 +153,21 @@ margin-bottom: 0px;
                     const loop = new Tone.Loop(function(time) {
                            
                         
+                        console.log(currentColumn);
                           var notes = getCurrentNotes();
                           for (const note of notes) {
                                 synth.triggerAttackRelease(note, "2n");
+                    
                           }
-                        
+                                        
+                        if(previousColumn != null){
+                            $('#col'+previousColumn).attr('style','background-color:black');
+                        }
+                        $('#col'+currentColumn).attr('style','background-color:white');
+
+                        previousColumn = currentColumn;
+                        currentColumn = (currentColumn + 1) % maxColumns;
+                      
                         
                         /*for(i = 0; i++; notes.length){
                             synth.triggerAttackRelease(notes[i], tempo);
@@ -193,14 +208,7 @@ margin-bottom: 0px;
 
                         }
                         console.log(currentNotes);
-                        previousColumn = currentColumn;
-                        currentColumn = (currentColumn + 1) % maxColumns;
-                        
-                        if(previousColumn != null){
-                            $('#col'+previousColumn).attr('style','background-color:black');
-                        }
-                        $('#col'+currentColumn).attr('style','background-color:white');
-
+                       
                         return currentNotes;
                     }
 

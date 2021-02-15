@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200&display=swap');
+
+body{
+    font-family: 'Source Code Pro', monospace;
+    background-color: black;
+    color: white;
+}
+
+#playstop {
+    margin-bottom: 40px;
+    text-align: center;
+    font-size: 60px;
+    cursor: pointer;
+    color: #2b2b2b;
+}
+
+.synth {
+    padding-top: 20px;
+    display: inline-block;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 480px;
+    padding-right: 15px;
+}
+
+#controls{
+    margin-left: 20px;
+}
+
+input{
+    margin-left: 20px;
+    background-color: black;
+    color: white;
+    border: 0px;
+    padding-left: 0px;
+    width: 44px;
+    font-size: 10px;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #2b2b2b;
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #2b2b2b;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  color: #2b2b2b;
+}
+
+
+textarea {
+    font-family: 'Source Code Pro', monospace;
+    background-color: black;
+    color: white;
+    letter-spacing: 16px;
+    line-height: 20px;
+    border: 0px;
+    overflow: hidden;
+    resize: none;
+    margin: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 480px;
+    padding: 20px;
+    padding-right: 0px;
+    font-size: 12px;
+}
+
+.sequencer {
+    background-color: black;
+    margin-left: 31px;
+    margin-bottom: 0px;
+    position: absolute;
+    float: right;
+    width: 500px;
+}
+
+span {
+    background-color: black;
+    position: relative;
+    float: left;
+    padding: 2px;
+    width: 1px;
+    height: 1px;
+    border: 1px solid #1d1d1d;
+    margin: 8.15px;
+    margin-top: 0px;
+}

@@ -24,7 +24,7 @@ body{
     bottom: 0;
     left: 0;
     width: 480px;
-    padding-right: 15px;
+    padding-right: 70px;
 }
 
 #controls{
@@ -37,8 +37,9 @@ input{
     color: white;
     border: 0px;
     padding-left: 0px;
-    width: 44px;
+    width: 50px;
     font-size: 10px;
+    outline: none;
 }
 
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
@@ -54,8 +55,7 @@ input{
   color: #2b2b2b;
 }
 
-
-textarea {
+#loopContent {
     font-family: 'Source Code Pro', monospace;
     background-color: black;
     color: white;
@@ -64,18 +64,36 @@ textarea {
     border: 0px;
     overflow: hidden;
     resize: none;
-    margin: 20px;
     margin-top: 0px;
     margin-bottom: 0px;
     width: 480px;
     padding: 20px;
     padding-right: 0px;
     font-size: 12px;
+    outline: none;
+}
+
+#landmarks{
+    font-family: 'Source Code Pro', monospace;
+    background-color: black;
+    color: white;
+    line-height: 20px;
+    border: 0px;
+    overflow: hidden;
+    resize: none;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 20px;
+    padding: 20px;
+    padding-right: 0px;
+    font-size: 12px;
+    outline: none;
 }
 
 .sequencer {
     background-color: black;
-    margin-left: 31px;
+    margin-left: 59px;
     margin-bottom: 0px;
     position: absolute;
     float: right;

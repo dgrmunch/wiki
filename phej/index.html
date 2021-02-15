@@ -9,7 +9,7 @@
         <div class="synth">
             <div id="playstop">▼</div>
             <p id="controls">
-                <input id="mode" value="seq" placeholder="mode" />
+                <input id="mode" value="diatonic" placeholder="mode" />
                 <input id="osc_type" value="triangle" placeholder="synth" />
                 <input id="volume" value="1" placeholder="volume" />
                 <input id="reverb" value="0.9" placeholder="reverb" />
@@ -17,7 +17,7 @@
                 <input id="minHz" value ="440" placeholder="minHz" />
                 <input id="maxHz" value ="1636" placeholder="maxHz" />
             </p>
-            <p><textarea maxlength="400" cols="20" rows="20" id="q"></textarea>
+            <table><tr><td><textarea id="landmarks" rows="20"></textarea></td><td><textarea maxlength="400" cols="20" rows="20" id="loopContent"></textarea></td></tr></table>
             <div class="sequencer">
                 <p>
                     <span id="col0"></span>

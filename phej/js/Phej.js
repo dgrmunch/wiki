@@ -18,6 +18,7 @@ $('document').ready(function(){
 
     addListeners();
     initializeGrid();
+    renderLandmarks();
 
 });
 
@@ -38,15 +39,45 @@ function addListeners(){
     $("input").change(function(){
         if(loop != null) loop.stop();
         initializeLoop();
+        renderLandmarks();
       }); 
+}
+
+function renderLandmarks(){
+
+    var mode = $('#mode').val();
+           
+    if(mode == 'hz'){
+        
+    }
+    if(mode == 'diatonic'){
+       $('#landmarks').val(toLandmarks(getDiatonicScale()));        
+    }
+    if(mode == 'chromatic'){
+        $('#landmarks').val(toLandmarks(getChromaticScale()));
+    }
+
+}
+
+function toLandmarks(rows){
+
+    var landmarksContent = "";
+    for(i = 0; i < 20; i++){
+        landmarksContent += rows[i % rows.length];
+        if(i < 19){
+            landmarksContent +="\n";
+        }
+    }
+
+    return landmarksContent;
 }
 
 function initializeGrid(){
 
     // Load default song
-    $('#q').val(defaultSong);
+    $('#loopContent').val(defaultSong);
     
-    var input = document.getElementById('q');
+    var input = document.getElementById('loopContent');
 
     // Disable forbiden keys
     input.onkeydown = function() {
@@ -95,6 +126,10 @@ function playStop(){
     
 
 //Aux functions
+function getGrid(){
+   return stringChop($('#loopContent').val(),20);
+}
+
 function stringChop(str, size){
     if (str == null) return [];
     str = String(str);
@@ -111,6 +146,7 @@ function initializeLoop(){
     loop = new Tone.Loop(function(time) {
             
         //Set configuration
+        var mode = $('#mode').val();
         freeverb.roomSize.value= $('#reverb').val(); 
         freeverb.dampening.value = 3000;
         synth.volume.value = $('#volume').val();
@@ -125,12 +161,35 @@ function initializeLoop(){
         
         //Play synth
         for (const note of notes) {
+            
+            console.log(notes);
+            console.log(note);
             var pitch = note.split('_')[0];
             var mod = note.split('_')[1];
-            synth.triggerAttackRelease(pitch, mod+"n");//"2n");
+
+
+            console.log('mode:'+mode);
+           
+            if(mode == 'hz'){
+                synth.triggerAttackRelease(pitch, mod+"n");//"2n");
+                console.log('pitch:'+pitch);
+                console.log('sus:'+mod);
+            }
+            if(mode == 'diatonic'){
+                var diatonicScale = getDiatonicScale();
+                var pitch = diatonicScale[pitch%diatonicScale.length]+mod;
+                console.log('pitch:'+pitch);
+                synth.triggerAttackRelease(pitch, $('#tempo').val());//"2n");
+            }
+            if(mode == 'chromatic'){
+                var diatonicScale = getChromaticScale();
+                var pitch = diatonicScale[pitch%diatonicScale.length]+mod;
+                console.log('pitch:'+pitch);
+                synth.triggerAttackRelease(pitch, $('#tempo').val());//"2n");
+            }
 
         }
-        
+      
         //Update interface
         if(previousColumn != null){
             $('#col'+previousColumn).attr('style','background-color:black');
@@ -145,16 +204,24 @@ function initializeLoop(){
     }, $('#tempo').val()).start(0);
 
 }
+  
+function getDiatonicScale(){
+    return ['C','D','E','F','G','A','B']
+}
+
+function getChromaticScale(){
+    return ['C','C#','D','D#','E','F','F#','G','G#','A','A#','B'];
+}
 
 
 function getCurrentNotes(){
 
-    var rows = stringChop($('textarea').val(),20);
+    var rows = getGrid();
     var currentNotes = [];
     
     for(var i = 0; i < rows.length; i++){
         if(rows[i][currentColumn] != '-'){
-            currentNotes.push((i*40)+"_"+rows[i][currentColumn]);
+            currentNotes.push((i)+"_"+rows[i][currentColumn]);
         }
 
     }

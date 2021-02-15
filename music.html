@@ -1,18 +1,17 @@
 <!DOCTYPE html>
     <head>
         <style>
-
-            @import url('css/hacker_argot.ttf?family=Hacker+Argot');
+        
+            @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200&display=swap');
 
             body{
-                font-family: 'Hacker Argot';
+                font-family: 'Source Code Pro', monospace;
                 background-color: black;
                 color: white;
             }
 
             input{
 
-    font-family: 'Hacker Argot';
     margin-left: 40px;
     background-color: black;
     color: white;
@@ -30,41 +29,41 @@
             
             .sequencer {
                 background-color: black;
-                margin-left: 38px;
+                margin-left: 36px;
                 margin-bottom: 0px;
                 position: absolute;
                 float: right;
-                width: 387px;
-                margin-right: 100px;
+                width: 500px;
             }
 
             span {
-                background-color: black;
+    background-color: black;
     position: relative;
     float: left;
     padding: 2px;
     width: 1px;
     height: 1px;
-    border: 1px solid gray;
-    margin: 5.7px;
+    border: 1px solid #1d1d1d;
+    margin: 7.45px;
     margin-top: 0px;
-    margin-bottom: 40px;
-            }
-
-            textarea{
-                font-family: 'Courier new';
-background-color: black;
-color: white;
-letter-spacing: 10px;
-line-height: 20px;
-padding: 20px;
-border: 0px;
-overflow: hidden;
-resize: none;
-margin: 20px;
-margin-top: 0px;
-margin-bottom: 0px;             
-            }
+}
+            textarea {
+    font-family: 'Source Code Pro', monospace;
+    background-color: black;
+    color: white;
+    letter-spacing: 16px;
+    line-height: 20px;
+    border: 0px;
+    overflow: hidden;
+    resize: none;
+    margin: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 480px;
+    padding: 20px;
+    padding-right: 0px;
+    font-size: 12px;
+}
 
             .synth {
                 padding-top: 20px;
@@ -156,7 +155,9 @@ margin-bottom: 0px;
                         console.log(currentColumn);
                           var notes = getCurrentNotes();
                           for (const note of notes) {
-                                synth.triggerAttackRelease(note, "2n");
+                                var pitch = note.split('_')[0];
+                                var mod = note.split('_')[1];
+                                synth.triggerAttackRelease(pitch, mod+"n");//"2n");
                     
                           }
                                         
@@ -203,7 +204,7 @@ margin-bottom: 0px;
                         for(var i = 0; i < rows.length; i++){
                             if(rows[i][currentColumn] != '·'){
                                 console.log(rows[i][currentColumn]);
-                                currentNotes.push((i*40)+"");
+                                currentNotes.push((i*40)+"_"+rows[i][currentColumn]);
                             }
 
                         }

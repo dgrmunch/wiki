@@ -53,7 +53,7 @@ function initializeGrid(){
 
         var key = event.keyCode || event.charCode;
         
-        if( (key > 58 || key < 47) && key != 173 && key != 37 && key != 38 && key != 39 && key != 40  ){
+        if( (key > 58 || key < 47) && key != 173 && key != 109 && key != 189 && key != 37 && key != 38 && key != 39 && key != 40  ){
             return false;
         }
         var s = this.selectionStart;

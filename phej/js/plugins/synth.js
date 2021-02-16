@@ -23,8 +23,6 @@ function renderLandmarks(){
 function initializeLoop(){
     
     loop = new Tone.Loop(function(time) {
-
-        console.log('loop:'+currentColumn);
             
         //Set configuration
         var mode = getConf('mode');
@@ -39,7 +37,6 @@ function initializeLoop(){
         */
         //Get current notes
         var notes = getCurrentNotes();
-        console.log(notes);
         
         //Play synth
         for (const note of notes) {
@@ -53,7 +50,7 @@ function initializeLoop(){
             if(mode == 'diatonic'){
                 var diatonicScale = getDiatonicScale();
                 var pitch = diatonicScale[pitch%diatonicScale.length]+mod;
-                synth.triggerAttackRelease(pitch, "2n");
+                synth.triggerAttackRelease(pitch, getConf('tempo'));
             }
             if(mode == 'chromatic'){
                 var diatonicScale = getChromaticScale();
@@ -74,7 +71,7 @@ function initializeLoop(){
         previousColumn = currentColumn;
         currentColumn = (currentColumn + 1) % maxColumns;
         
-    }, "2n").start(0);
+    }, getConf('tempo')).start(0);
 
 }
   

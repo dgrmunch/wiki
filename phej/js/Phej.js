@@ -1,7 +1,7 @@
 
 //Global variables
 
-let playing = false;
+var playing = false;
 var currentColumn = 0;
 var previousColumn = null;
 var numCharacters = 400;
@@ -28,14 +28,14 @@ function loadProgram(){
 
     if(window.location.hash.includes("#@")){            
         var hash = window.location.hash.split("#@")[1];
-        console.log(hash);
+       
         fetch('programs/'+hash+'_grid.phej')
     .then(response => response.text())
     .then(text =>   $('#loopContent').val(text.replaceAll("\n","")));
 
     fetch('programs/'+hash+'_conf.phej')
     .then(response => response.text())
-    .then(text =>  $('#commands').val(text));
+    .then(text =>  $('#commands').val(text)  && renderLandmarks());
 
     }
 
@@ -52,7 +52,7 @@ function addListeners(){
     })
 
     $("#commands").change(function(){
-        executeLoopLogic();
+        renderLandmarks();
       }); 
 }
 
@@ -60,14 +60,9 @@ function loadPlugin(plugin){
 
     $.getScript( 'js/plugins/'+plugin+'.js', function( data, textStatus, jqxhr ) {
         if(loop != null) loop.stop();
-        executeLoopLogic();
+        renderLandmarks();
         addListeners();
       });
-}
-
-function executeLoopLogic(){
-    initializeLoop();
-    renderLandmarks();
 }
 
 function toLandmarks(rows){

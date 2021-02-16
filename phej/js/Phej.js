@@ -101,8 +101,10 @@ function initializeGrid(){
     $('#commands').val(defaultCommands);
     
     var input = document.getElementById('loopContent');
-/*
-    // Disable forbiden keys
+
+
+
+    //Replace current character and move to the next  one
     input.onkeydown = function() {
 
         var key = event.keyCode || event.charCode;
@@ -110,21 +112,47 @@ function initializeGrid(){
         if( (key > 58 || key < 47) && key != 173 && key != 109 && key != 189 && key != 37 && key != 38 && key != 39 && key != 40  ){
             return false;
         }
-        var s = this.selectionStart;
+        
+        var s = getCaretPosition(this);
+        console.log(s);
 
-        //Do not allow add more characters than the fixed number
-        if(s >= numCharacters) {
+        if(key != 37 && key != 38 && key != 39 && key != 40 ){//Do not allow add more characters than the fixed number
+            if(s >= 419   || s == 20 
+                                    || s == 41 
+                                    || s == 62 
+                                    || s == 83 
+                                    || s == 104
+                                    || s == 125
+                                    || s == 146
+                                    || s == 167
+                                    || s == 188
+                                    || s == 209
+                                    || s == 230
+                                    || s == 251
+                                    || s == 272
+                                    || s == 293
+                                    || s == 314
+                                    || s == 335
+                                    || s == 356
+                                    || s == 377
+                                    || s == 398
+                                    || s == 419) {
+                return false;
+            }
+            $('#loopContent').html($('#loopContent').html().substr(0, s) + String.fromCharCode(event.keyCode) + $('#loopContent').html().substr(s + 1));
+             var el = document.getElementById("loopContent")
+                var range = document.createRange()
+                var sel = window.getSelection()
+                
+                range.setStart(el.childNodes[0], s)
+                range.collapse(true)
+                
+                sel.removeAllRanges()
+                sel.addRange(range)
+            
             return false;
         }
 
-    };*/
-
-
-    //Replace current character and move to the next  one
-    input.onkeydown = function() {
-        var s = getCaretPosition(this);
-        $('#loopContent').html($('#loopContent').html().substr(0, s) + String.fromCharCode(event.keyCode) + $('#loopContent').html().substr(s + 1));
-        return false;
         
     }
 

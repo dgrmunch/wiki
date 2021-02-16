@@ -8,23 +8,38 @@ var numCharacters = 400;
 var maxColumns = 20;
 var loop;
 var defaultSong = "----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------";
-var freeverb = new Tone.Freeverb().toMaster();
-var synth = new Tone.PolySynth(Tone.Synth).connect(freeverb);   //var chorus = new Tone.Chorus(4, 2.5, 0.5);
-      
+var defaultCommands = "plugin: synth\nmode: diatonic\nosc_type: triangle\nvolume: 1\nreverb: 0.9\ntempo: 2n"
+
 
 // Initialization
 
 $('document').ready(function(){
 
-    addListeners();
     initializeGrid();
-    renderLandmarks();
+    loadProgram();
+    loadPlugin(getConf('plugin'));
 
 });
 
 
 //Interface functions
 
+function loadProgram(){
+
+    if(window.location.hash.includes("#@")){            
+        var hash = window.location.hash.split("#@")[1];
+        console.log(hash);
+        fetch('programs/'+hash+'_grid.phej')
+    .then(response => response.text())
+    .then(text =>   $('#loopContent').val(text.replaceAll("\n","")));
+
+    fetch('programs/'+hash+'_conf.phej')
+    .then(response => response.text())
+    .then(text =>  $('#commands').val(text));
+
+    }
+
+}
 
 function addListeners(){
 
@@ -36,27 +51,23 @@ function addListeners(){
 
     })
 
-    $("input").change(function(){
-        if(loop != null) loop.stop();
-        initializeLoop();
-        renderLandmarks();
+    $("#commands").change(function(){
+        executeLoopLogic();
       }); 
 }
 
-function renderLandmarks(){
+function loadPlugin(plugin){
 
-    var mode = $('#mode').val();
-           
-    if(mode == 'hz'){
-        
-    }
-    if(mode == 'diatonic'){
-       $('#landmarks').val(toLandmarks(getDiatonicScale()));        
-    }
-    if(mode == 'chromatic'){
-        $('#landmarks').val(toLandmarks(getChromaticScale()));
-    }
+    $.getScript( 'js/plugins/'+plugin+'.js', function( data, textStatus, jqxhr ) {
+        if(loop != null) loop.stop();
+        executeLoopLogic();
+        addListeners();
+      });
+}
 
+function executeLoopLogic(){
+    initializeLoop();
+    renderLandmarks();
 }
 
 function toLandmarks(rows){
@@ -75,7 +86,8 @@ function toLandmarks(rows){
 function initializeGrid(){
 
     // Load default song
-    $('#loopContent').val(defaultSong);
+    $('#loopContent').val(defaultSong.replaceAll("\n",""));
+    $('#commands').val(defaultCommands);
     
     var input = document.getElementById('loopContent');
 
@@ -124,7 +136,6 @@ function playStop(){
     }
 }
     
-
 //Aux functions
 function getGrid(){
    return stringChop($('#loopContent').val(),20);
@@ -137,96 +148,18 @@ function stringChop(str, size){
     return size > 0 ? str.match(new RegExp('.{1,' + size + '}', 'g')) : [str];
 }
 
+function getConf(conf){
 
-//Musical functions
-
-
-function initializeLoop(){
+    var commands = $('#commands').val().split("\n");
     
-    loop = new Tone.Loop(function(time) {
-            
-        //Set configuration
-        var mode = $('#mode').val();
-        freeverb.roomSize.value= $('#reverb').val(); 
-        freeverb.dampening.value = 3000;
-        synth.volume.value = $('#volume').val();
-        synth.options.oscillator.type = $('#osc_type').val();
-        /*synth.options.envelope.attack.value = $('#osc_attack').val();
-        synth.options.envelope.decay.value = $('#osc_decay').val();
-        synth.options.envelope.sustain.value = $('#osc_sustain').val();
-        synth.options.envelope.release.value = $('#osc_release').val();
-        */
-        //Get current notes
-        var notes = getCurrentNotes();
-        
-        //Play synth
-        for (const note of notes) {
-            
-            console.log(notes);
-            console.log(note);
-            var pitch = note.split('_')[0];
-            var mod = note.split('_')[1];
-
-
-            console.log('mode:'+mode);
-           
-            if(mode == 'hz'){
-                synth.triggerAttackRelease(pitch, mod+"n");//"2n");
-                console.log('pitch:'+pitch);
-                console.log('sus:'+mod);
-            }
-            if(mode == 'diatonic'){
-                var diatonicScale = getDiatonicScale();
-                var pitch = diatonicScale[pitch%diatonicScale.length]+mod;
-                console.log('pitch:'+pitch);
-                synth.triggerAttackRelease(pitch, $('#tempo').val());//"2n");
-            }
-            if(mode == 'chromatic'){
-                var diatonicScale = getChromaticScale();
-                var pitch = diatonicScale[pitch%diatonicScale.length]+mod;
-                console.log('pitch:'+pitch);
-                synth.triggerAttackRelease(pitch, $('#tempo').val());//"2n");
-            }
-
+    for (const command of commands) {
+        if(command.includes(conf+":")){
+            return (command.split(":"))[1].trim();
         }
-      
-        //Update interface
-        if(previousColumn != null){
-            $('#col'+previousColumn).attr('style','background-color:black');
-        }
-        
-        $('#col'+currentColumn).attr('style','background-color:white');
-
-        //Update column trackers
-        previousColumn = currentColumn;
-        currentColumn = (currentColumn + 1) % maxColumns;
-        
-    }, $('#tempo').val()).start(0);
-
-}
-  
-function getDiatonicScale(){
-    return ['C','D','E','F','G','A','B']
-}
-
-function getChromaticScale(){
-    return ['C','C#','D','D#','E','F','F#','G','G#','A','A#','B'];
-}
-
-
-function getCurrentNotes(){
-
-    var rows = getGrid();
-    var currentNotes = [];
-    
-    for(var i = 0; i < rows.length; i++){
-        if(rows[i][currentColumn] != '-'){
-            currentNotes.push((i)+"_"+rows[i][currentColumn]);
-        }
-
     }
-    
-    return currentNotes;
+
+    return '';
+
 }
 
     

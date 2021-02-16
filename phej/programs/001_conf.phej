@@ -1,0 +1,6 @@
+plugin: synth
+mode: chromatic
+osc_type: triangle
+volume: 1
+reverb: 0.9
+tempo: 2n

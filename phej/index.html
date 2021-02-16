@@ -8,7 +8,17 @@
     <body>
         <div class="synth">
             <div id="playstop">▼</div>
-            <table><tr><td><textarea id="landmarks" rows="20"></textarea></td><td><textarea maxlength="400" cols="20" rows="20" id="loopContent"></textarea></td><td><textarea id="commands" rows="20"></textarea></td></tr></table>
+            <table><tr><td><textarea id="landmarks" rows="20"></textarea></td><td>
+                <section contenteditable="true" id="loopContent">
+                <h2>Go ahead, edit away!</h2>
+                <p>Here's a typical paragraph element</p>
+                <ol>
+                  <li>and now a list</li>
+                  <li>with only</li>
+                  <li>three items</li>
+                </ol>
+              </section>
+            </td><td><textarea id="commands" rows="20"></textarea></td></tr></table>
             <div class="sequencer">
                 <p>
                     <span id="col0"></span>

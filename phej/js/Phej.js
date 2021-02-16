@@ -7,7 +7,7 @@ var previousColumn = null;
 var numCharacters = 400;
 var maxColumns = 20;
 var loop;
-var defaultSong = "----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------";
+var defaultSong = "";
 var defaultCommands = "plugin: synth\nmode: diatonic\nosc_type: triangle\nvolume: 1\nreverb: 0.9\ntempo: 2n"
 
 
@@ -26,20 +26,35 @@ $('document').ready(function(){
 
 function loadProgram(){
 
-    if(window.location.hash.includes("#@")){            
-        var hash = window.location.hash.split("#@")[1];
-       
-        fetch('programs/'+hash+'_grid.phej')
-    .then(response => response.text())
-    .then(text =>   $('#loopContent').val(text.replaceAll("\n","")));
+    var hash = '001';
 
-    fetch('programs/'+hash+'_conf.phej')
-    .then(response => response.text())
-    .then(text =>  $('#commands').val(text)  && renderLandmarks());
+    if(window.location.hash.includes("#@"))         
+        hash = window.location.hash.split("#@")[1];
 
-    }
+        fetch('programs/'+hash+'.phej')
+    .then(response => response.text())
+    .then(text =>   $('#loopContent').html(text.split('\n$\n')[0].trim()) 
+                    && $('#commands').val(text.split('\n$\n')[1])  
+                    && renderLandmarks());
 
 }
+
+function download(filename, text) {
+    var element = document.createElement('a');
+    element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
+    element.setAttribute('download', filename);
+  
+    element.style.display = 'none';
+    document.body.appendChild(element);
+  
+    element.click();
+  
+    document.body.removeChild(element);
+  }
+  
+  // Start file download.
+  //download("loop.phej",getGridInText()+"\n$\n"+$('#commands').val());
+  
 
 function addListeners(){
 
@@ -78,14 +93,15 @@ function toLandmarks(rows){
     return landmarksContent;
 }
 
+
 function initializeGrid(){
 
     // Load default song
-    $('#loopContent').val(defaultSong.replaceAll("\n",""));
+    $('#loopContent').html(defaultSong);
     $('#commands').val(defaultCommands);
     
     var input = document.getElementById('loopContent');
-
+/*
     // Disable forbiden keys
     input.onkeydown = function() {
 
@@ -101,17 +117,21 @@ function initializeGrid(){
             return false;
         }
 
-    };
+    };*/
+
 
     //Replace current character and move to the next  one
     input.addEventListener('keypress', function(event){
-            
         var s = this.selectionStart;
-        this.value = this.value.substr(0, s) + this.value.substr(s + 1);
+        $('#loopContent').html($('#loopContent').html().substr(0, s) + $('#loopContent').html().substr(s + 1));
         this.selectionEnd = s;
         
     }, false);
+
+
 }
+
+var algo;
 
 function playStop(){
     
@@ -133,7 +153,8 @@ function playStop(){
     
 //Aux functions
 function getGrid(){
-   return stringChop($('#loopContent').val(),20);
+    //TODO: Aqui pasar a texto
+   return stringChop($('#loopContent').html(),20);
 }
 
 function stringChop(str, size){

@@ -7,7 +7,6 @@ body{
 }
 
 #playstop {
-    margin-bottom: 40px;
     text-align: center;
     font-size: 60px;
     cursor: pointer;
@@ -15,7 +14,6 @@ body{
 }
 
 .synth {
-    padding-top: 20px;
     display: inline-block;
     position: absolute;
     margin: auto;
@@ -23,8 +21,7 @@ body{
     right: 0;
     bottom: 0;
     left: 0;
-    width: 480px;
-    padding-right: 70px;
+    width: 580px;
 }
 
 #controls{
@@ -70,6 +67,7 @@ input{
     padding-right: 0px;
     font-size: 12px;
     outline: none;
+    padding-left: 10px;
     height: 415px !important;
 }
 
@@ -104,7 +102,6 @@ input{
     margin-top: 0px;
     margin-bottom: 0px;
     width: 400px;
-    padding: 20px;
     padding-right: 0px;
     font-size: 12px;
     outline: none;

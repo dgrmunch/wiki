@@ -22,8 +22,7 @@
 $
 plugin: midi
 mode: diatonic
-type: sampler
-volume: 1
-reverb: 0.96
-tempo: 2n
-sampler: jupiter-pad
+type: sequencer
+note_duration: 300
+tempo: 200
+channel: 1

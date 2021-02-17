@@ -4,14 +4,63 @@
 let midiOutput = null;
 let currentSequenceId = -1;
 var midiLoop = false;
+
+var playingPitches;
 const START = 41;
 
 let intervals = [];
 
-const NOTE_ON = 0x90;
-const NOTE_OFF = 0x80;
+const NOTE_ON = 0x9;
+const NOTE_OFF = 0x8;
 
-const NOTE_DURATION = 300;
+function getNoteOn(){
+  var channel = getConf('channel');
+  switch(channel){
+    case "1":
+      return 0x90;
+    case "2":
+      return 0x91;
+    case "3":
+      return 0x92;
+    case "4":
+      return 0x93;
+    case "5":
+      return 0x94;
+    case "6":
+      return 0x95;
+    case "7":
+      return 0x97;
+    case "8":
+      return 0x98;
+    case "9":
+      return 0x99;
+  }
+
+}
+
+function getNoteOff(){
+  var channel = getConf('channel');
+  switch(channel){
+    case "1":
+      return 0x80
+    case "2":
+      return 0x81
+    case "3":
+      return 0x82
+    case "4":
+      return 0x83
+    case "5":
+      return 0x84
+    case "6":
+      return 0x85
+    case "7":
+      return 0x87
+    case "8":
+      return 0x88
+    case "9":
+      return 0x89
+  }
+}
 
 function renderLandmarks(){
 
@@ -32,30 +81,19 @@ function renderLandmarks(){
 }
 
 
-
-
 function playNote() {
 
   if(!midiLoop) return 0;
-
  
-  intervals = getPitches();      ;
-  sequence =  intervals.map(x => x + START);
+  pitches = getPitches(); 
 
-  console.log(currentColumn);
-  console.log(sequence);
+  for(const pitch of pitches){
 
-  if (currentSequenceId >= 0) {
-    midiOutput.send([NOTE_OFF, sequence[currentSequenceId], 0x7f]);
-    console.log("NOTE_OFF: "+ sequence[currentSequenceId]+ ' 0x7f');
+    console.log(getNoteOn());
+  midiOutput.send([getNoteOn(), pitch, 0x7f]);
+  console.log(getNoteOn()+" {"+ pitch+ '} 0x7f');  // note on, note pitch, full velocity
+ 
   }
-
-  currentSequenceId++;
-  if (currentSequenceId >= sequence.length) {
-    currentSequenceId = 0;
-  }
-  midiOutput.send([NOTE_ON, sequence[currentSequenceId], 0x7f]);
-  console.log("NOTE_ON: "+ sequence[currentSequenceId]+ ' 0x7f');
 
       //Update interface
       if(previousColumn != null){
@@ -64,11 +102,26 @@ function playNote() {
     
     $('#col'+currentColumn).attr('style','background-color:white');
 
-    //Update column trackers
-    previousColumn = currentColumn;
-    currentColumn = (currentColumn + 1) % maxColumns;
+    playingPitches = pitches;
+  setTimeout(stopNote, getConf('note_duration'));
 
-  setTimeout(playNote, NOTE_DURATION);
+
+   //Update column trackers
+   previousColumn = currentColumn;
+   currentColumn = (currentColumn + 1) % maxColumns;
+
+   setTimeout(playNote, getConf('tempo'));
+}
+
+function stopNote(){
+  for(const pitch of playingPitches){
+
+    midiOutput.send([getNoteOff(), pitch, 0x7f]);
+    console.log(getNoteOff()+" {"+ pitch + '} 0x7f');
+  
+  }
+
+
 }
 
 

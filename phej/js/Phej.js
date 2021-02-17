@@ -1,20 +1,22 @@
 
 //Global variables
-
+var context;
 var playing = false;
 var currentColumn = 0;
 var previousColumn = null;
-var numCharacters = 400;
+var numCharacters = 439;
 var maxColumns = 20;
 var loop;
 var defaultSong = "";
-var defaultCommands = "plugin: synth\nmode: diatonic\nosc_type: triangle\nvolume: 1\nreverb: 0.9\ntempo: 2n"
+var defaultCommands = "plugin: midi"
 
 
 // Initialization
 
 $('document').ready(function(){
 
+    context = new AudioContext();
+  
     initializeGrid();
     loadProgram();
     loadPlugin(getConf('plugin'));
@@ -60,6 +62,9 @@ function addListeners(){
 
     // Add button to play/stop loop (and load Tone.js in browser)
     document.getElementById('playstop')?.addEventListener('click', async () => {
+        context.resume().then(() => {
+            console.log('Playback resumed successfully');
+          });
         await Tone.start()
         console.log('audio is ready')
         playStop();
@@ -68,24 +73,27 @@ function addListeners(){
 
     $("#commands").change(function(){
         renderLandmarks();
+        executeWhenCommandsChange();
       }); 
 }
 
 function loadPlugin(plugin){
 
     $.getScript( 'js/plugins/'+plugin+'.js', function( data, textStatus, jqxhr ) {
-        if(loop != null) loop.stop();
+        
+        midiLoop = false;
         renderLandmarks();
         addListeners();
+        executeWhenCommandsChange();
       });
 }
 
 function toLandmarks(rows){
 
     var landmarksContent = "";
-    for(i = 0; i < 20; i++){
+    for(i = 0; i < 21; i++){
         landmarksContent += rows[i % rows.length];
-        if(i < 19){
+        if(i < 20){
             landmarksContent +="\n";
         }
     }
@@ -117,7 +125,7 @@ function initializeGrid(){
         console.log(s);
 
         if(key != 37 && key != 38 && key != 39 && key != 40 ){//Do not allow add more characters than the fixed number
-            if(s >= 419   || s == 20 
+            if(s >= 440   || s == 20 
                                     || s == 41 
                                     || s == 62 
                                     || s == 83 
@@ -136,10 +144,19 @@ function initializeGrid(){
                                     || s == 356
                                     || s == 377
                                     || s == 398
-                                    || s == 419) {
+                                    || s == 419
+                                    || s == 440) {
                 return false;
             }
-            $('#loopContent').html($('#loopContent').html().substr(0, s) + String.fromCharCode(event.keyCode) + $('#loopContent').html().substr(s + 1));
+
+            var character = String.fromCharCode(event.keyCode);
+
+
+            if(key == 189){
+                character = '-';
+            }
+
+            $('#loopContent').html($('#loopContent').html().substr(0, s) + character + $('#loopContent').html().substr(s + 1));
              var el = document.getElementById("loopContent")
                 var range = document.createRange()
                 var sel = window.getSelection()
@@ -184,19 +201,32 @@ function getCaretPosition(editableDiv) {
     return caretPos;
   }
 
-var algo;
-
 function playStop(){
     
     if (!playing) {
 
         Tone.Transport.start();
         playing = true;
-        initializeLoop();
+
+        navigator.requestMIDIAccess()
+        .then(function(midiAccess) {
+          const outputs = midiAccess.outputs.values();
+          console.log(outputs);
+          for(const output of outputs) {
+            console.log(output);
+            midiOutput = output;
+            midiLoop = true;
+            initializeLoop();
+          }        
+        
+        });      
+
+        
         $('#playstop').attr('style','color:white');
 
     } else {
-        loop.stop();
+
+        midiLoop = false;
         playing= false;
         $('#playstop').attr('style','color:#2b2b2b');
         Tone.Transport.stop();
@@ -207,7 +237,7 @@ function playStop(){
 //Aux functions
 function getGrid(){
     //TODO: Aqui pasar a texto
-   return stringChop($('#loopContent').html(),20);
+   return stringChop($('#loopContent').html(),21);
 }
 
 function stringChop(str, size){

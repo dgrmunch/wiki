@@ -1,6 +1,7 @@
-var freeverb = new Tone.Freeverb().toMaster();
-var synth = new Tone.PolySynth(Tone.Synth).connect(freeverb);   //var chorus = new Tone.Chorus(4, 2.5, 0.5);
-      
+var sampler;
+var reverb;
+
+
 function renderLandmarks(){
 
     var mode = getConf('mode');
@@ -20,25 +21,12 @@ function renderLandmarks(){
 }
 
 
-function initializeLoop(){
-    
-    loop = new Tone.Loop(function(time) {
-            
-        //Set configuration
-        var mode = getConf('mode');
-        freeverb.roomSize.value= getConf('reverb');
-        freeverb.dampening.value = 3000;
-        synth.volume.value = getConf('volume');
-        synth.options.oscillator.type = getConf('osc_type');
-        /*synth.options.envelope.attack.value = $('#osc_attack').val();
-        synth.options.envelope.decay.value = $('#osc_decay').val();
-        synth.options.envelope.sustain.value = $('#osc_sustain').val();
-        synth.options.envelope.release.value = $('#osc_release').val();
-        */
-        //Get current notes
+function getPitches(){
+ 
+    var mode = getConf('mode');
         var notes = getCurrentNotes();
-        
-        //Play synth
+        var pitches = [];
+
         for (const note of notes) {
             
             var pitch = note.split('_')[0];
@@ -50,15 +38,49 @@ function initializeLoop(){
             if(mode == 'diatonic'){
                 var diatonicScale = getDiatonicScale();
                 var pitch = diatonicScale[pitch%diatonicScale.length]+mod;
-                synth.triggerAttackRelease(pitch, getConf('tempo'));
+              
             }
             if(mode == 'chromatic'){
                 var diatonicScale = getChromaticScale();
                 var pitch = diatonicScale[pitch%diatonicScale.length]+mod;
-                synth.triggerAttackRelease(pitch, getConf('tempo'));
             }
 
+            pitches.push(pitch);
         }
+
+        return pitches;
+}
+
+function initializeLoop(){
+    
+    loop = new Tone.Loop(function(time) {
+            
+        var synthType = getConf('type');
+       
+        
+        //Play synth
+
+            var pitches = getPitches();
+
+            if(synthType == 'sampler'){
+                
+                reverb = new Tone.Freeverb();
+                reverb.roomSize.value = getConf('reverb');
+                sampler.chain(reverb).toDestination();
+                sampler.triggerAttackRelease(pitches, getConf('tempo'));
+               // sampler.dispose();
+    
+            }
+    
+            sampler.volume.value = getConf('volume');
+           
+            /*synth.options.envelope.attack.value = $('#osc_attack').val();
+            synth.options.envelope.decay.value = $('#osc_decay').val();
+            synth.options.envelope.sustain.value = $('#osc_sustain').val();
+            synth.options.envelope.release.value = $('#osc_release').val();
+            */
+          
+
       
         //Update interface
         if(previousColumn != null){
@@ -97,4 +119,36 @@ function getCurrentNotes(){
     }
     
     return currentNotes;
+}
+
+function executeWhenCommandsChange(){
+    if(sampler != null) sampler.dispose()
+    
+    var samplerPath = getConf('sampler')
+    sampler  = new Tone.Sampler({
+        urls: {
+            C2: "C2.wav",
+            C3: "C3.wav",
+            C4: "C4.wav",
+            C5: "C5.wav",
+        },
+        baseUrl: "samples/"+samplerPath+"/",
+        onload: () => {
+          // 
+        }
+    });
+
+   /* 
+   sampler  = new Tone.Sampler({
+        urls: {
+            A1: "tom1.mp3",
+        },
+        //baseUrl: "https://tonejs.github.io/audio/casio/",
+        baseUrl: "https://tonejs.github.io/audio/drum-samples/Techno/",
+        onload: () => {
+          // 
+        }
+    });
+
+    */
 }

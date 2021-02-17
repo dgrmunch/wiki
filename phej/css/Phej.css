@@ -64,14 +64,13 @@ input{
     border: 0px;
     overflow: hidden;
     resize: none;
-    margin-top: 0px;
+    margin-top: 12px;
     margin-bottom: 0px;
     width: 480px !important;
-    /*! padding: 20px; */
     padding-right: 0px;
     font-size: 12px;
     outline: none;
-    height: 400px !important;
+    height: 415px !important;
 }
 
 #landmarks{

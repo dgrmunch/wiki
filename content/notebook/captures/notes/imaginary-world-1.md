@@ -83,7 +83,11 @@ This schematic description describes some of the cognitive triggers that encode 
 
 Therefore, `Vraj` is the only perceptor in `{ World-001 }`, and its mainly task is to explore the world while keeping the balance of the perceptual reality, trying to compensate the natural emergence of chaos and the dominance of `noise` over `attention`.
 
-In `{ World-001 }`, `Vraj` is a pseudo-monk with specific monastic-like vows, a devoted practitioner of `Phej`.
+In `{ World-001 }`, `Vraj` does not require any natural language for communication purposes considering that there is nobody else to communicate with. It rather uses its own personal conlang as an artistic and phenomenological investigation.
+
+`Vraj` is a pseudo-monk with specific monastic-like vows, a devoted practitioner of `Phej`, a non-dogmatic tradition oriented to the deconstruction of our default perception and the emergence of a subjective realm. 
+
+`{ World-001 }` is therefore a byproduct of `Phej` that takes place in `Vraj`'s mind, and it can only be understood and properly described by `Vraj`. This text is just a profane attempt to express it from an outsider perspective. Further descriptions of this world would be just expressed as `Vraj` wrote about them, in its own language, with its own script and philosophy.
 
 `Vraj` is in charge of keeping the `outers` out of `{ World-001 }`, focusing on controlling its awareness, keeping safe its `attention` token.
 
@@ -107,6 +111,7 @@ At the beginning of any trip to `{ World-002 }`, `Vraj` starts perceiving `tze` 
 Through practice and preserving, `Vraj` ignores the green clouds and then, eventually, the timeless perception of `tze` takes place.
 
 Darkness. Nothingness. Not being.
+
 
 
 

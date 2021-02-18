@@ -1,6 +1,7 @@
 
 //Global variables
 var context;
+var loopContent;
 var playing = false;
 var currentColumn = 0;
 var previousColumn = null;
@@ -8,7 +9,7 @@ var numCharacters = 439;
 var maxColumns = 20;
 var loop;
 var defaultSong = "";
-var defaultCommands = "plugin: midi"
+var defaultCommands = "p: midi"
 
 
 // Initialization
@@ -19,7 +20,7 @@ $('document').ready(function(){
   
     initializeGrid();
     loadProgram();
-    loadPlugin(getConf('plugin'));
+    
 
 });
 
@@ -33,11 +34,38 @@ function loadProgram(){
     if(window.location.hash.includes("#@"))         
         hash = window.location.hash.split("#@")[1];
 
-        fetch('programs/'+hash+'.phej')
+        fetch('programs/'+hash+'.md')
     .then(response => response.text())
-    .then(text =>   $('#loopContent').html(text.split('\n$\n')[0].trim()) 
-                    && $('#commands').val(text.split('\n$\n')[1])  
-                    && renderLandmarks());
+    .then(text =>   parseProgram(text));
+
+}
+
+function parseProgram(text){
+
+  var blocks = text.split("```");
+  var gridContent = "";
+  var configuration = "";
+  var landmarks = "";
+
+  for(const block of blocks){
+      if (block.includes('phej-configuration')){
+          configuration = block.replace('phej-configuration\n','');
+        } else if (block.includes('phej-grid')){
+          gridContent = block.split('phej-grid\n')[1];
+     } else if (block.includes('phej-landmarks')){
+          landmarks = block.split('phej-landmarks\n')[1];
+ }
+  }
+
+
+  $('#loopContent').html(gridContent.trim()) ;
+  $('#commands').val(configuration.trim());
+  $('#landmarks').val(landmarks.trim());
+
+  loopContent = $('#loopContent').html();
+  $('section').html($('section').html().replaceAll('-','<dark>-</dark>'))
+
+  loadPlugin(getConf('p'));
 
 }
 
@@ -55,7 +83,7 @@ function download(filename, text) {
   }
   
   // Start file download.
-  //download("loop.phej",getGridInText()+"\n$\n"+$('#commands').val());
+ // download("loop.phej",loopContent+"\n$\n"+$('#commands').val());
   
 
 function addListeners(){
@@ -65,14 +93,11 @@ function addListeners(){
         context.resume().then(() => {
             console.log('Playback resumed successfully');
           });
-        await Tone.start()
-        console.log('audio is ready')
         playStop();
 
     })
 
     $("#commands").change(function(){
-        renderLandmarks();
         executeWhenCommandsChange();
       }); 
 }
@@ -82,25 +107,10 @@ function loadPlugin(plugin){
     $.getScript( 'js/plugins/'+plugin+'.js', function( data, textStatus, jqxhr ) {
         
         midiLoop = false;
-        renderLandmarks();
         addListeners();
         executeWhenCommandsChange();
       });
 }
-
-function toLandmarks(rows){
-
-    var landmarksContent = "";
-    for(i = 0; i < 21; i++){
-        landmarksContent += rows[i % rows.length];
-        if(i < 20){
-            landmarksContent +="\n";
-        }
-    }
-
-    return landmarksContent;
-}
-
 
 function initializeGrid(){
 
@@ -109,12 +119,22 @@ function initializeGrid(){
     $('#commands').val(defaultCommands);
     
     var input = document.getElementById('loopContent');
+      
+    input.onmouseover = function(){
+      $('section').html($('section').html().replaceAll('<dark>-</dark>','-'));
+    }
 
+    input.onmouseleave = function(){
+      loopContent = $('#loopContent').html();
+      $('section').html($('section').html().replaceAll('-','<dark>-</dark>'));
+      $('section').blur();
+    }
 
 
     //Replace current character and move to the next  one
     input.onkeydown = function() {
 
+     
         var key = event.keyCode || event.charCode;
         
         if( (key > 58 || key < 47) && key != 173 && key != 109 && key != 189 && key != 37 && key != 38 && key != 39 && key != 40  ){
@@ -122,7 +142,6 @@ function initializeGrid(){
         }
         
         var s = getCaretPosition(this);
-        console.log(s);
 
         if(key != 37 && key != 38 && key != 39 && key != 40 ){//Do not allow add more characters than the fixed number
             if(s >= 440   || s == 20 
@@ -161,7 +180,7 @@ function initializeGrid(){
                 var range = document.createRange()
                 var sel = window.getSelection()
                 
-                range.setStart(el.childNodes[0], s)
+                range.setStart(el.childNodes[0], s+1) // sumo uno para ir al carácter siguiente
                 range.collapse(true)
                 
                 sel.removeAllRanges()
@@ -169,8 +188,7 @@ function initializeGrid(){
             
             return false;
         }
-
-        
+      
     }
 
 
@@ -205,39 +223,20 @@ function playStop(){
     
     if (!playing) {
 
-        Tone.Transport.start();
-        playing = true;
-
-        navigator.requestMIDIAccess()
-        .then(function(midiAccess) {
-          const outputs = midiAccess.outputs.values();
-          console.log(outputs);
-          for(const output of outputs) {
-            console.log(output);
-            midiOutput = output;
-            midiLoop = true;
-            initializeLoop();
-          }        
-        
-        });      
-
-        
+        playLoop();    
         $('#playstop').attr('style','color:white');
 
     } else {
 
-        midiLoop = false;
-        playing= false;
+        stopLoop();
         $('#playstop').attr('style','color:#2b2b2b');
-        Tone.Transport.stop();
 
     }
 }
     
 //Aux functions
 function getGrid(){
-    //TODO: Aqui pasar a texto
-   return stringChop($('#loopContent').html(),21);
+  return stringChop(loopContent,21);
 }
 
 function stringChop(str, size){
@@ -261,5 +260,16 @@ function getConf(conf){
 
 }
 
-    
+function getScale(){
+
+  var scale = [];
+  var pitches = $('#landmarks').val().split("\n");
+  
+  for (const pitch of pitches) {
+       scale.push(pitch.split(":")[0].trim());
+  }
+
+  return scale;
+
+}
 

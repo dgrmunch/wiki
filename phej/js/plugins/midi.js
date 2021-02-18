@@ -5,16 +5,9 @@ let midiOutput = null;
 let currentSequenceId = -1;
 var midiLoop = false;
 
-var playingPitches;
-const START = 41;
+var playingNotes;
 
-let intervals = [];
-
-const NOTE_ON = 0x9;
-const NOTE_OFF = 0x8;
-
-function getNoteOn(){
-  var channel = getConf('channel');
+function getNoteOn(channel){
   switch(channel){
     case "1":
       return 0x90;
@@ -38,8 +31,8 @@ function getNoteOn(){
 
 }
 
-function getNoteOff(){
-  var channel = getConf('channel');
+function getNoteOff(channel){
+
   switch(channel){
     case "1":
       return 0x80
@@ -62,38 +55,19 @@ function getNoteOff(){
   }
 }
 
-function renderLandmarks(){
-
-  var mode = getConf('mode');
-         
-  if(mode == 'hz'){
-      
-  }
-
-  if(mode == 'diatonic'){
-     $('#landmarks').val(toLandmarks(getDiatonicScale()));        
-  }
-
-  if(mode == 'chromatic'){
-      $('#landmarks').val(toLandmarks(getChromaticScale()));
-  }
-
-}
-
-
 function playNote() {
 
   if(!midiLoop) return 0;
  
-  pitches = getPitches(); 
+  var notes = getNotes(); 
 
-  for(const pitch of pitches){
-
-    console.log(getNoteOn());
-  midiOutput.send([getNoteOn(), pitch, 0x7f]);
-  console.log(getNoteOn()+" {"+ pitch+ '} 0x7f');  // note on, note pitch, full velocity
+  for(const note of notes){
+    console.log(note);
+  midiOutput.send([getNoteOn(note.channel), note.pitch, 0x7f]);
+  console.log("|ON|Ch"+note.channel+"| <"+getNoteOn(note.channel)+", "+ note.pitch+ ', 0x7f>');  // note on, note pitch, full velocity
  
   }
+
 
       //Update interface
       if(previousColumn != null){
@@ -102,22 +76,26 @@ function playNote() {
     
     $('#col'+currentColumn).attr('style','background-color:white');
 
-    playingPitches = pitches;
-  setTimeout(stopNote, getConf('note_duration'));
 
+    playingNotes = notes;
+  setTimeout(stopNote, getNoteDuration());
 
-   //Update column trackers
-   previousColumn = currentColumn;
-   currentColumn = (currentColumn + 1) % maxColumns;
+    //Update column trackers
+    previousColumn = currentColumn;
+    currentColumn = (currentColumn + 1) % maxColumns;
 
-   setTimeout(playNote, getConf('tempo'));
+   setTimeout(playNote, getConf('t'));
+}
+
+function getNoteDuration(){
+  getConf('n'); //TODO: make it compatible with cell duration
 }
 
 function stopNote(){
-  for(const pitch of playingPitches){
+  for(const note of playingNotes){
 
-    midiOutput.send([getNoteOff(), pitch, 0x7f]);
-    console.log(getNoteOff()+" {"+ pitch + '} 0x7f');
+    midiOutput.send([getNoteOff(note.channel), note.pitch, 0x7f]);
+    console.log("|OFF|Ch"+note.channel+"| <"+getNoteOff(note.channel)+", "+ note.pitch + ', 0x7f>');
   
   }
 
@@ -125,57 +103,35 @@ function stopNote(){
 }
 
 
-function getPitches(){
+function getNotes(){
  
-  var mode = getConf('mode');
-      var notes = getCurrentNotes();
-      var pitches = [];
+  var dialect = getConf('d');
+      var cells = getCurrentCells();
+      var notes = [];
 
-      for (const note of notes) {
+      for (const cell of cells) {
           
-          var pitch = note.split('_')[0];
-          var mod = note.split('_')[1];
-         
-          if(mode == 'hz'){
-              synth.triggerAttackRelease(pitch, mod+"n");
-          }
-          if(mode == 'diatonic'){
-              var diatonicScale = getDiatonicScale();
-              var pitch = toMidiNumber(diatonicScale[pitch%diatonicScale.length])+(12*mod);
-            
-          }
-          if(mode == 'chromatic'){
-              var diatonicScale = getChromaticScale();
-              var pitch = diatonicScale[pitch%diatonicScale.length]+(12*mod);
+          var note = {}
+          var y = cell.split('_')[0];
+          var mod = cell.split('_')[1];
+
+          var cellConfig = getConf('c');
+
+          if(cellConfig == 'v'){
+            note.velocity = mod;
+            //note.channel = getConf('ch');
+          } else if (cellConfig == 'channel'){
+            note.channel = mod;
+            note.velocity = getConf('v');;
           }
 
-          pitches.push(pitch);
+          scale = getScale();
+          note.pitch = scale[y];
+
+          notes.push(note);
       }
 
-      console.log("Pitches:");
-      console.log(pitches);
-
-      return pitches;
-}
-
-function toMidiNumber(letter){
-
-  switch(letter){
-    case 'C': return 0; break;
-    case 'C#': return 1; break;
-    case 'D': return 2; break;
-    case 'D#': return 3; break;
-    case 'E': return 4; break;
-    case 'F': return 5; break;
-    case 'F#': return 6; break;
-    case 'G': return 7; break;
-    case 'G#': return 8; break;
-    case 'A': return 9; break;
-    case 'A#': return 10; break;
-    case 'B': return 11; break;
-
-  }
-
+      return notes;
 }
 
 function initializeLoop(){
@@ -184,31 +140,46 @@ function initializeLoop(){
 
 }
 
-function getDiatonicScale(){
-  return ['C','D','E','F','G','A','B']
-}
-
-function getChromaticScale(){
-  return ['C','C#','D','D#','E','F','F#','G','G#','A','A#','B'];
-}
-
-
-function getCurrentNotes(){
+function getCurrentCells(){
 
   var rows = getGrid();
-  var currentNotes = [];
+  var currentCells = [];
   
   for(var i = 0; i < rows.length; i++){
       if(rows[i][currentColumn] != '-'){
-          currentNotes.push((i)+"_"+rows[i][currentColumn]);
+        currentCells.push((i)+"_"+rows[i][currentColumn]);
       }
 
   }
   
-  return currentNotes;
+  return currentCells;
 }
 
 function executeWhenCommandsChange(){
   
+}
+
+
+function playLoop(){
+  navigator.requestMIDIAccess()
+        .then(function(midiAccess) {
+          const outputs = midiAccess.outputs.values();
+          console.log(outputs);
+           for(const output of outputs){ 
+          midiOutput = output;
+          break;
+           }   
+
+           console.log(midiOutput);
+           midiLoop = true;
+           playing = true;
+           initializeLoop();         
+        });  
+}
+
+
+function stopLoop(){
+  midiLoop = false;
+  playing= false;
 }
 

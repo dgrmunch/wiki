@@ -12,7 +12,7 @@ http-server
 
 ```
 npm install -g nativefier
-nativefier https://wiki.xmunch.com/phej
+nativefier --hide-window-frame --width 700 --width 600 https://wiki.xmunch.com/phej
 ```
 
 # Extend
@@ -32,11 +32,6 @@ http://<server:port>/#@<program_file_name>
 
 Some programs are included by default: `http://localhost:8080/#@001`
 
-
-# Add your own samples
-
-You can download more samples or create your own. Then you can save them in the `samples`. Remember to use their name without the extension to load them directly in `Phej`.
-
-The samples used in the project have been downloaded from the Tone.js Github repo and https://samplefocus.com
+ phej://wiki.xmunch.com/phej/#@001
 
 

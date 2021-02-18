@@ -15,7 +15,7 @@ body{
 
 .synth {
     display: inline-block;
-    position: absolute;
+    position: left;
     margin: auto;
     top: 0;
     right: 0;
@@ -82,7 +82,7 @@ input{
     margin-right: 0px;
     margin-top: 0px;
     margin-bottom: 0px;
-    width: 20px;
+    width: 60px;
     padding: 20px;
     padding-right: 0px;
     font-size: 12px;
@@ -110,7 +110,7 @@ input{
 
 .sequencer {
     background-color: black;
-    margin-left: 39px;
+    margin-left: 89px;
     margin-bottom: 0px;
     position: absolute;
     float: right;
@@ -127,4 +127,8 @@ span {
     border: 1px solid #1d1d1d;
     margin: 8.15px;
     margin-top: 0px;
+}
+
+dark{
+    color: #4c4c4c;
 }

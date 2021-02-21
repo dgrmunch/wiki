@@ -1,28 +1,5 @@
-# Food Notes
-
-## Basic Shopping List:
-
-## Veggies
-
-  * Zucchini 
-  * Carrot
-  * Potato
-  * Radish
-  * Spinach
-
-## Nuts
-
-  * Almonds
-  * Walnuts
-
-## Fruits
-
-  * Apple
-  * Banana
-
-
-## Cereals
-
-  * Oat
-
-
+# Food Week
+|     |  Monday| Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday
+|-----|---     |---      |---        |---       |---     |---       |---
+|Lunch|Red cabbage <br> Raisins <br> Plums <br> Almond powder <br> Whole wheat bread | Carrots, broccoli & cauliflower <br> Boiled egg  <br> Quinoa<br> Whole wheat bread | **Indonesian Chana** <br>Chickpeas <br> Tofu <br> Peanut butter sauce <br> Curry |Red beans <br> Tomato <br> Tofu <br> Brown Rice| Macaroni <br> Tomato <br> Onion <br> Texturized Soy| Sweet pies <br> Edamame <br> Cheese & onion omelet| **Daal**: <br> Lentils <br> Curry <br> Onion <br> Paneer|
+|Dinner| Grilled Chicken <br> Sweet Potatoes  | Hake <br> Baked Tomato  <br>Avocado | **Quiche:** <br>Spinach <br>Onion or leak <br>1 Egg <br> Cheese <br>Chicken <br> Corn | Salmon <br> Potatoes | **Pizza:** <br>Tomato <br>Mozzarella <br>Eggplant <br>Oregan | Empanada <br> **Salad:** <br>Lettuce <br>Cucumber<br>Tomato| **Udon** <br> Noodles <br> Tofu <br> Chicken Broth <br> Leak <br> Spices <br> Tomato|

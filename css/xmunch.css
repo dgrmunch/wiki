@@ -318,7 +318,8 @@ table {
 
 .table-bordered > thead > tr > th, .table-bordered > tbody > tr > th, .table-bordered > tfoot > tr > th, .table-bordered > thead > tr > td, .table-bordered > tbody > tr > td, .table-bordered > tfoot > tr > td {
     border: 1px solid black;
-    text-align: justify;
+    text-align: left;
+    font-size: 12px;
 }
 
 .table-bordered a{

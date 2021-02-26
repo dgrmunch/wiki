@@ -3,7 +3,7 @@
 
  * **[Imaginary worlds](../content/notebook/captures/notes/imaginary-world-1.md)**
 
-  * Tags:  <a class="tag" href="#!tags/imaginary-world.md">imaginary-world</a>  <a class="tag" href="#!tags/fiction.md">fiction</a>  <a class="tag" href="#!tags/philosophy.md">philosophy</a>  <a class="tag" href="#!tags/mind.md">mind</a>
+  * Tags:  <a class="tag" href="#!tags/imaginary-world.md">imaginary-world</a>  <a class="tag" href="#!tags/fiction.md">fiction</a>  <a class="tag" href="#!tags/art.md">art</a>  <a class="tag" href="#!tags/philosophy.md">philosophy</a>  <a class="tag" href="#!tags/mind.md">mind</a>
  * **[Wormhole](../content/projects/photography/wormhole.md)**
 
   * Tags:  <a class="tag" href="#!tags/photography.md">photography</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/philosophy.md">philosophy</a>  <a class="tag" href="#!tags/rhizome.md">rhizome</a>  <a class="tag" href="#!tags/koans.md">koans</a>  <a class="tag" href="#!tags/projects.md">projects</a>  <a class="tag" href="#!tags/art.md">art</a>

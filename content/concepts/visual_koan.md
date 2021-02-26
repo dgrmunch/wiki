@@ -5,7 +5,7 @@ tags: academic, mind, epistemology, visual, map, cognitive science, arts, zen, s
 
 ## What is a koan?
 
-In _Japanese culture_, specifically in the _zen_ philosophy (a Japanese adaptation of the _chan_ school), the _koan_ is kind of a question whose answer can not be found through logic thought.
+In the *Rinzai* school of _zen_, a _koan_ is a question whose answer can not be found through logic thought, or a dialog that does not make sense form a rational standpoint. 
 
 There is not an equivalent in any western philosophical theory, neither in the so-called continental philosophy nor between the analytical philosophy authors.
 

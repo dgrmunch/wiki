@@ -112,6 +112,42 @@ function loadPlugin(plugin){
       });
 }
 
+function removeGridStyles(){
+  $('section').html($('section').html()
+                                        .replaceAll('<dark>-</dark>','-')
+                                        .replaceAll('<cell-value-1>1</cell-value-1>','1')
+                                        .replaceAll('<cell-value-2>2</cell-value-2>','2')
+                                        .replaceAll('<cell-value-3>3</cell-value-3>','3')
+                                        .replaceAll('<cell-value-4>4</cell-value-4>','4')
+                                        .replaceAll('<cell-value-5>5</cell-value-5>','5')
+                                        .replaceAll('<cell-value-6>6</cell-value-6>','6')
+                                        .replaceAll('<cell-value-7>7</cell-value-7>','7')
+                                        .replaceAll('<cell-value-8>8</cell-value-8>','8')
+                                        .replaceAll('<cell-value-9>9</cell-value-9>','9')
+                                        .replaceAll('<cell-value-0>0</cell-value-0>','0')
+  
+  
+  );
+}
+
+
+function addGridStyles(){
+  $('section').html($('section').html()
+                                    .replaceAll('-','<dark>-</dark>')                                    
+                                    .replaceAll('1','<cell-value-1>1</cell-value-1>')
+                                    .replaceAll('2','<cell-value-2>2</cell-value-2>')
+                                    .replaceAll('3','<cell-value-3>3</cell-value-3>')
+                                    .replaceAll('4','<cell-value-4>4</cell-value-4>')
+                                    .replaceAll('5','<cell-value-5>5</cell-value-5>')
+                                    .replaceAll('6','<cell-value-6>6</cell-value-6>')
+                                    .replaceAll('7','<cell-value-7>7</cell-value-7>')
+                                    .replaceAll('8','<cell-value-8>8</cell-value-8>')
+                                    .replaceAll('9','<cell-value-9>9</cell-value-9>')
+                                    .replaceAll('0','<cell-value-0>0</cell-value-0>')
+  );
+  $('section').blur();
+}
+
 function initializeGrid(){
 
     // Load default song
@@ -121,13 +157,12 @@ function initializeGrid(){
     var input = document.getElementById('loopContent');
       
     input.onmouseover = function(){
-      $('section').html($('section').html().replaceAll('<dark>-</dark>','-'));
+      removeGridStyles();
     }
 
     input.onmouseleave = function(){
       loopContent = $('#loopContent').html();
-      $('section').html($('section').html().replaceAll('-','<dark>-</dark>'));
-      $('section').blur();
+      addGridStyles();
     }
 
 

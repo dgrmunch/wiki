@@ -132,3 +132,52 @@ span {
 dark{
     color: #4c4c4c;
 }
+
+cell-value-1 {
+    color: lightgreen;
+}
+
+
+cell-value-2 {
+    color: rgb(92, 128, 92);
+}
+
+
+cell-value-3 {
+    color: rgb(40, 107, 40);
+}
+
+
+cell-value-4 {
+    color: rgb(14, 110, 94);
+}
+
+
+cell-value-5 {
+    color: rgb(116, 133, 84);
+}
+
+
+cell-value-6 {
+    color: rgb(81, 97, 72);
+}
+
+
+cell-value-7 {
+    color: rgb(62, 134, 107);
+}
+
+
+cell-value-8 {
+    color: rgb(109, 214, 153);
+}
+
+
+cell-value-9 {
+    color: rgb(16, 138, 16);
+}
+
+
+cell-value-0 {
+    color: white;
+}

@@ -1,6 +1,12 @@
 
 # tag: art
 
+ * **[Imaginary worlds](../content/notebook/captures/notes/imaginary-world-1.md)**
+
+  * Tags:  <a class="tag" href="#!tags/imaginary-world.md">imaginary-world</a>  <a class="tag" href="#!tags/fiction.md">fiction</a>  <a class="tag" href="#!tags/art.md">art</a>  <a class="tag" href="#!tags/philosophy.md">philosophy</a>  <a class="tag" href="#!tags/mind.md">mind</a>
+ * **[Indian Raga](../content/notebook/captures/notes/music-notes.md)**
+
+  * Tags:  <a class="tag" href="#!tags/music.md">music</a>  <a class="tag" href="#!tags/art.md">art</a>  <a class="tag" href="#!tags/scales.md">scales</a>
  * **[Wormhole](../content/projects/photography/wormhole.md)**
 
   * Tags:  <a class="tag" href="#!tags/photography.md">photography</a>  <a class="tag" href="#!tags/phenomenology.md">phenomenology</a>  <a class="tag" href="#!tags/philosophy.md">philosophy</a>  <a class="tag" href="#!tags/rhizome.md">rhizome</a>  <a class="tag" href="#!tags/koans.md">koans</a>  <a class="tag" href="#!tags/projects.md">projects</a>  <a class="tag" href="#!tags/art.md">art</a>
@@ -22,9 +28,6 @@
  * **[Characters](../content/projects/photography/characters.md)**
 
   * Tags:  <a class="tag" href="#!tags/photography.md">photography</a>  <a class="tag" href="#!tags/search.md">search</a>  <a class="tag" href="#!tags/pathways.md">pathways</a>  <a class="tag" href="#!tags/maps.md">maps</a>  <a class="tag" href="#!tags/identity.md">identity</a>  <a class="tag" href="#!tags/philosophy.md">philosophy</a>  <a class="tag" href="#!tags/characters.md">characters</a>  <a class="tag" href="#!tags/koans.md">koans</a>  <a class="tag" href="#!tags/projects.md">projects</a>  <a class="tag" href="#!tags/art.md">art</a>
- * **[Indian Raga](../content/notebook/captures/notes/music-notes.md)**
-
-  * Tags:  <a class="tag" href="#!tags/music.md">music</a>  <a class="tag" href="#!tags/art.md">art</a>  <a class="tag" href="#!tags/scales.md">scales</a>
  * **[Photography](../content/projects/photography.md)**
 
   * Tags:  <a class="tag" href="#!tags/photography.md">photography</a>  <a class="tag" href="#!tags/art.md">art</a>  <a class="tag" href="#!tags/projects.md">projects</a>  <a class="tag" href="#!tags/sciart.md">sciart</a>

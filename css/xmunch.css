@@ -280,7 +280,8 @@ h3:before, h1:before, h2:before {content: "▼  ";}
 pre code {
     background-color:black !important;
     border: 0;
-    color: white;
+    color: #cfe8aa;
+    font-size: 10px;
 }
 
 pre {

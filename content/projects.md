@@ -9,7 +9,7 @@ To see my professional projects in **IT** as **Software Engineer** (under differ
 
 ## Research and Development 
 
-Most of my recent research, as well as my Open Source coding projects, can be found in the [projects section](http://wiki.sciartlab.com/#!projects.md) of the [SciArt Lab](http://sciartlab.com) website.
+Most of my recent research, as well as my Open Source coding projects, can be found in the [projects section](http://www.sciartlab.com/content/#!projects.md) of the [SciArt Lab](http://sciartlab.com) website.
 
 In addition to the SciArt Lab, to check my experience as a **Researcher** in different universities or labs, visit also my [LinkedIn account](http://es.linkedin.com/in/xmunch/en). 
 

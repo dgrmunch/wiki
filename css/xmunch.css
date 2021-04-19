@@ -269,12 +269,12 @@ h3:before, h1:before, h2:before {content: "▼  ";}
 }
 
 .img-thumbnail {
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 0px;
+    /*! margin-bottom: 20px; */
     /*! max-width: 70% !important; */
-    border: 1px solid #171717;
-    border-top: 10px solid #131313;
-    border-bottom: 10px solid #111010;
+    border: 1px solid #262626;
+    border-top: 0.5px solid #262626;
+    border-bottom: 0.5px solid #252525;
 }
 
 pre code {

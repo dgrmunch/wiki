@@ -1,6 +1,12 @@
 
 # tag: notes
 
+ * **[P2P Schools Resources](../content/notebook/captures/notes/p2p-schools-resources.md)**
+
+  * Tags:  <a class="tag" href="#!tags/methodology.md">methodology</a>  <a class="tag" href="#!tags/research.md">research</a>  <a class="tag" href="#!tags/situated.md">situated</a>  <a class="tag" href="#!tags/embodied.md">embodied</a>  <a class="tag" href="#!tags/education.md">education</a>  <a class="tag" href="#!tags/emergence.md">emergence</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/p2p.md">p2p</a>  <a class="tag" href="#!tags/sciart.md">sciart</a>  <a class="tag" href="#!tags/lab.md">lab</a>
+ * **[P2P Schools Framework](../content/notebook/captures/notes/p2p-schools-notes.md)**
+
+  * Tags:  <a class="tag" href="#!tags/methodology.md">methodology</a>  <a class="tag" href="#!tags/research.md">research</a>  <a class="tag" href="#!tags/situated.md">situated</a>  <a class="tag" href="#!tags/embodied.md">embodied</a>  <a class="tag" href="#!tags/education.md">education</a>  <a class="tag" href="#!tags/emergence.md">emergence</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/p2p.md">p2p</a>  <a class="tag" href="#!tags/sciart.md">sciart</a>  <a class="tag" href="#!tags/lab.md">lab</a>
  * **[Mark Poster bibliography](../content/notebook/captures/notes/uoft-note-mark-bibliography.md)**
 
   * Tags:  <a class="tag" href="#!tags/critical theory.md">critical theory</a>  <a class="tag" href="#!tags/phd.md">phd</a>  <a class="tag" href="#!tags/bibliography.md">bibliography</a>  <a class="tag" href="#!tags/poststructuralism.md">poststructuralism</a>  <a class="tag" href="#!tags/existencialsm.md">existencialsm</a>  <a class="tag" href="#!tags/postmodern.md">postmodern</a>  <a class="tag" href="#!tags/social implications of technology.md">social implications of technology</a>  <a class="tag" href="#!tags/hypertext.md">hypertext</a>  <a class="tag" href="#!tags/uoft-notes.md">uoft-notes</a>  <a class="tag" href="#!tags/notes.md">notes</a>  <a class="tag" href="#!tags/authors.md">authors</a>  <a class="tag" href="#!tags/scholars.md">scholars</a>

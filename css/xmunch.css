@@ -346,7 +346,10 @@ h3, .h3 {
     border: 1px solid #49533a;
     background-color: black !important;
     color: lightgreen !important;
-    margin: 30px;
+    padding-bottom: 0px;
+    margin-bottom: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 body{

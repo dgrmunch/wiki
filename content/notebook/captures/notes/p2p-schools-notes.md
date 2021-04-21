@@ -32,7 +32,7 @@ The **P2P School** model is still in an open exploration phase, still far away f
 
 The idea is to bring the principles of the **commons-based peer-production** approach to an educational context, embracing respectful practices and concepts like self-guided education, embodied cognition and sustainability. 
 
-It is therefore a post-digital model, with physical and embodied learning, even though it can be facilitated by a technological layer of informational and communication infrastructures.
+It is therefore a post-digital model, with physical and embodied learning, although facilitated by a technological layer of informational and communication infrastructures.
 
 It is an attempt to share with others our own practices and preferences, while enabling others to do the same with theirs, assuming the heterogeneity of approaches and the importance of sharing both accumulated experience and empirical evidence as commons.
 

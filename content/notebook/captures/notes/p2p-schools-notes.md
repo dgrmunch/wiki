@@ -19,9 +19,7 @@ This and other experiences with communities worldwide helped us to understand th
 
 Eventually, our interest in education became something intimately personal. Parenthood led to a conflict with all those social constructs, traditions and systemic dynamics which were radically opposite to what cognitive neuroscience said about learning. 
 
-This was definitely a trigger to look beyond our STEAM-centered approach and, while focusing on our toddler's daily needs, start thinking about the world he would inhabit.
-
-This implied a change in our approach to parenting, but also to education in general. 
+This was definitely a trigger to look beyond our STEAM-centered approach and start thinking about something bigger.
 
 An alternative way of doing things, informed by scientific evidence but also compatible with our values, could be possible. And the knowledge accumulated during previous research in *peer-to-peer* (P2P) social dynamics and *commons-based peer production* could be a good starting point to draft a new model.
 

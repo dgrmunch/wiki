@@ -103,12 +103,6 @@ In all cases the **P2P Schools** framework should provide value to families' nee
 * **Schoolers**: as a complementary tool for self-directed after-class experiences when unschooling is not a possibility.
 
 
-## Future improvements
-
-* The framework could be eventually forked and extended to operate with off-grid nodes, in order to be fully functional in communities without internet connection.
-  * Coordination and exchanges mechanism could be accomplished though a *P2P School Ambassadors* program, enabling interactions between communities in an off-the-grid way.
-
-
 ## Brainstorming: ideas open for discussion
 
 ### Framework

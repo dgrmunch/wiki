@@ -2,9 +2,6 @@
 
 tags: methodology, research, situated, embodied, education, emergence, notes, p2p, sciart, lab, p2p-school
 
-experiencial learning / discussions / interaction with the environment / interdisciplinary learning
-
-
 **Attention!** **This is just a draft!** <br> <br>
  The final text will be eventually published with a DOI in [Figshare](https://figshare.com/) or as a preprint in [SocArXiv](https://osf.io/preprints/socarxiv/). As a work in progress, it can be used as a starting point for a discussion, and as material for future papers or projects. Email us to **contact (at) sciartlab.com** if you want to be part of the conversation. This is a work in progress and we are pretty much open to suggestions.
 
@@ -18,13 +15,17 @@ Years before our research career and before the foundation of the **SciArt Lab**
 
 Some years afterwards, during the collaboration with *Reading Connections*, an American nonprofit organization, we could also learn about social dynamics and population clusters such as the ones of immigrants and refugees in the United States. By assisting Program Coordinators, we had the opportunity to research and develop new ways to conduct students from different backgrounds.
 
-This and other experiences with communities from Africa, Latin America, Europe and North America helped us to understand the need of models which could be compatible with other ways of living and adaptable to different cultural contexts.
+This and other experiences with communities worldwide helped us to understand the need of models which could be compatible with other ways of living and adaptable to different cultural contexts.
 
-Eventually, our interest in education became something intimately personal. Parenthood and the conflicts with a system which would not fullfil the needs of our kid, were definitely the trigger to look beyond our STEAM-centered approach and focus on our toddler daily needs and the future of his education.
+Eventually, our interest in education became something intimately personal. Parenthood led to a conflict with all those social constructs, traditions and systemic dynamics which were radically opposite to what cognitive neuroscience said about learning. 
 
-This implied a change in our approach to parenting, but also to education in general, leading to our current research, focused on the exploration of an alternative way of doing things, informed by scientific evidence but also by our values and the knowledge accumulated during previous research in *peer-to-peer* (P2P) social dynamics and *commons-based peer production*.
+This was definitely a trigger to look beyond our STEAM-centered approach and, while focusing on our toddler's daily needs, start thinking about the world he would inhabit.
 
-Though the idea of the **P2P School** model begun as a quest for possible answers to our personal problem as parents, this led us to look for a solution extendable to other people willing to experiment with different models of learning.
+This implied a change in our approach to parenting, but also to education in general. 
+
+An alternative way of doing things, informed by scientific evidence but also compatible with our values, could be possible. And the knowledge accumulated during previous research in *peer-to-peer* (P2P) social dynamics and *commons-based peer production* could be a good starting point to draft a new model.
+
+Although the idea begun as a quest for possible answers to our personal problem as parents, this led us to look for a solution extendable to other people: the **P2P School** model.
 
 
 ## Objective  
@@ -107,7 +108,9 @@ In all cases the **P2P Schools** framework should provide value to families' nee
 
 * **Schoolers**: as a complementary tool for self-directed after-class experiences when unschooling is not a possibility.
 
-## Brainstorming: ideas open for discussion
+## Brainstorming
+
+* *Work in progress:* ideas open for discussion.
 
 ### Framework
 

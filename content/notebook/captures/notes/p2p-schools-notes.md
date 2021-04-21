@@ -42,9 +42,9 @@ This network could have different kinds of nodes:
 
   * **Family-managed P2P School:** a family or group of families in which both parent/s and kid/s are part of the maintenance of their own P2P School, sharing time, practices, materials, locations, knowledge, resources, and activities.
   
-  * **Collective-managed P2P School:** an institution or collective (museum,  hacker space, charity, neighborhood association, activism collective, research institution, library...) can manage its own P2P School, providing experiences or resources to other participants in their communities and the network, co-creating a pool of value.
+  * **Collective-managed P2P School:** an institution or collective (museum,  hacker space, charity, neighborhood association, university, activist collective, research institution, library...) can manage its own P2P School, providing experiences or resources to other participants in their communities, and co-creating a pool of value in the network.
 
-  * **Professional-managed P2P School:** a group of professional teachers, researchers or educators who are willing to participate in the emergence of a new paradigm, under a profitable school model while creating common value for the network.
+  * **Professional-managed P2P School:** or groups of professional teachers, researchers or educators who are willing to participate in the emergence of a new paradigm, under a profitable school model while creating common value for the network. This category can include pilot projects within already existing schools willing to join forces and participate.
 
   [...]
 

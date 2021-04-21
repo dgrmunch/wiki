@@ -342,6 +342,12 @@ h3, .h3 {
     color: #c2c87a;
 }
 
+.alert-warning a{
+    color: #e2e2e2 !important;    
+    text-decoration: none !important;
+    font-weight: bold;
+}
+
 .alert {
     border: 1px solid #49533a;
     background-color: black !important;

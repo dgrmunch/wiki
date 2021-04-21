@@ -21,7 +21,7 @@ Eventually, our interest in education became something intimately personal. Pare
 
 This was definitely a trigger to look beyond our STEAM-centered approach and start thinking about something bigger.
 
-An alternative way of doing things, informed by scientific evidence but also compatible with our values, could be possible. And the knowledge accumulated during previous research in *peer-to-peer* (P2P) social dynamics and *commons-based peer production* could be a good starting point to draft a new model.
+An alternative way of doing things, informed by scientific evidence but also compatible with our values, could be possible. And the knowledge accumulated during previous research in *peer-to-peer* (P2P) social dynamics and *commons-based peer production* could be a good starting point.
 
 Although the idea begun as a quest for possible answers to our personal problem as parents, this led us to look for a solution extendable to other people: the **P2P School** model.
 

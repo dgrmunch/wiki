@@ -94,9 +94,9 @@ Our initial target are families and communities that have access to traditional 
 
 * Families who are forced to *school* their kids but want to offer them an opportunity to learn after-class in a different way through participatory workshops, DIY commons production, etc... but don't have access to maker spaces / hacker spaces / fablabs. 
 
-* Communities which, due to geographical circumstances or social problems, don't have access to a school system (ie. refugee camps) but that can be connected to the network through a **Collective-managed P2P School**.
+Additionally, the model may include communities which, due to geographical circumstances or social problems, don't have access to a school system (ie. refugee camps) but that can be connected to the network through a **Collective-managed P2P School**.
 
-In both cases the **P2P Schools** framework should provide value to families' needs, both in the case of:
+In all cases the **P2P Schools** framework should provide value to families' needs, both in the case of:
 
 * **Unschoolers**: during the time span in which this practice is not illegal (ages vary depending on the country) or in which they don't have access to other models of education.
 

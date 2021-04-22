@@ -98,11 +98,8 @@ You can read more about me in these links:
 
 * Linkedin: https://www.linkedin.com/in/xmunch/en
 * SciArt Lab: http://www.sciartlab.com
-* Github profile: https://github.com/dgrmunch
-* Personal website: http://me.xmunch.com
-* Personal wiki: http://wiki.xmunch.com
-* Personal blog: http://blog.xmunch.com
-* Instagram: https://www.instagram.com/xmunch
+* Github profile: https://github.com/dgrmunch 
 * P2P Foundation Wiki: http://p2pfoundation.net/Diego_Gonzalez
-* Flickr: https://www.flickr.com/photos/xmunch
-
+* Wiki: http://wiki.xmunch.com
+* Blog: http://blog.xmunch.com
+* Photography: http://photography.xmunch.com

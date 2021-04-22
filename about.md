@@ -13,9 +13,11 @@ tags: identity, tech, phd, software engineer, research, curriculum, sciart
   * Founder of SciArt Lab
   * Software Engineer at Docuten
 * **General labels**:
-  * Full-time dad
-  * Software engineer
-  * Researcher
+  * Full-time Dad
+  * Software Engineer
+  * Multidisciplinary Researcher
+  * Social Entrepreneur
+  * Lifelong Learner
 * **Education:**
   * **Postdoctoral Researcher**, LIS Department, University of North Carolina (UNCG), 2016-2018
   * **Doctor of Philosophy (PhD)**, Information Science, Cum Laude, Universidad Carlos III de Madrid (UC3M), 2013-2015

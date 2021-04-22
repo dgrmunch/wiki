@@ -11,13 +11,11 @@ tags: identity, tech, phd, software engineer, research, curriculum, sciart
   * [![](https://www.xmunch.com/email.png)](https://www.xmunch.com)
 * **Current work status:**
   * Founder of SciArt Lab
-  * Software Engineer & Blockchain Expert at Docuten
+  * Software Engineer at Docuten
 * **General labels**:
   * Full-time dad
   * Software engineer
-  * Part-time researcher/writer
-  * Experimental photographer
-  * Decentralization advocate
+  * Researcher
 * **Education:**
   * **Postdoctoral Researcher**, LIS Department, University of North Carolina (UNCG), 2016-2018
   * **Doctor of Philosophy (PhD)**, Information Science, Cum Laude, Universidad Carlos III de Madrid (UC3M), 2013-2015
@@ -28,34 +26,37 @@ tags: identity, tech, phd, software engineer, research, curriculum, sciart
   * **Computer Systems Engineering (BsC)**, Universidad de Castilla la Mancha (UCLM), 2005-2009.
 * **Interests:**
   * Decentralization
+  * Commons-based peer production
+  * Education
   * Cognitive Science
-  * Photography
-  * Digital Art
-  * Software Development
   * Phenomenology and Philosophy of Mind
   * Complexity Sciences
   * Ethnography
   * Self-organization
+  * Sustainability 
+  * Transition economy
+  * Photography & Digital Art
+  * Software Development
 
 ## Summary
 
-I consider myself a multidisciplinary researcher, a mind hacker, a visual explorer and a nomad.
+To mention some of the labels which summarize my identity, I am a father, a partner, a multidisciplinary researcher, a software engineer, a social entrepreneur and a lifelong learner.
 
-I have been living for some years in Greensboro (North Carolina, USA), leading the **SciArt Lab** while working remotely as Software Engineer at *Docuten*, developing software such as cryptographic solutions with digital signatures. I currently hold the position of *Blockchain Expert* at **Docuten**.
+After some years living between America and Europe as a digital nomad, I consider myself a fully remote professional.
 
-I have a wide background as a researcher. I’ve been Research Fellow at the **P2P Lab**, a spin-off of **Tallin University of Technology** and the **P2P Foundation**. I have collaborated with research groups such as the **Global Brain Institute of the Free University of Brussels**, the **Critical Making Lab at the University of Toronto** and the **University of North Carolina at Greensboro** in diverse topics such as Artificial Intelligence, Complex Adaptive Systems, P2P dynamics, IT, Software Development, Philosophy of Information Science and the Social Implications of Technology. 
+I am the founder of the **SciArt Lab**, a Research & Development organization for the open exploration of Science, Art, and Technology with a focus on commons-based peer production and hands-on learning. 
 
-I have also worked and collaborated with different universities in Spain (*URJC, UC3M, UPM,...*) and I still continue with an open collaboration as a researcher with *Complexys: Group of Economics and Complexity* at **University of Valencia**.
+I have a wide background as a researcher. I’ve been Research Fellow at the **P2P Lab**, a spin-off of **Tallin University of Technology** and the **P2P Foundation**. I have collaborated with research groups such as the **Global Brain Institute of the Free University of Brussels**, the **Critical Making Lab at the University of Toronto** and the **University of North Carolina at Greensboro** in diverse topics such as Hands-on Learning, Critical Making, P2P dynamics, IT & Software Development, Philosophy of Information Science, Complex Adaptive Systems,Artificial Intelligence, or Social Implications of Technology. 
 
-I am the founder and coordinator of **Bitmind**, a commons-oriented startup to explore the potential of DAOs/OVNs and the evolution of social complexity in agent-based models and production communities. Bitmind had an international impact in the context of Applied Research & Open Source development around OVNs/DAOs. Since 2017 it will be a project of the P2P Foundation.
+I have also worked and collaborated with different universities in Spain (*URJC, UC3M, UPM,...*) and I still continue with an open collaboration as a researcher with *eComplex: Economics and Complexity Group * at **University of Valencia**.
 
-I am also co-founder of the **SciArt Lab**, a digital R&D laboratory for the open exploration of Science, Art and Technology. We consider that a multidisciplinary approach is crucial to hack seemingly unrelated topics such as photography, generative art, complex adaptive systems,  DIY neuroscience or artificial intelligence.
+I was founder and coordinator of **Bitmind**, a commons-oriented startup to explore the potential of DAOs/OVNs and the evolution of social complexity in agent-based models and production communities. Bitmind had an international impact in the context of Applied Research & Open Source development around OVNs/DAOs. Since 2017 it will be a project of the P2P Foundation.
 
 Additionally, I am a hobbyist photographer, a self-guided researcher/writer and a digital artist. I have other side projects and conduct some self-directed research initiatives.
 
-For years I have been exploring the evolution of social complexity in agent-based models. I have also studied diverse topics such as decentralized technologies, neuroscience, genetic algorithms, systems biology, self-organization and distributed knowledge production.
+For years I have been exploring the evolution of social complexity in agent-based models. I have also studied diverse topics such as decentralized technologies, neuroscience, genetic algorithms, systems biology, hands-on learning, self-organization and distributed knowledge production.
 
-I enjoy self-guided research, applying qualitative approaches such as visual ethnography to study diversity of identity/identities in real social agents, open source coding to bootstrap the potential of mankind, and DIY Neuroscience and a [phenomenology-based](content/concepts/phenomenology.md) approach to philosophy to dig into the nature of human experience. My current main research interests are analog photography, cognitive science, philosophy of mind, phenomenology and complex systems. 
+I enjoy self-guided research, applying qualitative approaches such as visual ethnography to study diversity of identity/identities in real social agents, open source coding to bootstrap the potential of mankind, DIY Neuroscience and a [phenomenology-based](content/concepts/phenomenology.md) approach to philosophy to dig into the nature of human experience. My current main research interests are phenomenology and alternative educational models powered P2P social dynamics.
 
 ## Pathways
 

@@ -48,17 +48,19 @@ After some years living between America and Europe as a digital nomad, I conside
 
 I am the founder of the **SciArt Lab**, a Research & Development organization for the open exploration of Science, Art, and Technology with a focus on commons-based peer production and hands-on learning. 
 
-I have a wide background as a researcher. I’ve been Research Fellow at the **P2P Lab**, a spin-off of **Tallin University of Technology** and the **P2P Foundation**. I have collaborated with research groups such as the **Global Brain Institute of the Free University of Brussels**, the **Critical Making Lab at the University of Toronto** and the **University of North Carolina at Greensboro** in diverse topics such as Hands-on Learning, Critical Making, P2P dynamics, IT & Software Development, Philosophy of Information Science, Complex Adaptive Systems,Artificial Intelligence, or Social Implications of Technology. 
+I have a wide background as a researcher. I’ve been Research Fellow at the **P2P Lab**, a spin-off of **Tallin University of Technology** and the **P2P Foundation**. I have collaborated with research groups such as the **Global Brain Institute of the Free University of Brussels**, the **Critical Making Lab at the University of Toronto** and the **University of North Carolina at Greensboro** in diverse topics such as Hands-on Learning, Critical Making, P2P dynamics, Software Development, Philosophy of Information Science, Complex Adaptive Systems,Artificial Intelligence, or Social Implications of Technology. 
 
 I have also worked and collaborated with different universities in Spain (*URJC, UC3M, UPM,...*) and I still continue with an open collaboration as a researcher with *eComplex: Economics and Complexity Group * at **University of Valencia**.
 
-I was founder and coordinator of **Bitmind**, a commons-oriented startup to explore the potential of DAOs/OVNs and the evolution of social complexity in agent-based models and production communities. Bitmind had an international impact in the context of Applied Research & Open Source development around OVNs/DAOs. Since 2017 it will be a project of the P2P Foundation.
+I have a long experience working as Software Engineer in the IT industry. I am currently working for Docuten, an enterprise which aims to reduce the carbon footprint of companies and organizations' while optimizing their administrative processes through digital signature and electronic invoicing.
+
+I was founder and coordinator of **Bitmind**, a commons-oriented startup to explore the potential of DAOs/OVNs and the evolution of social complexity in agent-based models and production communities. Bitmind had an international impact in the context of Applied Research & Open Source development around OVNs/DAOs. In 2017 the project was donated to the P2P Foundation.
 
 Additionally, I am a hobbyist photographer, a self-guided researcher/writer and a digital artist. I have other side projects and conduct some self-directed research initiatives.
 
-For years I have been exploring the evolution of social complexity in agent-based models. I have also studied diverse topics such as decentralized technologies, neuroscience, genetic algorithms, systems biology, hands-on learning, self-organization and distributed knowledge production.
+For years I have been exploring the evolution of social complexity in agent-based models and peer-learning models. I have also studied diverse topics such as decentralized technologies, neuroscience, genetic algorithms, systems biology, hands-on learning, self-organization and distributed knowledge production.
 
-I enjoy self-guided research, applying qualitative approaches such as visual ethnography to study diversity of identity/identities in real social agents, open source coding to bootstrap the potential of mankind, DIY Neuroscience and a [phenomenology-based](content/concepts/phenomenology.md) approach to philosophy to dig into the nature of human experience. My current main research interests are phenomenology and alternative educational models powered P2P social dynamics.
+I enjoy self-guided research, applying qualitative approaches such as visual ethnography to study diversity of identity/identities in real social agents, open source coding to bootstrap the potential of mankind, DIY Neuroscience and a [phenomenology-based](content/concepts/phenomenology.md) approach to philosophy to dig into the nature of human experience. My current main research interests are phenomenology and alternative educational models powered by P2P social dynamics.
 
 ## Pathways
 

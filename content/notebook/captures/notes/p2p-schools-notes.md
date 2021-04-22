@@ -15,7 +15,7 @@ Years before our research career and before the foundation of the **SciArt Lab**
 
 Some years afterwards, during the collaboration with *Reading Connections*, an American nonprofit organization, we could also learn about social dynamics and population clusters such as the ones of immigrants and refugees in the United States. By assisting Program Coordinators, we had the opportunity to research and develop new ways to conduct students from different backgrounds.
 
-This and other experiences with communities worldwide helped us to understand the need of models which could be compatible with other ways of living and adaptable to different cultural contexts.
+This and other experiences with communities worldwide helped us understand the need of models which could be compatible with other ways of living and adaptable to different cultural contexts.
 
 Eventually, our interest in education became something intimately personal. Parenthood led to a conflict with all those social constructs, traditions and systemic dynamics which were radically opposite to what cognitive neuroscience said about learning. 
 
@@ -44,25 +44,25 @@ Questioning dominant social constructs and roles of power, and recognizing a dec
 
 Enabling a heterogenous ecosystem of **P2P Schools**, self-organized by the community of learners, could be compatible with different flavours and methodologies through different kinds of nodes:
 
-  * **Family-managed P2P School:** a family or group of families in which both parent/s and kid/s are part of the maintenance of their own P2P School, sharing time, practices, materials, locations, knowledge, resources, and activities.
+  * **Family-managed P2P School:** a family or group of families in which both parent/s and kid/s are part of the maintenance of their own educational organization, sharing time, practices, materials, locations, knowledge, resources, and activities.
   
   * **Collective-managed P2P School:** an institution or collective (museum,  hacker space, charity, neighborhood association, university, activist collective, research institution, library...) can manage its own P2P School, providing experiences or resources to other participants in their communities, and co-creating a pool of value in the network.
 
-  * **Professional-managed P2P School:** a group of professional teachers, researchers or educators who are willing to participate. This category can include pilot projects within already existing schools willing to join forces, or initiatives under a profitable school model wanting to create common value for the network.
+  * **Professional-managed P2P School:** a group of professional teachers, researchers or educators who are willing to participate. This category can include pilot projects within already existing schools, or initiatives under a profitable school model wanting to create common value for the network.
 
   [...]
 
-This list is just one possibility and we have not clearly define which could be the proper nodes to consider.
+This list is just one possibility and we have not clearly define which would be the proper nodes to consider.
 
-In any case, the project should explore possible solutions to address main problems of current educational systems, and specially trying to look for alternatives to improve the financial aspect of unschooling.
+In any case, the project should explore possible solutions to address the main problems of current educational systems, and specially trying to look for alternatives to improve the financial aspect of unschooling.
 
 ### The financial problem 
 
-The so-called alternative models of education, usually not funded by governmental entities, are excluded from public educational systems and budgets.
+The so-called alternative models of education, usually not funded by governmental entities, are generally excluded from public educational systems and budgets.
 
-The attractive of those *children-centric* and *respectful* approaches, in comparison to the traditional pedagogy of public schools, with a curricula-oriented transmission model, have led to the arrival of an elitist free market of *alternative schools*.
+The attractive of those children-centric and *respectful* pedagogies, in comparison to the curricula-oriented transmission model of public schools, have led to the arrival of an elitist free market of *alternative schools*.
 
-Branded as *Pikler*, *Montessori*, *Waldorf*, etc... those schools constitute a problem of inequality. Their location in areas of high social and economic status and their high fees, only easily affordable for economic elites or the upper-middle class, constitute a bottleneck and a class filter.
+Branded as *Pikler*, *Montessori*, *Waldorf*, etc... some of those schools constitute a problem of inequality. Their location in areas of high social and economic status and their high fees, only easily affordable for economic elites or the upper-middle class, constitute a bottleneck and a class filter.
 
 Some middle-class families assume a financial effort in terms of capital-labor in order to offer to their kids the possibility of a more respectful and fulfilling education. Some other families, specially those with more than one kid, do not consider that possibility. 
 

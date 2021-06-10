@@ -11,12 +11,14 @@ tags: identity, tech, phd, software engineer, research, curriculum, sciart
   * [![](https://www.xmunch.com/email.png)](https://www.xmunch.com)
 * **Current work status:**
   * Founder of SciArt Lab
-  * Software Engineer at Docuten
+  * Blockchain Expert & Software Engineer at Docuten
 * **General labels**:
   * Full-time Dad
   * Software Engineer
   * Multidisciplinary Researcher
-  * Social Entrepreneur
+  * Digital Artist
+  * Visual Ethnographer
+  * Entrepreneur
   * Lifelong Learner
 * **Education:**
   * **Postdoctoral Researcher**, LIS Department, University of North Carolina (UNCG), 2016-2018
@@ -29,6 +31,7 @@ tags: identity, tech, phd, software engineer, research, curriculum, sciart
 * **Interests:**
   * Decentralization
   * Commons-based peer production
+  * Photography & Digital Art
   * Education
   * Cognitive Science
   * Phenomenology and Philosophy of Mind
@@ -37,7 +40,6 @@ tags: identity, tech, phd, software engineer, research, curriculum, sciart
   * Self-organization
   * Sustainability 
   * Transition economy
-  * Photography & Digital Art
   * Software Development
 
 ## Summary
@@ -46,7 +48,7 @@ To mention some of the labels which summarize my identity, I am a father, a part
 
 After some years living between America and Europe as a digital nomad, I consider myself a fully remote professional.
 
-I am the founder of the **SciArt Lab**, a Research & Development organization for the open exploration of Science, Art, and Technology with a focus on commons-based peer production and hands-on learning. 
+I am the founder of the **SciArt Lab**, a Research & Development organization for the open exploration of Science, Art, and Technology with a focus on commons-based peer production and hands-on learning. I also lead the research and development of the SciArt Lab Metaverse Campus in Decentraland.
 
 I have a wide background as a researcher. I’ve been Research Fellow at the **P2P Lab**, a spin-off of **Tallin University of Technology** and the **P2P Foundation**. I have collaborated with research groups such as the **Global Brain Institute of the Free University of Brussels**, the **Critical Making Lab at the University of Toronto** and the **University of North Carolina at Greensboro** in diverse topics such as Hands-on Learning, Critical Making, P2P dynamics, Software Development, Philosophy of Information Science, Complex Adaptive Systems,Artificial Intelligence, or Social Implications of Technology. 
 
@@ -56,7 +58,7 @@ I have a long experience working as Software Engineer in the IT industry. I am c
 
 I was founder and coordinator of **Bitmind**, a commons-oriented startup to explore the potential of DAOs/OVNs and the evolution of social complexity in agent-based models and production communities. Bitmind had an international impact in the context of Applied Research & Open Source development around OVNs/DAOs. In 2017 the project was donated to the P2P Foundation.
 
-Additionally, I am a hobbyist photographer, a self-guided researcher/writer and a digital artist. I have other side projects and conduct some self-directed research initiatives.
+Additionally, I am a hobbyist photographer, a digital artist a heterodox researcher/writer. I have other side projects and conduct some self-directed research initiatives.
 
 For years I have been exploring the evolution of social complexity in agent-based models and peer-learning models. I have also studied diverse topics such as decentralized technologies, neuroscience, genetic algorithms, systems biology, hands-on learning, self-organization and distributed knowledge production.
 
